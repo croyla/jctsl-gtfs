@@ -1,0 +1,6743 @@
+{
+  "BHAIRU KHEJDA <-> GALTA": {
+    "route_short_name": "1",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_27_04665_75_78873",
+            "stop_name": "BHAIRU KHEJDA"
+          },
+          {
+            "stop_id": "stop_27_03333_75_78484",
+            "stop_name": "TODI DEPOT"
+          },
+          {
+            "stop_id": "stop_27_02891_75_76897",
+            "stop_name": "TODI"
+          },
+          {
+            "stop_id": "stop_27_01735_75_76963",
+            "stop_name": "HARMARA"
+          },
+          {
+            "stop_id": "stop_27_01249_75_76942",
+            "stop_name": "NINDHAR MOD"
+          },
+          {
+            "stop_id": "stop_27_00583_75_77074",
+            "stop_name": "ANOKHA GAAV"
+          },
+          {
+            "stop_id": "stop_26_99722_75_77091",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_26_99303_75_77209",
+            "stop_name": "VKI NO. 12"
+          },
+          {
+            "stop_id": "stop_26_98687_75_77334",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_98230_75_77447",
+            "stop_name": "VKI NO. 8"
+          },
+          {
+            "stop_id": "stop_26_97957_75_77432",
+            "stop_name": "VKI NO. 5"
+          },
+          {
+            "stop_id": "stop_26_97062_75_77259",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_96624_75_77255",
+            "stop_name": "M. SCHOOL"
+          },
+          {
+            "stop_id": "stop_26_96074_75_77169",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_95559_75_77160",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_94603_75_77336",
+            "stop_name": "BHAWANI NIKETAN"
+          },
+          {
+            "stop_id": "stop_26_94102_75_77372",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94007_75_77725",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93941_75_78617",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_92643_75_78498",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_92009_75_78929",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92476_75_81877",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92090_75_83568",
+            "stop_name": "RAMGANJ CHOPAD"
+          },
+          {
+            "stop_id": "stop_26_91767_75_84897",
+            "stop_name": "GALTA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_91767_75_84897",
+            "stop_name": "GALTA"
+          },
+          {
+            "stop_id": "stop_26_92090_75_83568",
+            "stop_name": "RAMGANJ CHOPAD"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92476_75_81877",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_92009_75_78929",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_92643_75_78498",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94612_75_77321",
+            "stop_name": "BHAWANI NIKETAN"
+          },
+          {
+            "stop_id": "stop_26_95559_75_77160",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_96074_75_77155",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_96624_75_77225",
+            "stop_name": "M. SCHOOL"
+          },
+          {
+            "stop_id": "stop_26_97061_75_77245",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_97918_75_77386",
+            "stop_name": "VKI NO. 5"
+          },
+          {
+            "stop_id": "stop_26_98229_75_77428",
+            "stop_name": "VKI NO. 8"
+          },
+          {
+            "stop_id": "stop_26_98686_75_77323",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_99301_75_77201",
+            "stop_name": "VKI NO. 12"
+          },
+          {
+            "stop_id": "stop_26_99722_75_77077",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_27_00583_75_77074",
+            "stop_name": "ANOKHA GAAV"
+          },
+          {
+            "stop_id": "stop_27_01246_75_76931",
+            "stop_name": "NINDHAR MOD"
+          },
+          {
+            "stop_id": "stop_27_01735_75_76955",
+            "stop_name": "HARMARA"
+          },
+          {
+            "stop_id": "stop_27_02891_75_76897",
+            "stop_name": "TODI MOD"
+          },
+          {
+            "stop_id": "stop_27_03343_75_78466",
+            "stop_name": "TODI DEPOT"
+          },
+          {
+            "stop_id": "stop_27_04665_75_78873",
+            "stop_name": "BHAIRU KHEJDA"
+          }
+        ]
+      }
+    ]
+  },
+  "TRANSPORT NGR <-> VKI NO. 17": {
+    "route_short_name": "1A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_90448_75_84388",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_91326_75_83322",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_91527_75_82356",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91516_75_81691",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91379_75_80880",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91829_75_80142",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_92571_75_80761",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92411_75_80389",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_93079_75_80113",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_93285_75_79746",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93515_75_79327",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93917_75_78607",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93977_75_77739",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93995_75_77475",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94602_75_77315",
+            "stop_name": "BHAWANI NIKETAN"
+          },
+          {
+            "stop_id": "stop_26_95560_75_77143",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_96074_75_77155",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_96624_75_77225",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_97059_75_77237",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_97918_75_77386",
+            "stop_name": "VKI NO. 5"
+          },
+          {
+            "stop_id": "stop_26_98240_75_77420",
+            "stop_name": "VKI NO. 8"
+          },
+          {
+            "stop_id": "stop_26_98652_75_77312",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_98635_75_78347",
+            "stop_name": "RD 9 CANTEEN"
+          },
+          {
+            "stop_id": "stop_26_98850_75_78409",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_26_99784_75_79503",
+            "stop_name": "VKI NO. 17"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_99929_75_79507",
+            "stop_name": "VKI NO. 17"
+          },
+          {
+            "stop_id": "stop_26_99574_75_78689",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_26_98630_75_78365",
+            "stop_name": "RD 9 CANTEEN"
+          },
+          {
+            "stop_id": "stop_26_98686_75_77323",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_98315_75_77417",
+            "stop_name": "VKI NO. 8"
+          },
+          {
+            "stop_id": "stop_26_97913_75_77407",
+            "stop_name": "VKI NO. 5"
+          },
+          {
+            "stop_id": "stop_26_97062_75_77259",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_96626_75_77243",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_96076_75_77167",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_95559_75_77160",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_94668_75_77329",
+            "stop_name": "BHAWANI NIKETAN"
+          },
+          {
+            "stop_id": "stop_26_94106_75_77371",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94006_75_77732",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_94028_75_78549",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93515_75_79327",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93283_75_79785",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93034_75_80191",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_92899_75_80379",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_92567_75_80776",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_91774_75_80188",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_91626_75_81007",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91649_75_81840",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91544_75_82350",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91337_75_83335",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_90467_75_84403",
+            "stop_name": "TRANSPORT NGR"
+          }
+        ]
+      }
+    ]
+  },
+  "DWARKA PURI <-> TRANSPORT NGR": {
+    "route_short_name": "3",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_80019_75_84018",
+            "stop_name": "DWARKA PURI"
+          },
+          {
+            "stop_id": "stop_26_80685_75_83558",
+            "stop_name": "NRI"
+          },
+          {
+            "stop_id": "stop_26_80439_75_83054",
+            "stop_name": "SECTOR 16"
+          },
+          {
+            "stop_id": "stop_26_80241_75_82645",
+            "stop_name": "BHARO MANDIR"
+          },
+          {
+            "stop_id": "stop_26_79976_75_82156",
+            "stop_name": "SECTOR 11"
+          },
+          {
+            "stop_id": "stop_26_80068_75_82010",
+            "stop_name": "SECTOR 10"
+          },
+          {
+            "stop_id": "stop_26_79667_75_81406",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80384_75_80832",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80750_75_80550",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_81084_75_80294",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81557_75_79952",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_81931_75_79643",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82540_75_79450",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83714_75_79372",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_85104_75_79411",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85736_75_79517",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86629_75_79643",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87170_75_79714",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87946_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88353_75_80071",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88716_75_80258",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89165_75_80580",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89644_75_80987",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90718_75_81505",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91157_75_81578",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91491_75_81665",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91545_75_82361",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91343_75_83329",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_90445_75_84383",
+            "stop_name": "TRANSPORT NGR"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_90401_75_84402",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_91339_75_83258",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_91526_75_82341",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91488_75_81689",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91139_75_81596",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89981_75_81271",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89624_75_81001",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89145_75_80594",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88701_75_80274",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88353_75_80097",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87944_75_79911",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87172_75_79736",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86631_75_79663",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_86263_75_79616",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_84982_75_79412",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83726_75_79396",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_83577_75_79394",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_82901_75_79429",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_82540_75_79471",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_81870_75_79736",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81620_75_79931",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_80862_75_80487",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80731_75_80583",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_80374_75_80848",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_79846_75_81255",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80076_75_82003",
+            "stop_name": "SECTOR 10"
+          },
+          {
+            "stop_id": "stop_26_79976_75_82156",
+            "stop_name": "SECTOR 11"
+          },
+          {
+            "stop_id": "stop_26_80246_75_82619",
+            "stop_name": "BHARO MANDIR"
+          },
+          {
+            "stop_id": "stop_26_80441_75_83030",
+            "stop_name": "SECTOR 16"
+          },
+          {
+            "stop_id": "stop_26_80690_75_83651",
+            "stop_name": "NRI"
+          },
+          {
+            "stop_id": "stop_26_80040_75_84032",
+            "stop_name": "DWARKA PURI"
+          }
+        ]
+      }
+    ]
+  },
+  "CHOTI CHOPAR <-> SANGANER": {
+    "route_short_name": "3A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_92476_75_81877",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91139_75_81596",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89912_75_81220",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80605",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88353_75_80097",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87172_75_79736",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_85818_75_79550",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_85130_75_79451",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83819_75_79395",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_82919_75_79430",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_82552_75_79468",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_81868_75_79626",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81875_75_78341",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81575_75_78425",
+            "stop_name": "SANGANER"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_81567_75_78413",
+            "stop_name": "SANGANER"
+          },
+          {
+            "stop_id": "stop_26_81875_75_78341",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81951_75_79629",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82554_75_79446",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_82917_75_79408",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83810_75_79369",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_85104_75_79411",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_85107_75_79411",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85729_75_79513",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86574_75_79633",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87170_75_79714",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87980_75_79895",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88360_75_80074",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88777_75_80289",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89114_75_80534",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89662_75_80997",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89924_75_81196",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90718_75_81505",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91157_75_81578",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91492_75_81668",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_92466_75_81801",
+            "stop_name": "CHOTI CHOPAR"
+          }
+        ]
+      }
+    ]
+  },
+  "AIRPORT <-> KHIRNI PHATAK PULIYA": {
+    "route_short_name": "6A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_83019_75_80560",
+            "stop_name": "AIRPORT"
+          },
+          {
+            "stop_id": "stop_26_84163_75_80835",
+            "stop_name": "MALVIYA NAGAR"
+          },
+          {
+            "stop_id": "stop_26_84667_75_80950",
+            "stop_name": "SEC-10 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_84555_75_81292",
+            "stop_name": "SEC-11 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_84262_75_81530",
+            "stop_name": "SECTOR 15"
+          },
+          {
+            "stop_id": "stop_26_84686_75_81712",
+            "stop_name": "SEC-3 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_85155_75_81851",
+            "stop_name": "SECTOR 2"
+          },
+          {
+            "stop_id": "stop_26_85584_75_82014",
+            "stop_name": "KELGIRI MOD"
+          },
+          {
+            "stop_id": "stop_26_85746_75_81408",
+            "stop_name": "HARI MARG"
+          },
+          {
+            "stop_id": "stop_26_85901_75_80957",
+            "stop_name": "PRADHAN MARG"
+          },
+          {
+            "stop_id": "stop_26_86273_75_80679",
+            "stop_name": "SARAS DAIRY"
+          },
+          {
+            "stop_id": "stop_26_86560_75_80744",
+            "stop_name": "MNIT"
+          },
+          {
+            "stop_id": "stop_26_87396_75_79936",
+            "stop_name": "GANDHI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87946_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88360_75_80074",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88777_75_80289",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89105_75_80531",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91154_75_81580",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91492_75_81668",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91632_75_80989",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91676_75_80072",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_92201_75_79368",
+            "stop_name": "KHAKSHA KHOTI"
+          },
+          {
+            "stop_id": "stop_26_92679_75_79190",
+            "stop_name": "COLLECTORATE"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94304_75_75111",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94331_75_74879",
+            "stop_name": "MEDICIAL CENTRE"
+          },
+          {
+            "stop_id": "stop_26_94372_75_74658",
+            "stop_name": "BORING ROAD"
+          },
+          {
+            "stop_id": "stop_26_94430_75_74379",
+            "stop_name": "KANTA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94072_75_74320",
+            "stop_name": "RAM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_93426_75_74331",
+            "stop_name": "LAL MANDIR"
+          },
+          {
+            "stop_id": "stop_26_93278_75_73033",
+            "stop_name": "KHIRNI PHATAK PULIYA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_93278_75_73033",
+            "stop_name": "KHIRNI PHATAK PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93426_75_74331",
+            "stop_name": "LAL MANDIR"
+          },
+          {
+            "stop_id": "stop_26_94077_75_74318",
+            "stop_name": "RAM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_94434_75_74481",
+            "stop_name": "KANTA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94375_75_74708",
+            "stop_name": "BORING ROAD"
+          },
+          {
+            "stop_id": "stop_26_94340_75_74879",
+            "stop_name": "MEDICIAL CENTRE"
+          },
+          {
+            "stop_id": "stop_26_94316_75_75111",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94292_75_76240",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94049_75_77211",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94007_75_77725",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93854_75_78595",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93223_75_78491",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_92599_75_79364",
+            "stop_name": "COLLECTORATE"
+          },
+          {
+            "stop_id": "stop_26_92212_75_79381",
+            "stop_name": "KHAKSHA KHOTI"
+          },
+          {
+            "stop_id": "stop_26_91778_75_80184",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_91626_75_81007",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91488_75_81689",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81600",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90690_75_81522",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89885_75_81192",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89640_75_81006",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88356_75_80095",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87464_75_79941",
+            "stop_name": "GANDHI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86621_75_80786",
+            "stop_name": "MNIT"
+          },
+          {
+            "stop_id": "stop_26_86281_75_80696",
+            "stop_name": "SARAS DAIRY"
+          },
+          {
+            "stop_id": "stop_26_85935_75_80912",
+            "stop_name": "PRADHAN MARG"
+          },
+          {
+            "stop_id": "stop_26_85769_75_81378",
+            "stop_name": "HARI MARG"
+          },
+          {
+            "stop_id": "stop_26_85586_75_82043",
+            "stop_name": "KELGIRI MOD"
+          },
+          {
+            "stop_id": "stop_26_85152_75_81847",
+            "stop_name": "SECTOR 2"
+          },
+          {
+            "stop_id": "stop_26_84686_75_81712",
+            "stop_name": "SEC-3 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_84215_75_81422",
+            "stop_name": "SECTOR 15"
+          },
+          {
+            "stop_id": "stop_26_84554_75_81289",
+            "stop_name": "SEC-11 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_84662_75_80963",
+            "stop_name": "SEC-10 MALVIYA NGR"
+          },
+          {
+            "stop_id": "stop_26_84164_75_80838",
+            "stop_name": "MALVIYA NAGAR"
+          },
+          {
+            "stop_id": "stop_26_83019_75_80560",
+            "stop_name": "AIRPORT"
+          }
+        ]
+      }
+    ]
+  },
+  "KHIRNI PHATAK PULIYA <-> TRANSPORT NGR": {
+    "route_short_name": "7",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_93112_75_73104",
+            "stop_name": "KHIRNI PHATAK PULIYA"
+          },
+          {
+            "stop_id": "stop_26_92023_75_73055",
+            "stop_name": "PANCHAYALA PULIYA"
+          },
+          {
+            "stop_id": "stop_26_91520_75_73001",
+            "stop_name": "BAJRI MANDI PULIYA"
+          },
+          {
+            "stop_id": "stop_26_91094_75_72956",
+            "stop_name": "KARNI PLACE"
+          },
+          {
+            "stop_id": "stop_26_90563_75_72894",
+            "stop_name": "GANDHI PATH"
+          },
+          {
+            "stop_id": "stop_26_90229_75_72958",
+            "stop_name": "CHITRKOOT PULIYA"
+          },
+          {
+            "stop_id": "stop_26_89515_75_73385",
+            "stop_name": "HEERA PURA"
+          },
+          {
+            "stop_id": "stop_26_88406_75_74015",
+            "stop_name": "SUNDAR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88179_75_74177",
+            "stop_name": "NEW TP NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88000_75_74307",
+            "stop_name": "DHARAM KATA"
+          },
+          {
+            "stop_id": "stop_26_88035_75_75809",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_88069_75_76714",
+            "stop_name": "GUJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87740_75_77291",
+            "stop_name": "MAHESH NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87351_75_77682",
+            "stop_name": "SURYA NGR"
+          },
+          {
+            "stop_id": "stop_26_87230_75_77868",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_86841_75_78415",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86263_75_79585",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86574_75_79633",
+            "stop_name": "GOPAL PURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87169_75_79717",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87941_75_79887",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88352_75_80076",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88777_75_80289",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89105_75_80531",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89644_75_80987",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89900_75_81716",
+            "stop_name": "TRIMURTI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89963_75_81966",
+            "stop_name": "DHARAM SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89663_75_82707",
+            "stop_name": "RAJA PARK"
+          },
+          {
+            "stop_id": "stop_26_89919_75_83339",
+            "stop_name": "BARAF KHANA"
+          },
+          {
+            "stop_id": "stop_26_90253_75_83672",
+            "stop_name": "MANTAL HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_90637_75_84046",
+            "stop_name": "TP NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_90455_75_84430",
+            "stop_name": "TRANSPORT NGR"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_90448_75_84388",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_90630_75_84064",
+            "stop_name": "TP NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_90253_75_83672",
+            "stop_name": "MANTAL HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89915_75_83339",
+            "stop_name": "BARAF KHANA"
+          },
+          {
+            "stop_id": "stop_26_89693_75_82710",
+            "stop_name": "RAJA PARK"
+          },
+          {
+            "stop_id": "stop_26_89957_75_81885",
+            "stop_name": "DHARAM SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89899_75_81733",
+            "stop_name": "TRIMURTI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89919_75_81220",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89632_75_81002",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80605",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88721_75_80281",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88493_75_80170",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87961_75_79913",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87179_75_79738",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86636_75_79665",
+            "stop_name": "GOPAL PURA MOD"
+          },
+          {
+            "stop_id": "stop_26_86248_75_79511",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86882_75_78356",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87248_75_77794",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_87450_75_77560",
+            "stop_name": "SURYA NGR"
+          },
+          {
+            "stop_id": "stop_26_87742_75_77252",
+            "stop_name": "MAHESH NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88021_75_76526",
+            "stop_name": "GUJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87945_75_76168",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_87933_75_74363",
+            "stop_name": "DHARAM KATA"
+          },
+          {
+            "stop_id": "stop_26_88168_75_74155",
+            "stop_name": "NEW TP NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88395_75_74000",
+            "stop_name": "SUNDAR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_89526_75_73326",
+            "stop_name": "HEERA PURA"
+          },
+          {
+            "stop_id": "stop_26_90208_75_72908",
+            "stop_name": "CHITRKOOT PULIYA"
+          },
+          {
+            "stop_id": "stop_26_90587_75_72850",
+            "stop_name": "GANDHI PATH"
+          },
+          {
+            "stop_id": "stop_26_91140_75_72911",
+            "stop_name": "KARNI PLACE"
+          },
+          {
+            "stop_id": "stop_26_91524_75_72955",
+            "stop_name": "BAJRI MANDI PULIYA"
+          },
+          {
+            "stop_id": "stop_26_92017_75_72999",
+            "stop_name": "PANCHAYALA PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93211_75_73029",
+            "stop_name": "KHIRNI PHATAK PULIYA"
+          }
+        ]
+      }
+    ]
+  },
+  "AGARWAL FARM <-> DADI KA PHATAK": {
+    "route_short_name": "9A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_84136_75_77009",
+            "stop_name": "AGARWAL FARM"
+          },
+          {
+            "stop_id": "stop_26_84340_75_77758",
+            "stop_name": "VIJAY PATH"
+          },
+          {
+            "stop_id": "stop_26_83936_75_79404",
+            "stop_name": "MAHARANI FARM"
+          },
+          {
+            "stop_id": "stop_26_85108_75_79420",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85729_75_79513",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_86593_75_79636",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87939_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88360_75_80074",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89165_75_80580",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91154_75_81580",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91454_75_81656",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91379_75_80880",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91676_75_80072",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92417_75_80403",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_93079_75_80113",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_93272_75_79777",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93949_75_80134",
+            "stop_name": "PANI KI TANKI"
+          },
+          {
+            "stop_id": "stop_26_94157_75_80026",
+            "stop_name": "MOCHIYO KI CHABIL"
+          },
+          {
+            "stop_id": "stop_26_94592_75_79803",
+            "stop_name": "SHASTRI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_95435_75_79354",
+            "stop_name": "RESIDENCY SCHOOL"
+          },
+          {
+            "stop_id": "stop_26_95821_75_79104",
+            "stop_name": "VIDHYADHAR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_95984_75_78610",
+            "stop_name": "MANDIR MOD"
+          },
+          {
+            "stop_id": "stop_26_96257_75_78041",
+            "stop_name": "CROSS ROAD MOD"
+          },
+          {
+            "stop_id": "stop_26_96280_75_77993",
+            "stop_name": "VIDHYADHAR THANA"
+          },
+          {
+            "stop_id": "stop_26_96699_75_77245",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_97061_75_77245",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_97027_75_76594",
+            "stop_name": "MURLIPURA"
+          },
+          {
+            "stop_id": "stop_26_97061_75_77245",
+            "stop_name": "KEDIA PALACE"
+          },
+          {
+            "stop_id": "stop_26_96840_75_75450",
+            "stop_name": "DADI KA PHATAK"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_96840_75_75450",
+            "stop_name": "DADI KA PHATAK"
+          },
+          {
+            "stop_id": "stop_26_97029_75_76044",
+            "stop_name": "KEDIA PALACE"
+          },
+          {
+            "stop_id": "stop_26_97030_75_76472",
+            "stop_name": "MURLIPURA"
+          },
+          {
+            "stop_id": "stop_26_97094_75_77167",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_96641_75_77276",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_96306_75_77981",
+            "stop_name": "VIDHYADHAR THANA"
+          },
+          {
+            "stop_id": "stop_26_96140_75_78330",
+            "stop_name": "CROSS ROAD MOD"
+          },
+          {
+            "stop_id": "stop_26_95989_75_78640",
+            "stop_name": "MANDIR MOD"
+          },
+          {
+            "stop_id": "stop_26_95838_75_79085",
+            "stop_name": "VIDHYADHAR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_95453_75_79362",
+            "stop_name": "RESIDENCY SCHOOL"
+          },
+          {
+            "stop_id": "stop_26_94549_75_79851",
+            "stop_name": "SHASTRI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_94141_75_80050",
+            "stop_name": "MOCHIYO KI CHABIL"
+          },
+          {
+            "stop_id": "stop_26_93911_75_80230",
+            "stop_name": "PANI KI TANKI"
+          },
+          {
+            "stop_id": "stop_26_93283_75_79785",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93036_75_80185",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_92894_75_80388",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_92701_75_80812",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_91784_75_80174",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_91626_75_81007",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91499_75_81687",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81600",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90757_75_81530",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89925_75_81225",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89454_75_80853",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88721_75_80281",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88530_75_80186",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87179_75_79738",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86636_75_79665",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_85826_75_79547",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_84996_75_79413",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85230_75_78267",
+            "stop_name": "MAHARANI FARM"
+          },
+          {
+            "stop_id": "stop_26_84785_75_76995",
+            "stop_name": "VIJAY PATH"
+          },
+          {
+            "stop_id": "stop_26_84145_75_77025",
+            "stop_name": "AGARWAL FARM"
+          }
+        ]
+      }
+    ]
+  },
+  "BHAKROTA <-> MGH": {
+    "route_short_name": "9C",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_87078_75_69744",
+            "stop_name": "BHAKROTA"
+          },
+          {
+            "stop_id": "stop_26_87507_75_70865",
+            "stop_name": "KESHAV PURA"
+          },
+          {
+            "stop_id": "stop_26_87825_75_71567",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87382_75_72244",
+            "stop_name": "NARAIN VIHAR"
+          },
+          {
+            "stop_id": "stop_26_87572_75_72556",
+            "stop_name": "GAJSINGHPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87580_75_72560",
+            "stop_name": "VARDHMAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87913_75_73317",
+            "stop_name": "BADARWAS"
+          },
+          {
+            "stop_id": "stop_26_87952_75_75007",
+            "stop_name": "MANSAROWER METRO"
+          },
+          {
+            "stop_id": "stop_26_86972_75_75099",
+            "stop_name": "SWARN PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_86330_75_75419",
+            "stop_name": "RAJAT PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_85685_75_75828",
+            "stop_name": "GOLYAWAS"
+          },
+          {
+            "stop_id": "stop_26_84695_75_76451",
+            "stop_name": "VIJAY PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_83910_75_76803",
+            "stop_name": "AGARWAL FARM MOD"
+          },
+          {
+            "stop_id": "stop_26_82944_75_77456",
+            "stop_name": "SANGANER RIICO"
+          },
+          {
+            "stop_id": "stop_26_81944_75_78181",
+            "stop_name": "CHORDIA PETROL PAMP"
+          },
+          {
+            "stop_id": "stop_26_81892_75_78364",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81922_75_79638",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_80879_75_80576",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80900_75_80340",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_79650_75_81395",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78548_75_82257",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_78116_75_82885",
+            "stop_name": "PODAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_77869_75_84186",
+            "stop_name": "CHATRALA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_76902_75_84644",
+            "stop_name": "GONER PHATAK"
+          },
+          {
+            "stop_id": "stop_26_77031_75_85289",
+            "stop_name": "MGH"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_77031_75_85289",
+            "stop_name": "MGH"
+          },
+          {
+            "stop_id": "stop_26_76902_75_84644",
+            "stop_name": "GONER PHATAK"
+          },
+          {
+            "stop_id": "stop_26_77869_75_84186",
+            "stop_name": "CHATRALA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_78116_75_82885",
+            "stop_name": "PODAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_78548_75_82257",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79650_75_81395",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80900_75_80340",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_81110_75_80279",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81922_75_79638",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81892_75_78364",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81981_75_78146",
+            "stop_name": "CHORDIA PETROL PAMP"
+          },
+          {
+            "stop_id": "stop_26_82955_75_77429",
+            "stop_name": "SANGANER RIICO"
+          },
+          {
+            "stop_id": "stop_26_83869_75_76804",
+            "stop_name": "AGARWAL FARM MOD"
+          },
+          {
+            "stop_id": "stop_26_84669_75_76444",
+            "stop_name": "VIJAY PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_85673_75_75807",
+            "stop_name": "GOLYAWAS"
+          },
+          {
+            "stop_id": "stop_26_86314_75_75400",
+            "stop_name": "RAJAT PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_86972_75_75071",
+            "stop_name": "SWARN PATH MOD"
+          },
+          {
+            "stop_id": "stop_26_87952_75_75007",
+            "stop_name": "MANSAROWER METRO"
+          },
+          {
+            "stop_id": "stop_26_87959_75_74226",
+            "stop_name": "BADARWAS"
+          },
+          {
+            "stop_id": "stop_26_87888_75_73314",
+            "stop_name": "VARDHMAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87557_75_72557",
+            "stop_name": "GAJSINGHPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87366_75_72252",
+            "stop_name": "NARAIN VIHAR"
+          },
+          {
+            "stop_id": "stop_26_87826_75_71651",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87543_75_71078",
+            "stop_name": "KESHAV PURA"
+          },
+          {
+            "stop_id": "stop_26_87078_75_69744",
+            "stop_name": "BHAKROTA"
+          }
+        ]
+      }
+    ]
+  },
+  "LALCHANDPURA <-> KHOLE KE HANUMAN JI": {
+    "route_short_name": "10B",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_98223_75_68399",
+            "stop_name": "LALCHANDPURA"
+          },
+          {
+            "stop_id": "stop_26_97782_75_69523",
+            "stop_name": "GLABA BABA TEMPLE MODE"
+          },
+          {
+            "stop_id": "stop_26_97495_75_70185",
+            "stop_name": "BHAGWATI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_97428_75_70656",
+            "stop_name": "MILITRY STATION"
+          },
+          {
+            "stop_id": "stop_26_97222_75_71135",
+            "stop_name": "GOVINDPURA LINK ROAD"
+          },
+          {
+            "stop_id": "stop_26_97172_75_71391",
+            "stop_name": "NIWARU"
+          },
+          {
+            "stop_id": "stop_26_96872_75_71668",
+            "stop_name": "AMBE HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_96346_75_72830",
+            "stop_name": "NATH JI KI"
+          },
+          {
+            "stop_id": "stop_26_95922_75_73574",
+            "stop_name": "BY PASS"
+          },
+          {
+            "stop_id": "stop_26_95744_75_73939",
+            "stop_name": "NETA KI CHAKI"
+          },
+          {
+            "stop_id": "stop_26_95643_75_74095",
+            "stop_name": "LAXMI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_95460_75_74552",
+            "stop_name": "HEERA BADI"
+          },
+          {
+            "stop_id": "stop_26_95309_75_75017",
+            "stop_name": "SHALIMAR"
+          },
+          {
+            "stop_id": "stop_26_94473_75_74414",
+            "stop_name": "KANTA"
+          },
+          {
+            "stop_id": "stop_26_94304_75_75111",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93563_75_79280",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93283_75_79785",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93079_75_80113",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_92417_75_80403",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92476_75_81877",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92090_75_83568",
+            "stop_name": "RAMGANJ CHOPAD"
+          },
+          {
+            "stop_id": "stop_26_91840_75_84855",
+            "stop_name": "GALTA GATE"
+          },
+          {
+            "stop_id": "stop_26_93080_75_84505",
+            "stop_name": "EIDGAH"
+          },
+          {
+            "stop_id": "stop_26_93879_75_84677",
+            "stop_name": "KHOLE KE HANUMAN JI"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_93879_75_84677",
+            "stop_name": "KHOLE KE HANUMAN JI"
+          },
+          {
+            "stop_id": "stop_26_93080_75_84505",
+            "stop_name": "EIDGAH"
+          },
+          {
+            "stop_id": "stop_26_91840_75_84855",
+            "stop_name": "GALTA GATE"
+          },
+          {
+            "stop_id": "stop_26_92090_75_83568",
+            "stop_name": "RAMGANJ CHOPAD"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92476_75_81877",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92417_75_80403",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_93079_75_80113",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_93283_75_79785",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93563_75_79280",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94304_75_75111",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94473_75_74414",
+            "stop_name": "KANTA"
+          },
+          {
+            "stop_id": "stop_26_95309_75_75017",
+            "stop_name": "SHALIMAR"
+          },
+          {
+            "stop_id": "stop_26_95460_75_74552",
+            "stop_name": "HEERA BADI"
+          },
+          {
+            "stop_id": "stop_26_95643_75_74095",
+            "stop_name": "LAXMI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_95744_75_73939",
+            "stop_name": "NETA KI CHAKI"
+          },
+          {
+            "stop_id": "stop_26_95922_75_73574",
+            "stop_name": "BY PASS"
+          },
+          {
+            "stop_id": "stop_26_96346_75_72830",
+            "stop_name": "NATH JI KI"
+          },
+          {
+            "stop_id": "stop_26_96864_75_71680",
+            "stop_name": "AMBE HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_97172_75_71391",
+            "stop_name": "NIWARU"
+          },
+          {
+            "stop_id": "stop_26_97222_75_71135",
+            "stop_name": "GOVINDPURA LINK ROAD"
+          },
+          {
+            "stop_id": "stop_26_97428_75_70656",
+            "stop_name": "MILITRY STATION"
+          },
+          {
+            "stop_id": "stop_26_97495_75_70185",
+            "stop_name": "BHAGWATI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_97782_75_69523",
+            "stop_name": "GLABA BABA TEMPLE MODE"
+          },
+          {
+            "stop_id": "stop_26_98223_75_68399",
+            "stop_name": "LALCHANDPURA"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> GONER": {
+    "route_short_name": "11",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91488_75_81689",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90725_75_81526",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89911_75_81214",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89520_75_80909",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89179_75_80623",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87947_75_79909",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87342_75_79752",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_85818_75_79550",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_84218_75_79375",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81880_75_79729",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81575_75_79960",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81088_75_80315",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_80731_75_80583",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80289_75_80912",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_79643_75_81405",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_78492_75_82276",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78015_75_82637",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_76895_75_83537",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_76583_75_83856",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_77032_75_85255",
+            "stop_name": "GONER MODE"
+          },
+          {
+            "stop_id": "stop_26_77719_75_87926",
+            "stop_name": "MGH"
+          },
+          {
+            "stop_id": "stop_26_77583_75_88851",
+            "stop_name": "VIDHANI"
+          },
+          {
+            "stop_id": "stop_26_77614_75_88545",
+            "stop_name": "POORNIMA UNIVERSITY"
+          },
+          {
+            "stop_id": "stop_26_78580_75_91108",
+            "stop_name": "GAYATRI MANDIR"
+          },
+          {
+            "stop_id": "stop_26_78576_75_91121",
+            "stop_name": "GONER"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_77913_75_90991",
+            "stop_name": "GONER"
+          },
+          {
+            "stop_id": "stop_26_77744_75_90276",
+            "stop_name": "GAYATRI MANDIR"
+          },
+          {
+            "stop_id": "stop_26_77574_75_88852",
+            "stop_name": "POORNIMA UNIVERSITY"
+          },
+          {
+            "stop_id": "stop_26_77629_75_88336",
+            "stop_name": "VIDHANI"
+          },
+          {
+            "stop_id": "stop_26_77031_75_85289",
+            "stop_name": "MGH"
+          },
+          {
+            "stop_id": "stop_26_76577_75_83832",
+            "stop_name": "GONER MODE"
+          },
+          {
+            "stop_id": "stop_26_76920_75_83500",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_77993_75_82633",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_78455_75_82285",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79651_75_81380",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80408_75_80802",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80750_75_80550",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_81110_75_80279",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81557_75_79952",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_81922_75_79638",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82914_75_79410",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83652_75_79377",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83810_75_79369",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_85104_75_79411",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85736_75_79517",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86629_75_79643",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87345_75_79734",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87946_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88775_75_80287",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89105_75_80531",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89475_75_80850",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90712_75_81508",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91484_75_81665",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91673_75_81733",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "BASSI <-> CHOMU PULIYA": {
+    "route_short_name": "14",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_84623_76_05135",
+            "stop_name": "BASSI"
+          },
+          {
+            "stop_id": "stop_26_85683_76_05338",
+            "stop_name": "BASSI CHAK"
+          },
+          {
+            "stop_id": "stop_26_85610_76_02073",
+            "stop_name": "BANADA MOD"
+          },
+          {
+            "stop_id": "stop_26_85494_76_00964",
+            "stop_name": "KHEDI"
+          },
+          {
+            "stop_id": "stop_26_85657_76_00334",
+            "stop_name": "KHOKHAWLA"
+          },
+          {
+            "stop_id": "stop_26_86242_75_98141",
+            "stop_name": "DAYARAMPURA"
+          },
+          {
+            "stop_id": "stop_26_87423_75_94921",
+            "stop_name": "KANOTA"
+          },
+          {
+            "stop_id": "stop_26_87764_75_92955",
+            "stop_name": "BAGARANA"
+          },
+          {
+            "stop_id": "stop_26_88171_75_91016",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_88377_75_90028",
+            "stop_name": "BAWDI"
+          },
+          {
+            "stop_id": "stop_26_88610_75_89177",
+            "stop_name": "BALTI FACTOR"
+          },
+          {
+            "stop_id": "stop_26_88810_75_88418",
+            "stop_name": "PREM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88896_75_88077",
+            "stop_name": "MURGI KHANA"
+          },
+          {
+            "stop_id": "stop_26_88970_75_87769",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_90362_75_84381",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_91339_75_83258",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_91529_75_82352",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91499_75_81687",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91146_75_81600",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90757_75_81530",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89632_75_81002",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89892_75_79963",
+            "stop_name": "HIGH COURT"
+          },
+          {
+            "stop_id": "stop_26_90256_75_78636",
+            "stop_name": "22 GODAM"
+          },
+          {
+            "stop_id": "stop_26_90148_75_77201",
+            "stop_name": "SODALA"
+          },
+          {
+            "stop_id": "stop_26_89851_75_75909",
+            "stop_name": "PURANI CHUNGI"
+          },
+          {
+            "stop_id": "stop_26_90512_75_74583",
+            "stop_name": "GANDHI PATH"
+          },
+          {
+            "stop_id": "stop_26_91102_75_74362",
+            "stop_name": "AMARPALI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_91513_75_72950",
+            "stop_name": "BAJRI MANDI PULIYA"
+          },
+          {
+            "stop_id": "stop_26_92037_75_73672",
+            "stop_name": "VAISHALI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_92358_75_74526",
+            "stop_name": "KHATIPURA"
+          },
+          {
+            "stop_id": "stop_26_93058_75_75052",
+            "stop_name": "JASWANT NAGAR"
+          },
+          {
+            "stop_id": "stop_26_93664_75_75667",
+            "stop_name": "JHOTWARA"
+          },
+          {
+            "stop_id": "stop_26_94049_75_77211",
+            "stop_name": "CHOMU PULIYA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_94015_75_77323",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94177_75_76260",
+            "stop_name": "JHOTWARA"
+          },
+          {
+            "stop_id": "stop_26_93059_75_75056",
+            "stop_name": "JASWANT NAGAR"
+          },
+          {
+            "stop_id": "stop_26_92381_75_74542",
+            "stop_name": "KHATIPURA"
+          },
+          {
+            "stop_id": "stop_26_91544_75_74362",
+            "stop_name": "VAISHALI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_91513_75_72950",
+            "stop_name": "BAJRI MANDI PULIYA"
+          },
+          {
+            "stop_id": "stop_26_91123_75_74381",
+            "stop_name": "AMARPALI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90518_75_74563",
+            "stop_name": "GANDHI PATH"
+          },
+          {
+            "stop_id": "stop_26_89897_75_75860",
+            "stop_name": "PURANI CHUNGI"
+          },
+          {
+            "stop_id": "stop_26_90060_75_76980",
+            "stop_name": "SODALA"
+          },
+          {
+            "stop_id": "stop_26_90278_75_78615",
+            "stop_name": "22 GODAM"
+          },
+          {
+            "stop_id": "stop_26_89909_75_79967",
+            "stop_name": "HIGH COURT"
+          },
+          {
+            "stop_id": "stop_26_89644_75_80987",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81584",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91491_75_81665",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91545_75_82361",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91343_75_83329",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_90118_75_84409",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_89310_75_86711",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_89095_75_87386",
+            "stop_name": "MURGI KHANA"
+          },
+          {
+            "stop_id": "stop_26_88829_75_88415",
+            "stop_name": "PREM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88633_75_89166",
+            "stop_name": "BALTI FACTOR"
+          },
+          {
+            "stop_id": "stop_26_88400_75_90018",
+            "stop_name": "BAWDI"
+          },
+          {
+            "stop_id": "stop_26_88195_75_91010",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_87789_75_92941",
+            "stop_name": "BAGARANA"
+          },
+          {
+            "stop_id": "stop_26_87444_75_94866",
+            "stop_name": "KANOTA"
+          },
+          {
+            "stop_id": "stop_26_86263_75_98149",
+            "stop_name": "DAYARAMPURA"
+          },
+          {
+            "stop_id": "stop_26_85676_76_00324",
+            "stop_name": "KHOKHAWLA"
+          },
+          {
+            "stop_id": "stop_26_85506_76_00964",
+            "stop_name": "KHEDI"
+          },
+          {
+            "stop_id": "stop_26_85624_76_02057",
+            "stop_name": "BANADA MOD"
+          },
+          {
+            "stop_id": "stop_26_85709_76_05325",
+            "stop_name": "BASSI CHAK"
+          },
+          {
+            "stop_id": "stop_26_84623_76_05135",
+            "stop_name": "BASSI"
+          }
+        ]
+      }
+    ]
+  },
+  "CHANDPOLE <-> CHOMU": {
+    "route_short_name": "15",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_92773_75_80569",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_93272_75_79777",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93511_75_79327",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93852_75_78785",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93977_75_77739",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93993_75_77465",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_95560_75_77143",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_96075_75_77141",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_96702_75_77224",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_97039_75_77238",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_98652_75_77312",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_99680_75_77080",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_27_01735_75_76955",
+            "stop_name": "HARMARA"
+          },
+          {
+            "stop_id": "stop_27_02888_75_76876",
+            "stop_name": "TODI"
+          },
+          {
+            "stop_id": "stop_27_05734_75_75315",
+            "stop_name": "RAJAWAS"
+          },
+          {
+            "stop_id": "stop_27_07949_75_74656",
+            "stop_name": "MOTA KA BAS"
+          },
+          {
+            "stop_id": "stop_27_10388_75_73500",
+            "stop_name": "RAMPURA"
+          },
+          {
+            "stop_id": "stop_27_12259_75_73189",
+            "stop_name": "JAITPURA"
+          },
+          {
+            "stop_id": "stop_27_16862_75_72416",
+            "stop_name": "CHOMU"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_27_16806_75_72384",
+            "stop_name": "CHOMU"
+          },
+          {
+            "stop_id": "stop_27_12366_75_73213",
+            "stop_name": "JAITPURA"
+          },
+          {
+            "stop_id": "stop_27_09921_75_73730",
+            "stop_name": "RAMPURA"
+          },
+          {
+            "stop_id": "stop_27_07646_75_74747",
+            "stop_name": "MOTA KA BAS"
+          },
+          {
+            "stop_id": "stop_27_06192_75_75157",
+            "stop_name": "RAJAWAS"
+          },
+          {
+            "stop_id": "stop_27_03343_75_78466",
+            "stop_name": "TODI"
+          },
+          {
+            "stop_id": "stop_27_01735_75_76955",
+            "stop_name": "HARMARA"
+          },
+          {
+            "stop_id": "stop_26_99722_75_77077",
+            "stop_name": "VKI NO. 14"
+          },
+          {
+            "stop_id": "stop_26_98686_75_77323",
+            "stop_name": "VKI NO. 9"
+          },
+          {
+            "stop_id": "stop_26_97061_75_77245",
+            "stop_name": "VKI NO. 1"
+          },
+          {
+            "stop_id": "stop_26_96699_75_77245",
+            "stop_name": "ALKA CINEMA"
+          },
+          {
+            "stop_id": "stop_26_96074_75_77155",
+            "stop_name": "KHETAN HOS"
+          },
+          {
+            "stop_id": "stop_26_95559_75_77160",
+            "stop_name": "DHER KA BALAJI"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93515_75_79327",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93283_75_79785",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> CHAKSU": {
+    "route_short_name": "16",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90690_75_81522",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89983_75_81264",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89454_75_80853",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80603",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88688_75_80265",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87345_75_79752",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_82901_75_79429",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81870_75_79736",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_80847_75_80494",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_80385_75_80839",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_79846_75_81255",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_78548_75_82257",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78150_75_82535",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_76895_75_83537",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_74988_75_85411",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_74000_75_86386",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_73541_75_86832",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_72553_75_87572",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_70790_75_89499",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_67657_75_91245",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_64212_75_93332",
+            "stop_name": "YARLIPURA"
+          },
+          {
+            "stop_id": "stop_26_59889_75_94808",
+            "stop_name": "SHITALA"
+          },
+          {
+            "stop_id": "stop_26_59889_75_94808",
+            "stop_name": "CHAKSU"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_59908_75_94801",
+            "stop_name": "CHAKSU"
+          },
+          {
+            "stop_id": "stop_26_64221_75_93320",
+            "stop_name": "SHITALA"
+          },
+          {
+            "stop_id": "stop_26_67656_75_91224",
+            "stop_name": "YARLIPURA"
+          },
+          {
+            "stop_id": "stop_26_70793_75_89493",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_72556_75_87554",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_73546_75_86779",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_73989_75_86360",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_74983_75_85396",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_76920_75_83500",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_78146_75_82518",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_78533_75_82227",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79645_75_81381",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80350_75_80845",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80875_75_80453",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81926_75_79650",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82898_75_79413",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83580_75_79384",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_84410_75_79345",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_84985_75_79386",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_86629_75_79645",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87345_75_79734",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87939_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88690_75_80246",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89118_75_80541",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89932_75_81206",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90718_75_81505",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91498_75_81673",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> PATRAKAR COLONY": {
+    "route_short_name": "23A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91673_75_81733",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81600",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90718_75_81505",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89993_75_81248",
+            "stop_name": "LALNIWAS"
+          },
+          {
+            "stop_id": "stop_26_89520_75_80890",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89116_75_80554",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87552_75_79635",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86259_75_79591",
+            "stop_name": "VASUNDHARA"
+          },
+          {
+            "stop_id": "stop_26_86841_75_84040",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87250_75_77689",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_88083_75_76626",
+            "stop_name": "GUJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87940_75_76152",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_87165_75_75513",
+            "stop_name": "SWARAN PATH"
+          },
+          {
+            "stop_id": "stop_26_86125_75_75509",
+            "stop_name": "ARAWALI PATH"
+          },
+          {
+            "stop_id": "stop_26_86144_75_76293",
+            "stop_name": "VT ROAD"
+          },
+          {
+            "stop_id": "stop_26_84752_75_75180",
+            "stop_name": "BABA PARADISE"
+          },
+          {
+            "stop_id": "stop_26_84286_75_74751",
+            "stop_name": "PATRAKAR COLONY"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_84286_75_74751",
+            "stop_name": "PATRAKAR COLONY"
+          },
+          {
+            "stop_id": "stop_26_84752_75_75180",
+            "stop_name": "BABA PARADISE"
+          },
+          {
+            "stop_id": "stop_26_86040_75_76384",
+            "stop_name": "VT ROAD"
+          },
+          {
+            "stop_id": "stop_26_86125_75_75509",
+            "stop_name": "ARAWALI PATH"
+          },
+          {
+            "stop_id": "stop_26_87165_75_75513",
+            "stop_name": "SWARAN PATH"
+          },
+          {
+            "stop_id": "stop_26_87960_75_76159",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_88058_75_76499",
+            "stop_name": "GUJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87230_75_77868",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_86410_75_78409",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86259_75_79591",
+            "stop_name": "VASUNDHARA"
+          },
+          {
+            "stop_id": "stop_26_86590_75_79670",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90001_75_81221",
+            "stop_name": "LALNIWAS"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91170_75_81634",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "CHANDPOLE <-> KALWAR": {
+    "route_short_name": "24",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_92773_75_80564",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92904_75_80358",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_93024_75_80188",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_93286_75_79744",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93553_75_79258",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93856_75_78786",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93977_75_77739",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93996_75_77474",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94165_75_76785",
+            "stop_name": "JHOTWARA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94165_75_76784",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94331_75_74879",
+            "stop_name": "MEDICIAL CENTRE"
+          },
+          {
+            "stop_id": "stop_26_94372_75_74658",
+            "stop_name": "BORING ROAD"
+          },
+          {
+            "stop_id": "stop_26_94435_75_74357",
+            "stop_name": "KANTA"
+          },
+          {
+            "stop_id": "stop_26_94502_75_73715",
+            "stop_name": "JOSHI MARG"
+          },
+          {
+            "stop_id": "stop_26_94692_75_72526",
+            "stop_name": "SHEKHAWAT MARG"
+          },
+          {
+            "stop_id": "stop_26_94769_75_72173",
+            "stop_name": "RAVAN GATE"
+          },
+          {
+            "stop_id": "stop_26_94973_75_71071",
+            "stop_name": "KARDHANI 9 DUKAN"
+          },
+          {
+            "stop_id": "stop_26_95078_75_70516",
+            "stop_name": "GOVINDAM TOWER"
+          },
+          {
+            "stop_id": "stop_26_95152_75_70189",
+            "stop_name": "GOVINDPURA (24)"
+          },
+          {
+            "stop_id": "stop_26_95450_75_69458",
+            "stop_name": "MANGLAM CITY"
+          },
+          {
+            "stop_id": "stop_26_95660_75_68006",
+            "stop_name": "HATOJ"
+          },
+          {
+            "stop_id": "stop_26_95866_75_67198",
+            "stop_name": "ROYAL CITY"
+          },
+          {
+            "stop_id": "stop_26_96606_75_65793",
+            "stop_name": "MACHWA"
+          },
+          {
+            "stop_id": "stop_26_96992_75_64752",
+            "stop_name": "RAMKUTIYA"
+          },
+          {
+            "stop_id": "stop_26_97304_75_63401",
+            "stop_name": "CHAMPURA"
+          },
+          {
+            "stop_id": "stop_26_97612_75_61935",
+            "stop_name": "BHAMBORI"
+          },
+          {
+            "stop_id": "stop_26_98641_75_58638",
+            "stop_name": "KALWAD MOD"
+          },
+          {
+            "stop_id": "stop_26_98975_75_58392",
+            "stop_name": "KALWAR"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_98994_75_58385",
+            "stop_name": "KALWAR"
+          },
+          {
+            "stop_id": "stop_26_98641_75_58638",
+            "stop_name": "KALWAD MOD"
+          },
+          {
+            "stop_id": "stop_26_97617_75_61961",
+            "stop_name": "BHAMBORI"
+          },
+          {
+            "stop_id": "stop_26_97325_75_63376",
+            "stop_name": "CHAMPURA"
+          },
+          {
+            "stop_id": "stop_26_97004_75_64767",
+            "stop_name": "RAMKUTIYA"
+          },
+          {
+            "stop_id": "stop_26_96616_75_65801",
+            "stop_name": "MACHWA"
+          },
+          {
+            "stop_id": "stop_26_96306_75_66366",
+            "stop_name": "ROYAL CITY"
+          },
+          {
+            "stop_id": "stop_26_95671_75_68001",
+            "stop_name": "HATOJ"
+          },
+          {
+            "stop_id": "stop_26_95462_75_69469",
+            "stop_name": "MANGLAM CITY"
+          },
+          {
+            "stop_id": "stop_26_95157_75_70216",
+            "stop_name": "GOVINDPURA (24)"
+          },
+          {
+            "stop_id": "stop_26_95049_75_70676",
+            "stop_name": "GOVINDAM TOWER"
+          },
+          {
+            "stop_id": "stop_26_94984_75_71071",
+            "stop_name": "KARDHANI 9 DUKAN"
+          },
+          {
+            "stop_id": "stop_26_94799_75_72058",
+            "stop_name": "RAVAN GATE"
+          },
+          {
+            "stop_id": "stop_26_94706_75_72539",
+            "stop_name": "SHEKHAWAT MARG"
+          },
+          {
+            "stop_id": "stop_26_94521_75_73674",
+            "stop_name": "JOSHI MARG"
+          },
+          {
+            "stop_id": "stop_26_94434_75_74421",
+            "stop_name": "KANTA"
+          },
+          {
+            "stop_id": "stop_26_94375_75_74708",
+            "stop_name": "BORING ROAD"
+          },
+          {
+            "stop_id": "stop_26_94340_75_74887",
+            "stop_name": "MEDICIAL CENTRE"
+          },
+          {
+            "stop_id": "stop_26_94315_75_75117",
+            "stop_name": "PANCHAYAT SAMITI"
+          },
+          {
+            "stop_id": "stop_26_94171_75_76789",
+            "stop_name": "JHOTWARA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94049_75_77211",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94007_75_77725",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93856_75_78808",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93563_75_79280",
+            "stop_name": "T.B.HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_93293_75_79760",
+            "stop_name": "PITAL FACTORY"
+          },
+          {
+            "stop_id": "stop_26_93035_75_80198",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_92894_75_80388",
+            "stop_name": "MAYANK"
+          },
+          {
+            "stop_id": "stop_26_92700_75_80841",
+            "stop_name": "CHANDPOLE"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> BADA PADAMPURA": {
+    "route_short_name": "25A",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91488_75_81689",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90025_75_81304",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89609_75_80984",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89228_75_80662",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87173_75_79751",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_85124_75_79438",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81870_75_79736",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_80984_75_80560",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_80888_75_80469",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_80498_75_80759",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80411_75_80824",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_79640_75_81412",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_78462_75_82304",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78006_75_82673",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_76895_75_83537",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_74988_75_85411",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_74085_75_86297",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_73396_75_86966",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_72553_75_87572",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_70790_75_89499",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_72241_75_92772",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_72368_75_92301",
+            "stop_name": "GOLYAWAS"
+          },
+          {
+            "stop_id": "stop_26_72095_75_92301",
+            "stop_name": "BADA PADAMPURA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_72095_75_92301",
+            "stop_name": "BADA PADAMPURA"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81584",
+            "stop_name": "GOLYAWAS"
+          },
+          {
+            "stop_id": "stop_26_70790_75_89499",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_72673_75_87542",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_73693_75_86643",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_74133_75_86219",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_74927_75_85441",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_76920_75_83500",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_77993_75_82633",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_78545_75_82215",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79616_75_81399",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80342_75_80845",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80744_75_80547",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_80744_75_80547",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81104_75_80277",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_81922_75_79638",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82649_75_79425",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83648_75_79373",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83810_75_79369",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85729_75_79513",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86575_75_79634",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87169_75_79717",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_88183_75_79980",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89126_75_80533",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89662_75_80997",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90039_75_81221",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91501_75_81665",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91673_75_81733",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> TITRIYA": {
+    "route_short_name": "25B",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91488_75_81689",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89981_75_81271",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89444_75_80845",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80603",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88714_75_80275",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87961_75_79913",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87172_75_79736",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_85124_75_79438",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81870_75_79736",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81575_75_79960",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81088_75_80315",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_80731_75_80583",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80276_75_80846",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_79650_75_81395",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_78542_75_82242",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78150_75_82535",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_76895_75_83537",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_74988_75_85411",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_74000_75_86386",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_73398_75_86960",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_72553_75_87572",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_70790_75_89021",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_68591_75_87802",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_67969_75_86569",
+            "stop_name": "CHANDLAI"
+          },
+          {
+            "stop_id": "stop_26_67506_75_85544",
+            "stop_name": "BHOJAN"
+          },
+          {
+            "stop_id": "stop_26_65973_75_83097",
+            "stop_name": "BANSA"
+          },
+          {
+            "stop_id": "stop_26_65980_75_83097",
+            "stop_name": "TITRIYA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_66077_75_83079",
+            "stop_name": "TITRIYA"
+          },
+          {
+            "stop_id": "stop_26_67421_75_85376",
+            "stop_name": "BANSA"
+          },
+          {
+            "stop_id": "stop_26_67791_75_86042",
+            "stop_name": "BHOJAN"
+          },
+          {
+            "stop_id": "stop_26_68591_75_87802",
+            "stop_name": "CHANDLAI"
+          },
+          {
+            "stop_id": "stop_26_70297_75_89134",
+            "stop_name": "SHIVDASPURA"
+          },
+          {
+            "stop_id": "stop_26_73511_75_87572",
+            "stop_name": "NANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_73713_75_86632",
+            "stop_name": "NAGALIYA"
+          },
+          {
+            "stop_id": "stop_26_74145_75_86386",
+            "stop_name": "RADHA SWAMI"
+          },
+          {
+            "stop_id": "stop_26_74937_75_85438",
+            "stop_name": "BILWA"
+          },
+          {
+            "stop_id": "stop_26_76920_75_83500",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_78146_75_82518",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_78533_75_82227",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79080_75_81812",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_79651_75_81380",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80615_75_80644",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_81104_75_80277",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81557_75_79952",
+            "stop_name": "BOOKING"
+          },
+          {
+            "stop_id": "stop_26_81926_75_79650",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82917_75_79408",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83652_75_79377",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83810_75_79369",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85127_75_79417",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86581_75_79669",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87344_75_79743",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87956_75_79890",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88777_75_80289",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89437_75_80817",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89639_75_80984",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90001_75_81221",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91673_75_81733",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "BAGRU <-> CHANDPOLE": {
+    "route_short_name": "26",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_81088_75_54216",
+            "stop_name": "BAGRU"
+          },
+          {
+            "stop_id": "stop_26_82580_75_56026",
+            "stop_name": "DAMBI"
+          },
+          {
+            "stop_id": "stop_26_82944_75_57039",
+            "stop_name": "HIGHWAY KING"
+          },
+          {
+            "stop_id": "stop_26_83888_75_56530",
+            "stop_name": "DEVLIYA"
+          },
+          {
+            "stop_id": "stop_26_85424_75_57716",
+            "stop_name": "SADHUWALA"
+          },
+          {
+            "stop_id": "stop_26_86190_75_58313",
+            "stop_name": "SANJH RIVER BAGUS MODE"
+          },
+          {
+            "stop_id": "stop_26_85645_75_59937",
+            "stop_name": "RAMPURA"
+          },
+          {
+            "stop_id": "stop_26_84608_75_62241",
+            "stop_name": "THIKARIYA"
+          },
+          {
+            "stop_id": "stop_26_84972_75_63579",
+            "stop_name": "BAD KE BALAJI"
+          },
+          {
+            "stop_id": "stop_26_85372_75_64873",
+            "stop_name": "RAMCHANDRAPURA"
+          },
+          {
+            "stop_id": "stop_26_86084_75_67009",
+            "stop_name": "MAHAPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87210_75_70050",
+            "stop_name": "BHAKROTA"
+          },
+          {
+            "stop_id": "stop_26_87503_75_70852",
+            "stop_name": "KESHAV PURA"
+          },
+          {
+            "stop_id": "stop_26_87817_75_71555",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88527_75_72947",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_88887_75_73690",
+            "stop_name": "HEERA PURA"
+          },
+          {
+            "stop_id": "stop_26_89103_75_74123",
+            "stop_name": "DCM"
+          },
+          {
+            "stop_id": "stop_26_89667_75_75254",
+            "stop_name": "KINGS ROAD"
+          },
+          {
+            "stop_id": "stop_26_89733_75_75376",
+            "stop_name": "PURANI CHUNGI"
+          },
+          {
+            "stop_id": "stop_26_90170_75_77183",
+            "stop_name": "SODALA"
+          },
+          {
+            "stop_id": "stop_26_90626_75_77702",
+            "stop_name": "ESIC HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91112_75_78448",
+            "stop_name": "MAJDUR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_91453_75_79388",
+            "stop_name": "HATHROI"
+          },
+          {
+            "stop_id": "stop_26_91604_75_79832",
+            "stop_name": "SHALIMAR"
+          },
+          {
+            "stop_id": "stop_26_92571_75_80761",
+            "stop_name": "CHANDPOLE"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_91672_75_80044",
+            "stop_name": "SHALIMAR"
+          },
+          {
+            "stop_id": "stop_26_91230_75_78753",
+            "stop_name": "HATHROI"
+          },
+          {
+            "stop_id": "stop_26_90957_75_78135",
+            "stop_name": "MAJDUR NAGAR"
+          },
+          {
+            "stop_id": "stop_26_90608_75_77724",
+            "stop_name": "ESIC HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_90152_75_77253",
+            "stop_name": "SODALA"
+          },
+          {
+            "stop_id": "stop_26_89821_75_75912",
+            "stop_name": "PURANI CHUNGI"
+          },
+          {
+            "stop_id": "stop_26_89585_75_75109",
+            "stop_name": "KINGS ROAD"
+          },
+          {
+            "stop_id": "stop_26_89416_75_74764",
+            "stop_name": "DCM"
+          },
+          {
+            "stop_id": "stop_26_88922_75_73805",
+            "stop_name": "HEERA PURA"
+          },
+          {
+            "stop_id": "stop_26_93079_75_80113",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_87811_75_71226",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87541_75_71073",
+            "stop_name": "KESHAV PURA"
+          },
+          {
+            "stop_id": "stop_26_87078_75_69744",
+            "stop_name": "BHAKROTA"
+          },
+          {
+            "stop_id": "stop_26_86173_75_67306",
+            "stop_name": "MAHAPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_85179_75_64359",
+            "stop_name": "RAMCHANDRAPURA"
+          },
+          {
+            "stop_id": "stop_26_84972_75_63648",
+            "stop_name": "BAD KE BALAJI"
+          },
+          {
+            "stop_id": "stop_26_84562_75_62303",
+            "stop_name": "THIKARIYA"
+          },
+          {
+            "stop_id": "stop_5_57036_75_61568",
+            "stop_name": "RAMPURA"
+          },
+          {
+            "stop_id": "stop_26_86190_75_58313",
+            "stop_name": "SANJH RIVER BAGUS MODE"
+          },
+          {
+            "stop_id": "stop_26_85424_75_57716",
+            "stop_name": "SADHUWALA"
+          },
+          {
+            "stop_id": "stop_26_83753_75_59794",
+            "stop_name": "DEVLIYA"
+          },
+          {
+            "stop_id": "stop_26_82944_75_57039",
+            "stop_name": "HIGHWAY KING"
+          },
+          {
+            "stop_id": "stop_26_82568_75_56031",
+            "stop_name": "DAMBI"
+          },
+          {
+            "stop_id": "stop_26_81160_75_54206",
+            "stop_name": "BAGRU"
+          }
+        ]
+      }
+    ]
+  },
+  "GONER <-> WATIKA": {
+    "route_short_name": "27",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_78585_75_91107",
+            "stop_name": "GONER"
+          },
+          {
+            "stop_id": "stop_26_80181_75_90420",
+            "stop_name": "SIROLI"
+          },
+          {
+            "stop_id": "stop_26_81880_75_90150",
+            "stop_name": "DANTLI"
+          },
+          {
+            "stop_id": "stop_26_83648_75_89814",
+            "stop_name": "RAILWAY PHATAK"
+          },
+          {
+            "stop_id": "stop_26_84920_75_89924",
+            "stop_name": "GOVINDPURA"
+          },
+          {
+            "stop_id": "stop_26_85882_75_89328",
+            "stop_name": "VIDHIYA MOD"
+          },
+          {
+            "stop_id": "stop_26_86690_75_89182",
+            "stop_name": "LUNIYAWAS"
+          },
+          {
+            "stop_id": "stop_26_88138_75_87775",
+            "stop_name": "MACHCH KI PIPALI"
+          },
+          {
+            "stop_id": "stop_26_88545_75_87397",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_89330_75_86565",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_90445_75_84454",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_91342_75_83267",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_91527_75_82356",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81687",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89987_75_81270",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89632_75_81002",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80605",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87961_75_79913",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87172_75_79736",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86636_75_79665",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_84988_75_79403",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_83826_75_79391",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83577_75_79394",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_82911_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81871_75_79732",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81096_75_80304",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_80273_75_80922",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_79846_75_81255",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_78492_75_82276",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_77997_75_82651",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_76895_75_83493",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_75481_75_82312",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_74603_75_82044",
+            "stop_name": "ASHAWALA"
+          },
+          {
+            "stop_id": "stop_26_73728_75_81772",
+            "stop_name": "KALLAWALA"
+          },
+          {
+            "stop_id": "stop_26_71301_75_80372",
+            "stop_name": "BHATAWALA"
+          },
+          {
+            "stop_id": "stop_26_71364_75_80437",
+            "stop_name": "WATIKA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_71317_75_80383",
+            "stop_name": "WATIKA"
+          },
+          {
+            "stop_id": "stop_26_73719_75_81761",
+            "stop_name": "BHATAWALA"
+          },
+          {
+            "stop_id": "stop_26_74608_75_82035",
+            "stop_name": "KALLAWALA"
+          },
+          {
+            "stop_id": "stop_26_75517_75_82311",
+            "stop_name": "ASHAWALA"
+          },
+          {
+            "stop_id": "stop_26_76920_75_83500",
+            "stop_name": "12 MILE"
+          },
+          {
+            "stop_id": "stop_26_77985_75_82641",
+            "stop_name": "SITAPURA"
+          },
+          {
+            "stop_id": "stop_26_78533_75_82227",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79889_75_81200",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80408_75_80802",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_81110_75_80279",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81926_75_79650",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82898_75_79413",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83652_75_79377",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83810_75_79369",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_85103_75_79404",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_86573_75_79637",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87169_75_79717",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87941_75_79887",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88775_75_80287",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89105_75_80531",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89644_75_80987",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90712_75_81508",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91492_75_81668",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91592_75_82101",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91343_75_83329",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90424_75_84474",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_89073_75_87451",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_88545_75_87397",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_88149_75_87774",
+            "stop_name": "POWER HOUSE"
+          },
+          {
+            "stop_id": "stop_26_86653_75_89212",
+            "stop_name": "MACHCH KI PIPALI"
+          },
+          {
+            "stop_id": "stop_26_85889_75_89327",
+            "stop_name": "LUNIYAWAS"
+          },
+          {
+            "stop_id": "stop_26_84934_75_89924",
+            "stop_name": "VIDHIYA MOD"
+          },
+          {
+            "stop_id": "stop_26_83632_75_89821",
+            "stop_name": "GOVINDPURA"
+          },
+          {
+            "stop_id": "stop_26_81880_75_90150",
+            "stop_name": "RAILWAY PHATAK"
+          },
+          {
+            "stop_id": "stop_26_80216_75_90413",
+            "stop_name": "DANTLI"
+          },
+          {
+            "stop_id": "stop_26_78585_75_91107",
+            "stop_name": "SIROLI"
+          },
+          {
+            "stop_id": "stop_26_78576_75_91121",
+            "stop_name": "GONER"
+          }
+        ]
+      }
+    ]
+  },
+  "AJMERI GATE <-> RENWAL": {
+    "route_short_name": "28",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90729_75_81528",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89981_75_81271",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89430_75_80840",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89158_75_80662",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88696_75_80276",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88493_75_80170",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87944_75_79911",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_86590_75_79670",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86233_75_79612",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_85124_75_79438",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_83826_75_79391",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81870_75_79582",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81868_75_79626",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_81451_75_78117",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81057_75_77994",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81003_75_77917",
+            "stop_name": "MALPURA GATE"
+          },
+          {
+            "stop_id": "stop_26_80635_75_77638",
+            "stop_name": "RAILWAY PULIYA"
+          },
+          {
+            "stop_id": "stop_26_79771_75_77033",
+            "stop_name": "KUMAWATO KI DHANI"
+          },
+          {
+            "stop_id": "stop_26_78249_75_76043",
+            "stop_name": "MUHANA MANDHI MOD"
+          },
+          {
+            "stop_id": "stop_26_77991_75_75804",
+            "stop_name": "MADRAMPURA"
+          },
+          {
+            "stop_id": "stop_26_77511_75_75523",
+            "stop_name": "SHIKARPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_76357_75_74846",
+            "stop_name": "JAGANNATHPURA"
+          },
+          {
+            "stop_id": "stop_26_74831_75_71463",
+            "stop_name": "RATLAYA MOD"
+          },
+          {
+            "stop_id": "stop_26_73134_75_71463",
+            "stop_name": "BALAWALA"
+          },
+          {
+            "stop_id": "stop_26_72160_75_70022",
+            "stop_name": "BANYAWALI"
+          },
+          {
+            "stop_id": "stop_26_71388_75_69383",
+            "stop_name": "TILAWALA"
+          },
+          {
+            "stop_id": "stop_26_71191_75_69161",
+            "stop_name": "ROHINI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_69311_75_67985",
+            "stop_name": "PAHADIYA MOD"
+          },
+          {
+            "stop_id": "stop_26_69311_75_67985",
+            "stop_name": "RENWAL"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_69306_75_68021",
+            "stop_name": "RENWAL"
+          },
+          {
+            "stop_id": "stop_26_71300_75_69268",
+            "stop_name": "PAHADIYA MOD"
+          },
+          {
+            "stop_id": "stop_26_71804_75_69808",
+            "stop_name": "ROHINI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_72217_75_70063",
+            "stop_name": "TILAWALA"
+          },
+          {
+            "stop_id": "stop_26_73134_75_71463",
+            "stop_name": "BANYAWALI"
+          },
+          {
+            "stop_id": "stop_26_74831_75_73303",
+            "stop_name": "BALAWALA"
+          },
+          {
+            "stop_id": "stop_26_76357_75_74846",
+            "stop_name": "RATLAYA MOD"
+          },
+          {
+            "stop_id": "stop_26_77514_75_75507",
+            "stop_name": "JAGANNATHPURA"
+          },
+          {
+            "stop_id": "stop_26_78017_75_75804",
+            "stop_name": "SHIKARPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_78230_75_75979",
+            "stop_name": "MADRAMPURA"
+          },
+          {
+            "stop_id": "stop_26_79789_75_77015",
+            "stop_name": "MUHANA MANDHI MOD"
+          },
+          {
+            "stop_id": "stop_26_80633_75_77609",
+            "stop_name": "KUMAWATO KI DHANI"
+          },
+          {
+            "stop_id": "stop_26_81051_75_77948",
+            "stop_name": "RAILWAY PULIYA"
+          },
+          {
+            "stop_id": "stop_26_81464_75_78101",
+            "stop_name": "MALPURA GATE"
+          },
+          {
+            "stop_id": "stop_26_81893_75_78325",
+            "stop_name": "STADIUM"
+          },
+          {
+            "stop_id": "stop_26_81926_75_79650",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82554_75_79446",
+            "stop_name": "KALYAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_82649_75_79425",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83648_75_79373",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_84203_75_79348",
+            "stop_name": "CITY PLEX"
+          },
+          {
+            "stop_id": "stop_26_85107_75_79411",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_85124_75_79519",
+            "stop_name": "MAHAVEER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86249_75_79587",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87169_75_79717",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87946_75_79885",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88360_75_80074",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88777_75_80289",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89106_75_80536",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89656_75_80992",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91498_75_81673",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          }
+        ]
+      }
+    ]
+  },
+  "BADI CHOPAR <-> RAMGARH": {
+    "route_short_name": "30",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_92326_75_82679",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92973_75_82886",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_93526_75_83346",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_93983_75_83729",
+            "stop_name": "GOVIND NAGAR"
+          },
+          {
+            "stop_id": "stop_26_94613_75_84063",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_94725_75_85196",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_95103_75_86181",
+            "stop_name": "JAISINGHPHURA MOD"
+          },
+          {
+            "stop_id": "stop_26_96109_75_86796",
+            "stop_name": "SADWA"
+          },
+          {
+            "stop_id": "stop_26_96855_75_90445",
+            "stop_name": "LALWAS"
+          },
+          {
+            "stop_id": "stop_26_96832_75_89238",
+            "stop_name": "NAI KI TADI"
+          },
+          {
+            "stop_id": "stop_26_96915_75_90587",
+            "stop_name": "CHAMUNDA MATA"
+          },
+          {
+            "stop_id": "stop_26_97193_75_91465",
+            "stop_name": "HATWARA"
+          },
+          {
+            "stop_id": "stop_26_97889_75_92453",
+            "stop_name": "SAIPURA"
+          },
+          {
+            "stop_id": "stop_26_98887_75_95250",
+            "stop_name": "CHAINPURA"
+          },
+          {
+            "stop_id": "stop_26_99468_75_96925",
+            "stop_name": "HEERA WALA"
+          },
+          {
+            "stop_id": "stop_27_00224_75_97882",
+            "stop_name": "LAALI"
+          },
+          {
+            "stop_id": "stop_27_00583_75_98173",
+            "stop_name": "NAYABAS"
+          },
+          {
+            "stop_id": "stop_27_01896_75_99867",
+            "stop_name": "G D MODE"
+          },
+          {
+            "stop_id": "stop_27_01865_76_01422",
+            "stop_name": "RAMGARH"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_27_01852_76_01414",
+            "stop_name": "RAMGARH"
+          },
+          {
+            "stop_id": "stop_27_01746_76_00249",
+            "stop_name": "G D MODE"
+          },
+          {
+            "stop_id": "stop_27_01547_75_99048",
+            "stop_name": "NAYABAS"
+          },
+          {
+            "stop_id": "stop_27_00220_75_97896",
+            "stop_name": "LAALI"
+          },
+          {
+            "stop_id": "stop_27_00009_75_97644",
+            "stop_name": "HEERA WALA"
+          },
+          {
+            "stop_id": "stop_26_98835_75_95743",
+            "stop_name": "CHAINPURA"
+          },
+          {
+            "stop_id": "stop_26_98746_75_94899",
+            "stop_name": "SAIPURA"
+          },
+          {
+            "stop_id": "stop_26_97215_75_91484",
+            "stop_name": "HATWARA"
+          },
+          {
+            "stop_id": "stop_26_97003_75_90739",
+            "stop_name": "CHAMUNDA MATA"
+          },
+          {
+            "stop_id": "stop_26_96778_75_89564",
+            "stop_name": "NAI KI TADI"
+          },
+          {
+            "stop_id": "stop_26_96680_75_88212",
+            "stop_name": "LALWAS"
+          },
+          {
+            "stop_id": "stop_26_96247_75_87062",
+            "stop_name": "SADWA"
+          },
+          {
+            "stop_id": "stop_26_95089_75_86181",
+            "stop_name": "JAISINGHPHURA MOD"
+          },
+          {
+            "stop_id": "stop_26_94611_75_84991",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_94609_75_84491",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_94329_75_83942",
+            "stop_name": "GOVIND NAGAR"
+          },
+          {
+            "stop_id": "stop_26_93551_75_83361",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_92923_75_83179",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_92420_75_82725",
+            "stop_name": "BADI CHOPAR"
+          }
+        ]
+      }
+    ]
+  },
+  "VINAYAK CAMPUS <-> RSBTDA BUS TERMINAL HEERAPURA": {
+    "route_short_name": "32",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_91809_75_98683",
+            "stop_name": "VINAYAK CAMPUS"
+          },
+          {
+            "stop_id": "stop_26_92112_75_97487",
+            "stop_name": "NAYALA"
+          },
+          {
+            "stop_id": "stop_26_91444_75_96830",
+            "stop_name": "GILA WALA"
+          },
+          {
+            "stop_id": "stop_26_89881_75_96051",
+            "stop_name": "HEERA WALA"
+          },
+          {
+            "stop_id": "stop_26_88408_75_95315",
+            "stop_name": "RICCO KANTA"
+          },
+          {
+            "stop_id": "stop_26_87458_75_94918",
+            "stop_name": "KANOTA"
+          },
+          {
+            "stop_id": "stop_26_87789_75_92928",
+            "stop_name": "BAGARANA"
+          },
+          {
+            "stop_id": "stop_26_88175_75_90998",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_88345_75_90195",
+            "stop_name": "BAWDI"
+          },
+          {
+            "stop_id": "stop_26_89278_75_86787",
+            "stop_name": "SHARMA BHOJNALAYA"
+          },
+          {
+            "stop_id": "stop_26_88971_75_87761",
+            "stop_name": "NEELKANTH PARADISE"
+          },
+          {
+            "stop_id": "stop_26_88871_75_88224",
+            "stop_name": "PREM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88896_75_88028",
+            "stop_name": "MURGI KHANA"
+          },
+          {
+            "stop_id": "stop_26_91260_75_83510",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_90441_75_84469",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_91343_75_83329",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_91548_75_82349",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91673_75_81733",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91172_75_81600",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90718_75_81505",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89520_75_80890",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89116_75_80554",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87931_75_79876",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87552_75_79635",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86587_75_79633",
+            "stop_name": "GOPAL PURA MOD"
+          },
+          {
+            "stop_id": "stop_26_86841_75_84040",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87250_75_77689",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_87360_75_77695",
+            "stop_name": "SURYA NGR"
+          },
+          {
+            "stop_id": "stop_26_88030_75_76721",
+            "stop_name": "GURJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87940_75_76152",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_87952_75_75007",
+            "stop_name": "MANSAROWER METRO"
+          },
+          {
+            "stop_id": "stop_26_87560_75_72307",
+            "stop_name": "BADARWAS"
+          },
+          {
+            "stop_id": "stop_26_87554_75_72590",
+            "stop_name": "VARDHMAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87574_75_72585",
+            "stop_name": "GAJSINGHPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87372_75_72227",
+            "stop_name": "NARAIN VIHAR"
+          },
+          {
+            "stop_id": "stop_26_87776_75_71733",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87642_75_71175",
+            "stop_name": "RSBTDA BUS TERMINAL HEERAPURA"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_87642_75_71175",
+            "stop_name": "RSBTDA BUS TERMINAL HEERAPURA"
+          },
+          {
+            "stop_id": "stop_26_87811_75_71226",
+            "stop_name": "KAMLA NEHRU NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87372_75_72227",
+            "stop_name": "NARAIN VIHAR"
+          },
+          {
+            "stop_id": "stop_26_87577_75_72585",
+            "stop_name": "GAJSINGHPURA MOD"
+          },
+          {
+            "stop_id": "stop_26_87580_75_72560",
+            "stop_name": "VARDHMAN NAGAR"
+          },
+          {
+            "stop_id": "stop_26_87572_75_72556",
+            "stop_name": "BADARWAS"
+          },
+          {
+            "stop_id": "stop_26_87952_75_75007",
+            "stop_name": "MANSAROWER METRO"
+          },
+          {
+            "stop_id": "stop_26_87960_75_76159",
+            "stop_name": "GANGA JAMUNA"
+          },
+          {
+            "stop_id": "stop_26_88058_75_76716",
+            "stop_name": "GURJAR KI THADI"
+          },
+          {
+            "stop_id": "stop_26_87360_75_77695",
+            "stop_name": "SURYA NGR"
+          },
+          {
+            "stop_id": "stop_26_87230_75_77868",
+            "stop_name": "RIDHI SIDHI"
+          },
+          {
+            "stop_id": "stop_26_86410_75_78409",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86587_75_79633",
+            "stop_name": "GOPAL PURA MOD"
+          },
+          {
+            "stop_id": "stop_26_86590_75_79670",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88360_75_80074",
+            "stop_name": "SABJI MANDI"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91170_75_81634",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91520_75_82356",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91331_75_83329",
+            "stop_name": "GHAT GATE"
+          },
+          {
+            "stop_id": "stop_26_90445_75_84383",
+            "stop_name": "TRANSPORT NGR"
+          },
+          {
+            "stop_id": "stop_26_89485_75_86305",
+            "stop_name": "KHANIYA"
+          },
+          {
+            "stop_id": "stop_26_88896_75_88028",
+            "stop_name": "MURGI KHANA"
+          },
+          {
+            "stop_id": "stop_26_88871_75_88224",
+            "stop_name": "PREM NAGAR"
+          },
+          {
+            "stop_id": "stop_26_88971_75_87761",
+            "stop_name": "NEELKANTH PARADISE"
+          },
+          {
+            "stop_id": "stop_26_89278_75_86787",
+            "stop_name": "SHARMA BHOJNALAYA"
+          },
+          {
+            "stop_id": "stop_26_88345_75_90195",
+            "stop_name": "BAWDI"
+          },
+          {
+            "stop_id": "stop_26_88175_75_90998",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_87789_75_92928",
+            "stop_name": "BAGARANA"
+          },
+          {
+            "stop_id": "stop_26_87458_75_94918",
+            "stop_name": "KANOTA"
+          },
+          {
+            "stop_id": "stop_26_88408_75_95315",
+            "stop_name": "RICCO KANTA"
+          },
+          {
+            "stop_id": "stop_26_89906_75_96055",
+            "stop_name": "HEERA WALA"
+          },
+          {
+            "stop_id": "stop_26_91444_75_96830",
+            "stop_name": "GILA WALA"
+          },
+          {
+            "stop_id": "stop_26_92102_75_97484",
+            "stop_name": "NAYALA"
+          },
+          {
+            "stop_id": "stop_26_91809_75_98683",
+            "stop_name": "VINAYAK CAMPUS"
+          }
+        ]
+      }
+    ]
+  },
+  "JAISINGHPURA THANA <-> ANANDAM MANGLAM": {
+    "route_short_name": "34",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_94636_75_90404",
+            "stop_name": "JAISINGHPURA THANA"
+          },
+          {
+            "stop_id": "stop_26_94804_75_89336",
+            "stop_name": "J.D.A.COLONY"
+          },
+          {
+            "stop_id": "stop_26_95069_75_88361",
+            "stop_name": "HARJI VIHAR"
+          },
+          {
+            "stop_id": "stop_26_95051_75_87898",
+            "stop_name": "JAISINGHPURA KHOR"
+          },
+          {
+            "stop_id": "stop_26_95102_75_86223",
+            "stop_name": "JAISINGHPHURA MOD"
+          },
+          {
+            "stop_id": "stop_26_94617_75_85067",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_94573_75_84004",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_93954_75_83722",
+            "stop_name": "GOVIND NAGAR"
+          },
+          {
+            "stop_id": "stop_26_93621_75_83398",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_92973_75_82886",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_91520_75_82356",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87236_75_79741",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_86746_75_78488",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87230_75_77868",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86485_75_77320",
+            "stop_name": "DURGAPURA STATION"
+          },
+          {
+            "stop_id": "stop_26_85445_75_77349",
+            "stop_name": "MAHARANI FARM"
+          },
+          {
+            "stop_id": "stop_26_84513_75_77699",
+            "stop_name": "SHIPRA PATH"
+          },
+          {
+            "stop_id": "stop_26_83980_75_77644",
+            "stop_name": "SFS CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_84005_75_76952",
+            "stop_name": "ICG"
+          },
+          {
+            "stop_id": "stop_26_83711_75_76886",
+            "stop_name": "SUMER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_82950_75_77445",
+            "stop_name": "RICCO KANTA"
+          },
+          {
+            "stop_id": "stop_26_81897_75_77265",
+            "stop_name": "RAMPURA FATAK"
+          },
+          {
+            "stop_id": "stop_26_81476_75_76381",
+            "stop_name": "ANANDAM MANGLAM"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_81695_75_77235",
+            "stop_name": "ANANDAM MANGLAM"
+          },
+          {
+            "stop_id": "stop_26_81838_75_77256",
+            "stop_name": "RAMPURA FATAK"
+          },
+          {
+            "stop_id": "stop_26_82682_75_77699",
+            "stop_name": "RICCO KANTA"
+          },
+          {
+            "stop_id": "stop_26_83922_75_76782",
+            "stop_name": "SUMER NAGAR"
+          },
+          {
+            "stop_id": "stop_26_84069_75_77071",
+            "stop_name": "ICG"
+          },
+          {
+            "stop_id": "stop_26_84030_75_77415",
+            "stop_name": "SFS CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_84340_75_77758",
+            "stop_name": "SHIPRA PATH"
+          },
+          {
+            "stop_id": "stop_26_85458_75_77326",
+            "stop_name": "MAHARANI FARM"
+          },
+          {
+            "stop_id": "stop_26_86479_75_77289",
+            "stop_name": "DURGAPURA STATION"
+          },
+          {
+            "stop_id": "stop_26_87230_75_77868",
+            "stop_name": "TRIVENI NAGAR"
+          },
+          {
+            "stop_id": "stop_26_86699_75_78507",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87103_75_79710",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_87932_75_79897",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91170_75_81634",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91520_75_82356",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92312_75_82663",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_92979_75_82879",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_93526_75_83346",
+            "stop_name": "GOVIND NAGAR"
+          },
+          {
+            "stop_id": "stop_26_93983_75_83729",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_94500_75_83973",
+            "stop_name": "CHUNGI NAKA"
+          },
+          {
+            "stop_id": "stop_26_94623_75_85044",
+            "stop_name": "JAISINGHPHURA MOD"
+          },
+          {
+            "stop_id": "stop_26_95106_75_86249",
+            "stop_name": "JAISINGHPURA KHOR"
+          },
+          {
+            "stop_id": "stop_26_95057_75_87886",
+            "stop_name": "HARJI VIHAR"
+          },
+          {
+            "stop_id": "stop_26_94963_75_88681",
+            "stop_name": "J.D.A.COLONY"
+          },
+          {
+            "stop_id": "stop_26_94804_75_89336",
+            "stop_name": "JAISINGHPURA THANA"
+          }
+        ]
+      }
+    ]
+  },
+  "KUKAS <-> SANGANER": {
+    "route_short_name": "AC1",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_27_04080_75_89478",
+            "stop_name": "KUKAS"
+          },
+          {
+            "stop_id": "stop_26_99605_75_87645",
+            "stop_name": "KUNDA"
+          },
+          {
+            "stop_id": "stop_26_98812_75_85529",
+            "stop_name": "AMER"
+          },
+          {
+            "stop_id": "stop_26_96326_75_84623",
+            "stop_name": "KANAK GHATI"
+          },
+          {
+            "stop_id": "stop_26_95245_75_84199",
+            "stop_name": "JAL MAHAL"
+          },
+          {
+            "stop_id": "stop_26_94613_75_84063",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_93671_75_83443",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_92915_75_83155",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_92272_75_82689",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_91520_75_82356",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91499_75_81687",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90742_75_81529",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89919_75_81220",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89650_75_81018",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89179_75_80623",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88707_75_80277",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87967_75_79916",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87179_75_79738",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86631_75_79663",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_83946_75_79391",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83577_75_79394",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_81874_75_79661",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81575_75_78425",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_81567_75_78391",
+            "stop_name": "SANGANER"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_81565_75_78417",
+            "stop_name": "SANGANER"
+          },
+          {
+            "stop_id": "stop_26_81925_75_79650",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82914_75_79410",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83637_75_79376",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_83955_75_79366",
+            "stop_name": "JAWAHAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_85107_75_79411",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_86556_75_79631",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87148_75_79713",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87941_75_79887",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88756_75_80279",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89088_75_80515",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89614_75_80961",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89993_75_81248",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91450_75_81654",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91596_75_82099",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_92271_75_82667",
+            "stop_name": "SANGANERI GATE"
+          },
+          {
+            "stop_id": "stop_26_92943_75_83056",
+            "stop_name": "BADI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_93580_75_83358",
+            "stop_name": "SUBHASH CHOWK"
+          },
+          {
+            "stop_id": "stop_26_94385_75_83941",
+            "stop_name": "JORAWER SINGH GATE"
+          },
+          {
+            "stop_id": "stop_26_95248_75_84184",
+            "stop_name": "RAMGARH MODE"
+          },
+          {
+            "stop_id": "stop_26_96326_75_84623",
+            "stop_name": "JAL MAHAL"
+          },
+          {
+            "stop_id": "stop_26_98827_75_85533",
+            "stop_name": "KANAK GHATI"
+          },
+          {
+            "stop_id": "stop_26_99533_75_87608",
+            "stop_name": "AMER"
+          },
+          {
+            "stop_id": "stop_27_04096_75_89477",
+            "stop_name": "KUNDA"
+          },
+          {
+            "stop_id": "stop_27_04095_75_89486",
+            "stop_name": "KUKAS"
+          }
+        ]
+      }
+    ]
+  },
+  "GOBINDPURA <-> MGH": {
+    "route_short_name": "AC2",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_95157_75_70208",
+            "stop_name": "GOBINDPURA"
+          },
+          {
+            "stop_id": "stop_26_94793_75_72087",
+            "stop_name": "RAVAN GATE"
+          },
+          {
+            "stop_id": "stop_26_94522_75_73675",
+            "stop_name": "JOSHI MARG"
+          },
+          {
+            "stop_id": "stop_26_94440_75_74396",
+            "stop_name": "JHOTWARA KANTA"
+          },
+          {
+            "stop_id": "stop_26_94376_75_74671",
+            "stop_name": "BORING"
+          },
+          {
+            "stop_id": "stop_26_94286_75_76253",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94028_75_77410",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93941_75_78617",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_92048_75_78938",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_92235_75_79902",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_91774_75_80188",
+            "stop_name": "GOVT.HOSTEL"
+          },
+          {
+            "stop_id": "stop_26_91626_75_81030",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91423_75_81671",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_90753_75_81527",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_89919_75_81220",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89454_75_80853",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89094_75_80545",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88701_75_80274",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87947_75_79909",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_87345_75_79752",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_86628_75_79669",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_84969_75_79404",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_83938_75_79389",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_83576_75_79404",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_82899_75_79425",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_81871_75_79732",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_80879_75_80576",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_80731_75_80583",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_80374_75_80848",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_79669_75_81384",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_78542_75_82242",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_78116_75_82885",
+            "stop_name": "PODAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_77867_75_84207",
+            "stop_name": "CHATRALA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_76921_75_84659",
+            "stop_name": "GONER PHATAK"
+          },
+          {
+            "stop_id": "stop_26_77031_75_85289",
+            "stop_name": "MGH"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_77022_75_85301",
+            "stop_name": "MGH"
+          },
+          {
+            "stop_id": "stop_26_76895_75_84670",
+            "stop_name": "GONER PHATAK"
+          },
+          {
+            "stop_id": "stop_26_77869_75_84186",
+            "stop_name": "CHATRALA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_78116_75_82885",
+            "stop_name": "PODAR CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_78533_75_82227",
+            "stop_name": "INDIA GATE"
+          },
+          {
+            "stop_id": "stop_26_79657_75_81375",
+            "stop_name": "SECTOR 8"
+          },
+          {
+            "stop_id": "stop_26_80367_75_80834",
+            "stop_name": "SECTOR 5"
+          },
+          {
+            "stop_id": "stop_26_80750_75_80550",
+            "stop_name": "SECTOR 3"
+          },
+          {
+            "stop_id": "stop_26_81024_75_80341",
+            "stop_name": "GOSHALA"
+          },
+          {
+            "stop_id": "stop_26_81922_75_79638",
+            "stop_name": "SANGANER THANA"
+          },
+          {
+            "stop_id": "stop_26_82898_75_79413",
+            "stop_name": "RAM MANDIR"
+          },
+          {
+            "stop_id": "stop_26_83580_75_79384",
+            "stop_name": "TARO KI KOOT"
+          },
+          {
+            "stop_id": "stop_26_85079_75_79409",
+            "stop_name": "DURGAPURA"
+          },
+          {
+            "stop_id": "stop_26_86621_75_79645",
+            "stop_name": "GOPALPURA"
+          },
+          {
+            "stop_id": "stop_26_87344_75_79743",
+            "stop_name": "SAYEED KA GATTA"
+          },
+          {
+            "stop_id": "stop_26_87941_75_79887",
+            "stop_name": "TONK PHATAK"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89165_75_80580",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89556_75_80920",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91498_75_81673",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91379_75_80880",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91665_75_80079",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "GOVT.HOSTEL"
+          },
+          {
+            "stop_id": "stop_26_92047_75_78867",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94376_75_74671",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94435_75_74357",
+            "stop_name": "BORING"
+          },
+          {
+            "stop_id": "stop_26_94502_75_73715",
+            "stop_name": "JHOTWARA KANTA"
+          },
+          {
+            "stop_id": "stop_26_94769_75_72173",
+            "stop_name": "JOSHI MARG"
+          },
+          {
+            "stop_id": "stop_26_95152_75_70189",
+            "stop_name": "RAVAN GATE"
+          },
+          {
+            "stop_id": "stop_26_95152_75_70189",
+            "stop_name": "GOBINDPURA"
+          }
+        ]
+      }
+    ]
+  },
+  "DANTLI PHATAK <-> JOSHI MARG": {
+    "route_short_name": "AC7",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_82040_75_90144",
+            "stop_name": "DANTLI PHATAK"
+          },
+          {
+            "stop_id": "stop_26_83683_75_89241",
+            "stop_name": "KHATIPURA RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_83666_75_88503",
+            "stop_name": "SEC-5 JAGATPURA"
+          },
+          {
+            "stop_id": "stop_26_83624_75_87678",
+            "stop_name": "SECTOR.4"
+          },
+          {
+            "stop_id": "stop_26_83612_75_87376",
+            "stop_name": "SEC-3 JAGATPURA"
+          },
+          {
+            "stop_id": "stop_26_83598_75_86772",
+            "stop_name": "KUNDAN PURA"
+          },
+          {
+            "stop_id": "stop_26_83536_75_85032",
+            "stop_name": "CBI PHATAK"
+          },
+          {
+            "stop_id": "stop_26_83598_75_83541",
+            "stop_name": "JAGATPURA PHATAK"
+          },
+          {
+            "stop_id": "stop_26_84511_75_82926",
+            "stop_name": "MODAL TOWN"
+          },
+          {
+            "stop_id": "stop_26_85844_75_82383",
+            "stop_name": "APEX CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_86584_75_82280",
+            "stop_name": "KV3"
+          },
+          {
+            "stop_id": "stop_26_86792_75_82261",
+            "stop_name": "BAIJI KI KOTHI"
+          },
+          {
+            "stop_id": "stop_26_87557_75_82054",
+            "stop_name": "RTO"
+          },
+          {
+            "stop_id": "stop_26_88479_75_81168",
+            "stop_name": "GANDHI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_91170_75_81634",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91379_75_80880",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91676_75_80072",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_92009_75_78929",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94376_75_74671",
+            "stop_name": "BORING"
+          },
+          {
+            "stop_id": "stop_26_94435_75_74357",
+            "stop_name": "JHOTWARA KANTA"
+          },
+          {
+            "stop_id": "stop_26_94528_75_73677",
+            "stop_name": "JOSHI MARG"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_94528_75_73677",
+            "stop_name": "JOSHI MARG"
+          },
+          {
+            "stop_id": "stop_26_94435_75_74357",
+            "stop_name": "JHOTWARA KANTA"
+          },
+          {
+            "stop_id": "stop_26_94376_75_74671",
+            "stop_name": "BORING"
+          },
+          {
+            "stop_id": "stop_26_94278_75_76263",
+            "stop_name": "LATA CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_94000_75_77485",
+            "stop_name": "CHOMU PULIYA"
+          },
+          {
+            "stop_id": "stop_26_93986_75_77744",
+            "stop_name": "AMBA BARI"
+          },
+          {
+            "stop_id": "stop_26_93934_75_78596",
+            "stop_name": "PANI PACH"
+          },
+          {
+            "stop_id": "stop_26_93263_75_78492",
+            "stop_name": "CHINKARA"
+          },
+          {
+            "stop_id": "stop_26_92009_75_78929",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_91676_75_80072",
+            "stop_name": "GPO"
+          },
+          {
+            "stop_id": "stop_26_91379_75_80880",
+            "stop_name": "PANCH BATI"
+          },
+          {
+            "stop_id": "stop_26_91451_75_81681",
+            "stop_name": "AJMERI GATE"
+          },
+          {
+            "stop_id": "stop_26_91170_75_81634",
+            "stop_name": "MAHARANI COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_90691_75_81507",
+            "stop_name": "SMS HOSPITAL"
+          },
+          {
+            "stop_id": "stop_26_89894_75_81179",
+            "stop_name": "NARAYAN SINGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89646_75_80993",
+            "stop_name": "RAMBAGH CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_89156_75_80592",
+            "stop_name": "LAL KOTHI"
+          },
+          {
+            "stop_id": "stop_26_88686_75_80242",
+            "stop_name": "GANDHI NAGAR MOD"
+          },
+          {
+            "stop_id": "stop_26_88494_75_81151",
+            "stop_name": "GANDHI CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_87557_75_82054",
+            "stop_name": "RTO"
+          },
+          {
+            "stop_id": "stop_26_86792_75_82261",
+            "stop_name": "BAIJI KI KOTHI"
+          },
+          {
+            "stop_id": "stop_26_86584_75_82280",
+            "stop_name": "KV3"
+          },
+          {
+            "stop_id": "stop_26_85844_75_82383",
+            "stop_name": "APEX CIRCLE"
+          },
+          {
+            "stop_id": "stop_26_84511_75_82926",
+            "stop_name": "MODAL TOWN"
+          },
+          {
+            "stop_id": "stop_26_83598_75_83541",
+            "stop_name": "JAGATPURA PHATAK"
+          },
+          {
+            "stop_id": "stop_26_83536_75_85032",
+            "stop_name": "CBI PHATAK"
+          },
+          {
+            "stop_id": "stop_26_83598_75_86772",
+            "stop_name": "KUNDAN PURA"
+          },
+          {
+            "stop_id": "stop_26_83612_75_87376",
+            "stop_name": "SEC-3 JAGATPURA"
+          },
+          {
+            "stop_id": "stop_26_83624_75_87678",
+            "stop_name": "SECTOR.4"
+          },
+          {
+            "stop_id": "stop_26_83666_75_88503",
+            "stop_name": "SEC-5 JAGATPURA"
+          },
+          {
+            "stop_id": "stop_26_83683_75_89241",
+            "stop_name": "KHATIPURA RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_82040_75_90144",
+            "stop_name": "DANTLI PHATAK"
+          }
+        ]
+      }
+    ]
+  },
+  "CHOTI CHOPAR <-> MUNDIYARAMSAR": {
+    "route_short_name": "AC8",
+    "stop_sequences": [
+      {
+        "direction_id": 0,
+        "stops": [
+          {
+            "stop_id": "stop_26_92476_75_81807",
+            "stop_name": "CHOTI CHOPAR"
+          },
+          {
+            "stop_id": "stop_26_92581_75_80768",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92298_75_80186",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_92155_75_79709",
+            "stop_name": "POLOVICTORY"
+          },
+          {
+            "stop_id": "stop_26_92048_75_78948",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_91583_75_77484",
+            "stop_name": "HASANPURA"
+          },
+          {
+            "stop_id": "stop_26_91543_75_77215",
+            "stop_name": "HATWARA"
+          },
+          {
+            "stop_id": "stop_26_91754_75_76681",
+            "stop_name": "KV NO.4"
+          },
+          {
+            "stop_id": "stop_26_92087_75_75480",
+            "stop_name": "JHARKHAND MODE"
+          },
+          {
+            "stop_id": "stop_26_92283_75_74581",
+            "stop_name": "KHATIPURA"
+          },
+          {
+            "stop_id": "stop_26_92077_75_73112",
+            "stop_name": "PANCHAYALA PULIYA"
+          },
+          {
+            "stop_id": "stop_26_92112_75_72744",
+            "stop_name": "PANCHYAWALA"
+          },
+          {
+            "stop_id": "stop_26_92190_75_72339",
+            "stop_name": "ALANKAR COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_92379_75_71555",
+            "stop_name": "MEENAWALA"
+          },
+          {
+            "stop_id": "stop_26_92422_75_70624",
+            "stop_name": "SHEKHWAT COLONY"
+          },
+          {
+            "stop_id": "stop_26_92440_75_70146",
+            "stop_name": "KANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_92262_75_68789",
+            "stop_name": "SIRSI MODE"
+          },
+          {
+            "stop_id": "stop_26_92084_75_67583",
+            "stop_name": "HATHOJ MODE"
+          },
+          {
+            "stop_id": "stop_26_92095_75_65988",
+            "stop_name": "BINDYAKA"
+          },
+          {
+            "stop_id": "stop_26_91852_75_64609",
+            "stop_name": "SHIWAR"
+          },
+          {
+            "stop_id": "stop_26_91305_75_63821",
+            "stop_name": "FIRE STATION"
+          },
+          {
+            "stop_id": "stop_26_89993_75_63068",
+            "stop_name": "NIMEDA"
+          },
+          {
+            "stop_id": "stop_26_90123_75_61739",
+            "stop_name": "MUNDIYARAMSAR"
+          }
+        ]
+      },
+      {
+        "direction_id": 1,
+        "stops": [
+          {
+            "stop_id": "stop_26_90130_75_61743",
+            "stop_name": "MUNDIYARAMSAR"
+          },
+          {
+            "stop_id": "stop_26_89997_75_63038",
+            "stop_name": "NIMEDA"
+          },
+          {
+            "stop_id": "stop_26_91351_75_63864",
+            "stop_name": "FIRE STATION"
+          },
+          {
+            "stop_id": "stop_26_91860_75_64582",
+            "stop_name": "SHIWAR"
+          },
+          {
+            "stop_id": "stop_26_92111_75_66037",
+            "stop_name": "BINDYAKA"
+          },
+          {
+            "stop_id": "stop_26_92093_75_67568",
+            "stop_name": "HATHOJ MODE"
+          },
+          {
+            "stop_id": "stop_26_92270_75_68779",
+            "stop_name": "SIRSI MODE"
+          },
+          {
+            "stop_id": "stop_26_92451_75_70120",
+            "stop_name": "KANAKPURA"
+          },
+          {
+            "stop_id": "stop_26_92435_75_70616",
+            "stop_name": "SHEKHWAT COLONY"
+          },
+          {
+            "stop_id": "stop_26_92402_75_71516",
+            "stop_name": "MEENAWALA"
+          },
+          {
+            "stop_id": "stop_26_92356_75_71710",
+            "stop_name": "ALANKAR COLLAGE"
+          },
+          {
+            "stop_id": "stop_26_92117_75_72732",
+            "stop_name": "PANCHYAWALA"
+          },
+          {
+            "stop_id": "stop_26_92086_75_73090",
+            "stop_name": "PANCHAYALA PULIYA"
+          },
+          {
+            "stop_id": "stop_26_92305_75_74547",
+            "stop_name": "KHATIPURA"
+          },
+          {
+            "stop_id": "stop_26_92103_75_75476",
+            "stop_name": "JHARKHAND MODE"
+          },
+          {
+            "stop_id": "stop_26_91765_75_76685",
+            "stop_name": "KV NO.4"
+          },
+          {
+            "stop_id": "stop_26_91535_75_77194",
+            "stop_name": "HATWARA"
+          },
+          {
+            "stop_id": "stop_26_91589_75_77438",
+            "stop_name": "HASANPURA"
+          },
+          {
+            "stop_id": "stop_26_92046_75_78932",
+            "stop_name": "RAILWAY STATION"
+          },
+          {
+            "stop_id": "stop_26_92153_75_79673",
+            "stop_name": "POLOVICTORY"
+          },
+          {
+            "stop_id": "stop_26_92228_75_79889",
+            "stop_name": "SINDHI CAMP"
+          },
+          {
+            "stop_id": "stop_26_92607_75_80697",
+            "stop_name": "CHANDPOLE"
+          },
+          {
+            "stop_id": "stop_26_92484_75_81815",
+            "stop_name": "CHOTI CHOPAR"
+          }
+        ]
+      }
+    ]
+  }
+}
