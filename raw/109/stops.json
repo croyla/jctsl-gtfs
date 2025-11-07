@@ -1,0 +1,160 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "CHOMU",
+        "stop_code": "CHOMU",
+        "latitude": "27.16806",
+        "longitude": "75.72384",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAITPURA",
+        "stop_code": "15JAI",
+        "latitude": "27.12366",
+        "longitude": "75.73213",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMPURA",
+        "stop_code": "RAMPU",
+        "latitude": "27.09921",
+        "longitude": "75.7373",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MOTA KA BAS",
+        "stop_code": "MOTUK",
+        "latitude": "27.07646",
+        "longitude": "75.74747",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAJAWAS",
+        "stop_code": "RAJAW",
+        "latitude": "27.06192",
+        "longitude": "75.75157",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TODI",
+        "stop_code": "TODI",
+        "latitude": "27.033432",
+        "longitude": "75.784661",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HARMARA",
+        "stop_code": "HARMA",
+        "latitude": "27.01735",
+        "longitude": "75.76955",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 14",
+        "stop_code": "VKI14",
+        "latitude": "26.99722",
+        "longitude": "75.77077",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 9",
+        "stop_code": "VKI9",
+        "latitude": "26.98686",
+        "longitude": "75.77323",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 1",
+        "stop_code": "VKI1",
+        "latitude": "26.97061",
+        "longitude": "75.77245",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ALKA CINEMA",
+        "stop_code": "AKC",
+        "latitude": "26.96699",
+        "longitude": "75.77245",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHETAN HOS",
+        "stop_code": "KEHOS",
+        "latitude": "26.96074",
+        "longitude": "75.77155",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHER KA BALAJI",
+        "stop_code": "DLAJI",
+        "latitude": "26.95558",
+        "longitude": "75.77158",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94",
+        "longitude": "75.77485",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.93986",
+        "longitude": "75.77744",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.93934",
+        "longitude": "75.78596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "T.B.HOSPITAL",
+        "stop_code": "TBHOS",
+        "latitude": "26.93515",
+        "longitude": "75.79327",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PITAL FACTORY",
+        "stop_code": "PTORY",
+        "latitude": "26.93283",
+        "longitude": "75.79785",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.92581",
+        "longitude": "75.80768",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

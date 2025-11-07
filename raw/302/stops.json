@@ -1,0 +1,160 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.91673",
+        "longitude": "75.81733",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.91172",
+        "longitude": "75.81604",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.90722",
+        "longitude": "75.8151",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LALNIWAS",
+        "stop_code": "LOI",
+        "latitude": "26.899926",
+        "longitude": "75.81248",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.895201",
+        "longitude": "75.808903",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.89116",
+        "longitude": "75.80554",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.88687",
+        "longitude": "75.80242",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.87931",
+        "longitude": "75.79897",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.87552",
+        "longitude": "75.79635",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VASUNDHARA",
+        "stop_code": "VASUN",
+        "latitude": "26.862592",
+        "longitude": "75.795908",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRIVENI NAGAR",
+        "stop_code": "TNAGA",
+        "latitude": "26.86841",
+        "longitude": "75.8404",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RIDHI SIDHI",
+        "stop_code": "RIDHI",
+        "latitude": "26.8725",
+        "longitude": "75.77689",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GUJAR KI THADI",
+        "stop_code": "GKTHA",
+        "latitude": "26.88083",
+        "longitude": "75.76626",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANGA JAMUNA",
+        "stop_code": "GANGA",
+        "latitude": "26.8794",
+        "longitude": "75.76152",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SWARAN PATH",
+        "stop_code": "SWARA",
+        "latitude": "26.871647",
+        "longitude": "75.755125",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ARAWALI PATH",
+        "stop_code": "ARAWA",
+        "latitude": "26.861245",
+        "longitude": "75.755086",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VT ROAD",
+        "stop_code": "VTROA",
+        "latitude": "26.86144",
+        "longitude": "75.76293",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BABA PARADISE",
+        "stop_code": "BABAP",
+        "latitude": "26.847516",
+        "longitude": "75.751801",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PATRAKAR COLONY",
+        "stop_code": "PATRA",
+        "latitude": "26.842855",
+        "longitude": "75.747508",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

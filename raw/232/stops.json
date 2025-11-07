@@ -1,0 +1,248 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.914858",
+        "longitude": "75.816882",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.907248",
+        "longitude": "75.815257",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.89911",
+        "longitude": "75.812139",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.895199",
+        "longitude": "75.809087",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.891787",
+        "longitude": "75.806228",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.8871",
+        "longitude": "75.80278",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.879469",
+        "longitude": "75.79909",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.873416",
+        "longitude": "75.797522",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.86628",
+        "longitude": "75.79669",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPALPURA",
+        "stop_code": "JHC",
+        "latitude": "26.858156",
+        "longitude": "75.795485",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHAVEER NAGAR",
+        "stop_code": "MNAGA",
+        "latitude": "26.84969",
+        "longitude": "75.79404",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DURGAPURA",
+        "stop_code": "DGP",
+        "latitude": "26.842181",
+        "longitude": "75.793745",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CITY PLEX",
+        "stop_code": "CPLEX",
+        "latitude": "26.8357642",
+        "longitude": "75.794043",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TARO KI KOOT",
+        "stop_code": "RMR",
+        "latitude": "26.8289865",
+        "longitude": "75.794249",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAM MANDIR",
+        "stop_code": "RMN",
+        "latitude": "26.818795",
+        "longitude": "75.797287",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANER THANA",
+        "stop_code": "SGT",
+        "latitude": "26.81575",
+        "longitude": "75.799596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BOOKING",
+        "stop_code": "BOOKI",
+        "latitude": "26.810876",
+        "longitude": "75.803149",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOSHALA",
+        "stop_code": "GHA",
+        "latitude": "26.807282",
+        "longitude": "75.805821",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 3",
+        "stop_code": "SECT3",
+        "latitude": "26.802887",
+        "longitude": "75.809124",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 5",
+        "stop_code": "SEC5",
+        "latitude": "26.796431",
+        "longitude": "75.814048",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 8",
+        "stop_code": "SEC8",
+        "latitude": "26.784919",
+        "longitude": "75.82276",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "INDIA GATE",
+        "stop_code": "IAG",
+        "latitude": "26.780149",
+        "longitude": "75.826373",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SITAPURA",
+        "stop_code": "SPR",
+        "latitude": "26.76895",
+        "longitude": "75.83537",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "12 MILE",
+        "stop_code": "12M",
+        "latitude": "26.765835",
+        "longitude": "75.838564",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GONER MODE",
+        "stop_code": "GONMD",
+        "latitude": "26.77032",
+        "longitude": "75.852547",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MGH",
+        "stop_code": "JML",
+        "latitude": "26.777193",
+        "longitude": "75.879256",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VIDHANI",
+        "stop_code": "VIDHA",
+        "latitude": "26.77583",
+        "longitude": "75.888507",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POORNIMA UNIVERSITY",
+        "stop_code": "POORN",
+        "latitude": "26.776141",
+        "longitude": "75.88545",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GAYATRI MANDIR",
+        "stop_code": "GAYTR",
+        "latitude": "26.785804",
+        "longitude": "75.911079",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GONER",
+        "stop_code": "GNR",
+        "latitude": "26.785755",
+        "longitude": "75.911215",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

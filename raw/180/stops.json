@@ -1,0 +1,350 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "BADI CHOPAR",
+        "stop_code": "BOPAR",
+        "latitude": "26.92326",
+        "longitude": "75.82679",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SUBHASH CHOWK",
+        "stop_code": "SHOWK",
+        "latitude": "26.92973",
+        "longitude": "75.82886",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JORAWER SINGH GATE",
+        "stop_code": "JSATE",
+        "latitude": "26.93526",
+        "longitude": "75.83346",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVIND NAGAR",
+        "stop_code": "GANAR",
+        "latitude": "26.93983",
+        "longitude": "75.83729",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGARH MODE",
+        "stop_code": "BIR",
+        "latitude": "26.94613",
+        "longitude": "75.84063",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHUNGI NAKA",
+        "stop_code": "CIN",
+        "latitude": "26.94725",
+        "longitude": "75.85196",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAISINGHPHURA MOD",
+        "stop_code": "JAISI",
+        "latitude": "26.95103",
+        "longitude": "75.86181",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SADWA",
+        "stop_code": "SADWA",
+        "latitude": "26.96109",
+        "longitude": "75.86796",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LALWAS",
+        "stop_code": "LALW",
+        "latitude": "26.96855",
+        "longitude": "75.90445",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NAI KI TADI",
+        "stop_code": "NAIKT",
+        "latitude": "26.96832",
+        "longitude": "75.89238",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHAMUNDA MATA",
+        "stop_code": "CHAMU",
+        "latitude": "26.96915",
+        "longitude": "75.90587",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATWARA",
+        "stop_code": "HATWA",
+        "latitude": "26.97193",
+        "longitude": "75.91465",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAIPURA",
+        "stop_code": "SAIPR",
+        "latitude": "26.97889",
+        "longitude": "75.92453",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHAINPURA",
+        "stop_code": "CHAIN",
+        "latitude": "26.98887",
+        "longitude": "75.9525",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA WALA",
+        "stop_code": "HWALA",
+        "latitude": "26.99468",
+        "longitude": "75.96925",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAALI",
+        "stop_code": "LALI",
+        "latitude": "27.00224",
+        "longitude": "75.97882",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NAYABAS",
+        "stop_code": "NAYAB",
+        "latitude": "27.00583",
+        "longitude": "75.98173",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "G D MODE",
+        "stop_code": "GDMOD",
+        "latitude": "27.01896",
+        "longitude": "75.99867",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGARH",
+        "stop_code": "RAMGA",
+        "latitude": "27.01865",
+        "longitude": "76.01422",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5981",
+            "eta": "RJ14PE5981",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.97150950",
+            "longitude": "75.91443640",
+            "heading": "26.99"
+          }
+        ],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

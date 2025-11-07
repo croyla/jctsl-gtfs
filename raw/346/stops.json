@@ -1,0 +1,656 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "MGH",
+        "stop_code": "JML",
+        "latitude": "26.770218",
+        "longitude": "75.853008",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GONER PHATAK",
+        "stop_code": "KKI",
+        "latitude": "26.768949",
+        "longitude": "75.8467",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHATRALA CIRCLE",
+        "stop_code": "AMR",
+        "latitude": "26.778695",
+        "longitude": "75.841858",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PODAR CIRCLE",
+        "stop_code": "PRC",
+        "latitude": "26.781158",
+        "longitude": "75.828846",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "INDIA GATE",
+        "stop_code": "IAG",
+        "latitude": "26.785344",
+        "longitude": "75.822271",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 8",
+        "stop_code": "SEC8",
+        "latitude": "26.796566",
+        "longitude": "75.813751",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 5",
+        "stop_code": "SEC5",
+        "latitude": "26.803667",
+        "longitude": "75.808343",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 3",
+        "stop_code": "SECT3",
+        "latitude": "26.807477",
+        "longitude": "75.805459",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOSHALA",
+        "stop_code": "GHA",
+        "latitude": "26.810244",
+        "longitude": "75.803413",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANER THANA",
+        "stop_code": "SGT",
+        "latitude": "26.8192174",
+        "longitude": "75.796378",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAM MANDIR",
+        "stop_code": "RMN",
+        "latitude": "26.828984",
+        "longitude": "75.79414",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TARO KI KOOT",
+        "stop_code": "RMR",
+        "latitude": "26.835783",
+        "longitude": "75.793783",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DURGAPURA",
+        "stop_code": "DGP",
+        "latitude": "26.850793",
+        "longitude": "75.794086",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPALPURA",
+        "stop_code": "JHC",
+        "latitude": "26.866212",
+        "longitude": "75.796446",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.87344",
+        "longitude": "75.79743",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.879443",
+        "longitude": "75.798891",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.88686",
+        "longitude": "75.80242",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.89161",
+        "longitude": "75.805813",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.89556",
+        "longitude": "75.809202",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.89894",
+        "longitude": "75.81179",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.90691",
+        "longitude": "75.81507",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.915045",
+        "longitude": "75.816736",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.91379",
+        "longitude": "75.8088",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCH BATI",
+        "stop_code": "PHI",
+        "latitude": "26.916646",
+        "longitude": "75.800786",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVT.HOSTEL",
+        "stop_code": "GHL",
+        "latitude": "26.92298",
+        "longitude": "75.80186",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SINDHI CAMP",
+        "stop_code": "SCAMP",
+        "latitude": "26.920467",
+        "longitude": "75.788674",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAILWAY STATION",
+        "stop_code": "RAILW",
+        "latitude": "26.93263",
+        "longitude": "75.78492",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHINKARA",
+        "stop_code": "CKA",
+        "latitude": "26.93934",
+        "longitude": "75.78596",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.94",
+        "longitude": "75.77485",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94278",
+        "longitude": "75.76263",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LATA CIRCLE",
+        "stop_code": "LCE",
+        "latitude": "26.943758",
+        "longitude": "75.746715",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BORING",
+        "stop_code": "BIG",
+        "latitude": "26.944354",
+        "longitude": "75.74361",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JHOTWARA KANTA",
+        "stop_code": "JWK",
+        "latitude": "26.945029",
+        "longitude": "75.737128",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JOSHI MARG",
+        "stop_code": "JIG",
+        "latitude": "26.947667",
+        "longitude": "75.721732",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAVAN GATE",
+        "stop_code": "RNG",
+        "latitude": "26.951527",
+        "longitude": "75.701862",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOBINDPURA",
+        "stop_code": "GDR",
+        "latitude": "26.951516",
+        "longitude": "75.701886",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5917",
+            "eta": "RJ14PE5917",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.95041270",
+            "longitude": "75.70788530",
+            "heading": "127.79"
+          }
+        ],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

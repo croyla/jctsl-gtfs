@@ -1,0 +1,312 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "GONER",
+        "stop_code": "GNR",
+        "latitude": "26.785853",
+        "longitude": "75.911072",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SIROLI",
+        "stop_code": "SRI",
+        "latitude": "26.8018102",
+        "longitude": "75.904201",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DANTLI",
+        "stop_code": "DNI",
+        "latitude": "26.818796",
+        "longitude": "75.9015",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAILWAY PHATAK",
+        "stop_code": "RYK",
+        "latitude": "26.836475",
+        "longitude": "75.898137",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVINDPURA",
+        "stop_code": "GB27",
+        "latitude": "26.849195",
+        "longitude": "75.89924",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VIDHIYA MOD",
+        "stop_code": "VYM",
+        "latitude": "26.858819",
+        "longitude": "75.893281",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LUNIYAWAS",
+        "stop_code": "LYS",
+        "latitude": "26.866905",
+        "longitude": "75.891822",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MACHCH KI PIPALI",
+        "stop_code": "MKP",
+        "latitude": "26.881384",
+        "longitude": "75.877746",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POWER HOUSE",
+        "stop_code": "PRH",
+        "latitude": "26.885445",
+        "longitude": "75.87397",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHANIYA",
+        "stop_code": "KNY",
+        "latitude": "26.893303",
+        "longitude": "75.865649",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRANSPORT NGR",
+        "stop_code": "TRANS",
+        "latitude": "26.90445",
+        "longitude": "75.84454",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GHAT GATE",
+        "stop_code": "GTG",
+        "latitude": "26.91342",
+        "longitude": "75.832668",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANERI GATE",
+        "stop_code": "SGG",
+        "latitude": "26.915276",
+        "longitude": "75.823588",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.91451",
+        "longitude": "75.816866",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.907341",
+        "longitude": "75.815258",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.899871",
+        "longitude": "75.8127",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.896345",
+        "longitude": "75.810032",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.89164",
+        "longitude": "75.806071",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.887144",
+        "longitude": "75.802751",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.879603",
+        "longitude": "75.799124",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.871745",
+        "longitude": "75.797353",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.866359",
+        "longitude": "75.79663",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPALPURA",
+        "stop_code": "JHC",
+        "latitude": "26.849876",
+        "longitude": "75.794035",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DURGAPURA",
+        "stop_code": "DGP",
+        "latitude": "26.838259",
+        "longitude": "75.793907",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAWAHAR CIRCLE",
+        "stop_code": "JAWAC",
+        "latitude": "26.835811",
+        "longitude": "75.793928",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TARO KI KOOT",
+        "stop_code": "RMR",
+        "latitude": "26.82911",
+        "longitude": "75.794253",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAM MANDIR",
+        "stop_code": "RMN",
+        "latitude": "26.818711",
+        "longitude": "75.797324",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANER THANA",
+        "stop_code": "SGT",
+        "latitude": "26.810963",
+        "longitude": "75.803045",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOSHALA",
+        "stop_code": "GHA",
+        "latitude": "26.802733",
+        "longitude": "75.809223",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 5",
+        "stop_code": "SEC5",
+        "latitude": "26.798499",
+        "longitude": "75.812466",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 8",
+        "stop_code": "SEC8",
+        "latitude": "26.784879",
+        "longitude": "75.822776",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "INDIA GATE",
+        "stop_code": "IAG",
+        "latitude": "26.77997",
+        "longitude": "75.826508",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SITAPURA",
+        "stop_code": "SPR",
+        "latitude": "26.768949",
+        "longitude": "75.834926",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "12 MILE",
+        "stop_code": "12M",
+        "latitude": "26.754808",
+        "longitude": "75.823122",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ASHAWALA",
+        "stop_code": "AWA",
+        "latitude": "26.746026",
+        "longitude": "75.820444",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KALLAWALA",
+        "stop_code": "KLA",
+        "latitude": "26.737278",
+        "longitude": "75.817717",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHATAWALA",
+        "stop_code": "BTL",
+        "latitude": "26.713014",
+        "longitude": "75.803724",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "WATIKA",
+        "stop_code": "WIA",
+        "latitude": "26.713644",
+        "longitude": "75.804365",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

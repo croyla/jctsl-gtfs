@@ -1,0 +1,16 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": [
+    {
+      "start_time": "08:30:00",
+      "end_time": "09:50:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "15:00:00",
+      "end_time": "16:20:00",
+      "bus_type_name": "NON-AC"
+    }
+  ]
+}

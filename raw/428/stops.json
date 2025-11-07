@@ -1,0 +1,584 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "ANANDAM MANGLAM",
+        "stop_code": "ANAND",
+        "latitude": "26.81695",
+        "longitude": "75.772353",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMPURA FATAK",
+        "stop_code": "RAMF",
+        "latitude": "26.818377",
+        "longitude": "75.772559",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RICCO KANTA",
+        "stop_code": "RANTA",
+        "latitude": "26.826823",
+        "longitude": "75.776992",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SUMER NAGAR",
+        "stop_code": "SAGAR",
+        "latitude": "26.83922",
+        "longitude": "75.76782",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ICG",
+        "stop_code": "ICG",
+        "latitude": "26.840689",
+        "longitude": "75.770707",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SFS CIRCLE",
+        "stop_code": "SFSLE",
+        "latitude": "26.8403",
+        "longitude": "75.77415",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHIPRA PATH",
+        "stop_code": "SPATH",
+        "latitude": "26.8434",
+        "longitude": "75.77758",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI FARM",
+        "stop_code": "MFARM",
+        "latitude": "26.854583",
+        "longitude": "75.773264",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DURGAPURA STATION",
+        "stop_code": "DTION",
+        "latitude": "26.864789",
+        "longitude": "75.772893",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRIVENI NAGAR",
+        "stop_code": "TNAGA",
+        "latitude": "26.8723",
+        "longitude": "75.77868",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPALPURA",
+        "stop_code": "JHC",
+        "latitude": "26.866994",
+        "longitude": "75.785065",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.86628",
+        "longitude": "75.79669",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.871033",
+        "longitude": "75.797101",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.87932",
+        "longitude": "75.79897",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.88686",
+        "longitude": "75.80242",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.89156",
+        "longitude": "75.80592",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.896461",
+        "longitude": "75.809931",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.89894",
+        "longitude": "75.81179",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.90691",
+        "longitude": "75.81507",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.9117",
+        "longitude": "75.81634",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANERI GATE",
+        "stop_code": "SGG",
+        "latitude": "26.91451",
+        "longitude": "75.81681",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADI CHOPAR",
+        "stop_code": "BOPAR",
+        "latitude": "26.9152",
+        "longitude": "75.82356",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SUBHASH CHOWK",
+        "stop_code": "SHOWK",
+        "latitude": "26.92312",
+        "longitude": "75.82663",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JORAWER SINGH GATE",
+        "stop_code": "JSATE",
+        "latitude": "26.929794",
+        "longitude": "75.828789",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVIND NAGAR",
+        "stop_code": "GANAR",
+        "latitude": "26.93526",
+        "longitude": "75.83346",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGARH MODE",
+        "stop_code": "BIR",
+        "latitude": "26.93983",
+        "longitude": "75.83729",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHUNGI NAKA",
+        "stop_code": "CIN",
+        "latitude": "26.944999",
+        "longitude": "75.839734",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAISINGHPHURA MOD",
+        "stop_code": "JAISI",
+        "latitude": "26.94623",
+        "longitude": "75.850441",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAISINGHPURA KHOR",
+        "stop_code": "JKHOR",
+        "latitude": "26.951058",
+        "longitude": "75.862485",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HARJI VIHAR",
+        "stop_code": "HARJI",
+        "latitude": "26.950566",
+        "longitude": "75.878856",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "J.D.A.COLONY",
+        "stop_code": "JDAC",
+        "latitude": "26.949627",
+        "longitude": "75.886814",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAISINGHPURA THANA",
+        "stop_code": "JAIST",
+        "latitude": "26.94804",
+        "longitude": "75.89336",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PE5952",
+            "eta": "RJ14PE5952",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.95106920",
+            "longitude": "75.86364000",
+            "heading": "89.88"
+          }
+        ],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

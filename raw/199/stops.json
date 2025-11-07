@@ -1,0 +1,192 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "MUNDIYARAMSAR",
+        "stop_code": "MSR",
+        "latitude": "26.901296",
+        "longitude": "75.617429",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NIMEDA",
+        "stop_code": "NMD",
+        "latitude": "26.899973",
+        "longitude": "75.630383",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "FIRE STATION",
+        "stop_code": "FSN",
+        "latitude": "26.913511",
+        "longitude": "75.638636",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHIWAR",
+        "stop_code": "SHIWA",
+        "latitude": "26.918597",
+        "longitude": "75.645823",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BINDYAKA",
+        "stop_code": "BINDY",
+        "latitude": "26.921111",
+        "longitude": "75.66037",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATHOJ MODE",
+        "stop_code": "HATJM",
+        "latitude": "26.920933",
+        "longitude": "75.675679",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SIRSI MODE",
+        "stop_code": "SIRSI",
+        "latitude": "26.922696",
+        "longitude": "75.687792",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KANAKPURA",
+        "stop_code": "KANPR",
+        "latitude": "26.924511",
+        "longitude": "75.701196",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHEKHWAT COLONY",
+        "stop_code": "SHEKC",
+        "latitude": "26.924347",
+        "longitude": "75.706165",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MEENAWALA",
+        "stop_code": "MEENA",
+        "latitude": "26.924021",
+        "longitude": "75.715159",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ALANKAR COLLAGE",
+        "stop_code": "ALANC",
+        "latitude": "26.923561",
+        "longitude": "75.717102",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCHYAWALA",
+        "stop_code": "PANYL",
+        "latitude": "26.921171",
+        "longitude": "75.72732",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCHAYALA PULIYA",
+        "stop_code": "PLIYA",
+        "latitude": "26.92086",
+        "longitude": "75.730902",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHATIPURA",
+        "stop_code": "KTPA",
+        "latitude": "26.92305",
+        "longitude": "75.74547",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JHARKHAND MODE",
+        "stop_code": "JHARK",
+        "latitude": "26.921029",
+        "longitude": "75.754763",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KV NO.4",
+        "stop_code": "KVNO4",
+        "latitude": "26.917645",
+        "longitude": "75.766853",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATWARA",
+        "stop_code": "HATWA",
+        "latitude": "26.915352",
+        "longitude": "75.77194",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HASANPURA",
+        "stop_code": "HASAN",
+        "latitude": "26.915886",
+        "longitude": "75.774378",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAILWAY STATION",
+        "stop_code": "RAILW",
+        "latitude": "26.920459",
+        "longitude": "75.789317",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POLOVICTORY",
+        "stop_code": "POLOY",
+        "latitude": "26.921533",
+        "longitude": "75.796726",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SINDHI CAMP",
+        "stop_code": "SCAMP",
+        "latitude": "26.922285",
+        "longitude": "75.798888",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.926067",
+        "longitude": "75.806966",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOTI CHOPAR",
+        "stop_code": "COPAR",
+        "latitude": "26.924835",
+        "longitude": "75.818151",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

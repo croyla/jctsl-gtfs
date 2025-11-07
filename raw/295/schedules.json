@@ -1,0 +1,206 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": [
+    {
+      "start_time": "06:10:00",
+      "end_time": "07:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "07:00:00",
+      "end_time": "08:30:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "07:20:00",
+      "end_time": "08:50:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "07:35:00",
+      "end_time": "09:05:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "08:10:00",
+      "end_time": "09:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "08:16:00",
+      "end_time": "09:46:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "08:30:00",
+      "end_time": "10:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "09:10:00",
+      "end_time": "10:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "09:30:00",
+      "end_time": "10:50:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "09:50:00",
+      "end_time": "11:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "10:10:00",
+      "end_time": "11:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "10:30:00",
+      "end_time": "12:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "10:50:00",
+      "end_time": "12:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "11:10:00",
+      "end_time": "12:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "11:30:00",
+      "end_time": "13:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "11:50:00",
+      "end_time": "13:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "12:10:00",
+      "end_time": "13:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "12:30:00",
+      "end_time": "14:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "12:50:00",
+      "end_time": "14:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "13:10:00",
+      "end_time": "14:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "13:30:00",
+      "end_time": "15:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "13:39:00",
+      "end_time": "15:09:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "13:50:00",
+      "end_time": "15:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "14:30:00",
+      "end_time": "16:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "14:50:00",
+      "end_time": "16:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "15:10:00",
+      "end_time": "16:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "15:30:00",
+      "end_time": "17:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "15:50:00",
+      "end_time": "17:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "16:10:00",
+      "end_time": "17:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "16:30:00",
+      "end_time": "18:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "16:50:00",
+      "end_time": "18:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "17:30:00",
+      "end_time": "19:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "17:50:00",
+      "end_time": "19:20:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "17:54:00",
+      "end_time": "19:24:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "18:10:00",
+      "end_time": "19:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "18:40:00",
+      "end_time": "20:10:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "19:10:00",
+      "end_time": "20:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "19:30:00",
+      "end_time": "21:00:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "20:10:00",
+      "end_time": "21:40:00",
+      "bus_type_name": "NON-AC"
+    },
+    {
+      "start_time": "20:30:00",
+      "end_time": "22:00:00",
+      "bus_type_name": "NON-AC"
+    }
+  ]
+}

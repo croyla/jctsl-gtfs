@@ -1,0 +1,232 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "GALTA",
+        "stop_code": "GALTA",
+        "latitude": "26.91767",
+        "longitude": "75.84897",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGANJ CHOPAD",
+        "stop_code": "RAPAD",
+        "latitude": "26.9209",
+        "longitude": "75.83568",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADI CHOPAR",
+        "stop_code": "BOPAR",
+        "latitude": "26.92312",
+        "longitude": "75.82663",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOTI CHOPAR",
+        "stop_code": "COPAR",
+        "latitude": "26.92476",
+        "longitude": "75.81877",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.92581",
+        "longitude": "75.80768",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SINDHI CAMP",
+        "stop_code": "SCAMP",
+        "latitude": "26.92298",
+        "longitude": "75.80186",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAILWAY STATION",
+        "stop_code": "RAILW",
+        "latitude": "26.92009",
+        "longitude": "75.78929",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAM MANDIR",
+        "stop_code": "RMN",
+        "latitude": "26.926432",
+        "longitude": "75.784977",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHINKARA",
+        "stop_code": "CKA",
+        "latitude": "26.93263",
+        "longitude": "75.78492",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.93934",
+        "longitude": "75.78596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.93986",
+        "longitude": "75.77744",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94",
+        "longitude": "75.77485",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAWANI NIKETAN",
+        "stop_code": "BETAN",
+        "latitude": "26.94612",
+        "longitude": "75.77321",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHER KA BALAJI",
+        "stop_code": "DLAJI",
+        "latitude": "26.95558",
+        "longitude": "75.77158",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHETAN HOS",
+        "stop_code": "KEHOS",
+        "latitude": "26.96074",
+        "longitude": "75.77155",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "M. SCHOOL",
+        "stop_code": "MSCHO",
+        "latitude": "26.96624",
+        "longitude": "75.77225",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 1",
+        "stop_code": "VKI1",
+        "latitude": "26.97061",
+        "longitude": "75.77245",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 5",
+        "stop_code": "VKI5",
+        "latitude": "26.97918",
+        "longitude": "75.77386",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 8",
+        "stop_code": "VK8",
+        "latitude": "26.98229",
+        "longitude": "75.77428",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 9",
+        "stop_code": "VKI9",
+        "latitude": "26.98686",
+        "longitude": "75.77323",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 12",
+        "stop_code": "VKI12",
+        "latitude": "26.99301",
+        "longitude": "75.77201",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 14",
+        "stop_code": "VKI14",
+        "latitude": "26.99722",
+        "longitude": "75.77077",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ANOKHA GAAV",
+        "stop_code": "ANOKH",
+        "latitude": "27.005821",
+        "longitude": "75.770715",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NINDHAR MOD",
+        "stop_code": "NIMOD",
+        "latitude": "27.01246",
+        "longitude": "75.76931",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HARMARA",
+        "stop_code": "HARMA",
+        "latitude": "27.01735",
+        "longitude": "75.76955",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TODI MOD",
+        "stop_code": "TOMOD",
+        "latitude": "27.02891",
+        "longitude": "75.76897",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TODI DEPOT",
+        "stop_code": "TDEPO",
+        "latitude": "27.033432",
+        "longitude": "75.784661",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAIRU KHEJDA",
+        "stop_code": "BKHA",
+        "latitude": "27.04665",
+        "longitude": "75.78873",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

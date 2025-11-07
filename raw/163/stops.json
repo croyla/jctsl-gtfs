@@ -1,0 +1,208 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "VKI NO. 17",
+        "stop_code": "VKI17",
+        "latitude": "26.999292",
+        "longitude": "75.795075",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 14",
+        "stop_code": "VKI14",
+        "latitude": "26.995742",
+        "longitude": "75.786886",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RD 9 CANTEEN",
+        "stop_code": "RD9CN",
+        "latitude": "26.986301",
+        "longitude": "75.783646",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 9",
+        "stop_code": "VKI9",
+        "latitude": "26.98686",
+        "longitude": "75.77323",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 8",
+        "stop_code": "VK8",
+        "latitude": "26.983154",
+        "longitude": "75.774175",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 5",
+        "stop_code": "VKI5",
+        "latitude": "26.979135",
+        "longitude": "75.774074",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 1",
+        "stop_code": "VKI1",
+        "latitude": "26.970635",
+        "longitude": "75.772565",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ALKA CINEMA",
+        "stop_code": "AKC",
+        "latitude": "26.96626",
+        "longitude": "75.772428",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHETAN HOS",
+        "stop_code": "KEHOS",
+        "latitude": "26.960756",
+        "longitude": "75.771666",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHER KA BALAJI",
+        "stop_code": "DLAJI",
+        "latitude": "26.955586",
+        "longitude": "75.771593",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAWANI NIKETAN",
+        "stop_code": "BETAN",
+        "latitude": "26.946682",
+        "longitude": "75.773289",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.941062",
+        "longitude": "75.77371",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.940059",
+        "longitude": "75.777323",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.940277",
+        "longitude": "75.785489",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "T.B.HOSPITAL",
+        "stop_code": "TBHOS",
+        "latitude": "26.935194",
+        "longitude": "75.793312",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PITAL FACTORY",
+        "stop_code": "PTORY",
+        "latitude": "26.93283",
+        "longitude": "75.79785",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POWER HOUSE",
+        "stop_code": "PRH",
+        "latitude": "26.930339",
+        "longitude": "75.801908",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAYANK ",
+        "stop_code": "MYANK",
+        "latitude": "26.928988",
+        "longitude": "75.803792",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.925666",
+        "longitude": "75.807755",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GPO",
+        "stop_code": "GPO",
+        "latitude": "26.917737",
+        "longitude": "75.801883",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCH BATI",
+        "stop_code": "PHI",
+        "latitude": "26.916262",
+        "longitude": "75.810074",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.916492",
+        "longitude": "75.818401",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANERI GATE",
+        "stop_code": "SGG",
+        "latitude": "26.915436",
+        "longitude": "75.823496",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GHAT GATE",
+        "stop_code": "GTG",
+        "latitude": "26.913372",
+        "longitude": "75.833353",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRANSPORT NGR",
+        "stop_code": "TRANS",
+        "latitude": "26.904672",
+        "longitude": "75.844028",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.927733",
+        "longitude": "75.805686",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PITAL FACTORY",
+        "stop_code": "PTORY",
+        "latitude": "26.93271",
+        "longitude": "75.797768",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "T.B.HOSPITAL",
+        "stop_code": "TBHOS",
+        "latitude": "26.935114",
+        "longitude": "75.79327",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.938518",
+        "longitude": "75.787853",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.939782",
+        "longitude": "75.777363",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.939933",
+        "longitude": "75.774648",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHER KA BALAJI",
+        "stop_code": "DLAJI",
+        "latitude": "26.955599",
+        "longitude": "75.771386",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHETAN HOS",
+        "stop_code": "KEHOS",
+        "latitude": "26.960746",
+        "longitude": "75.771409",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ALKA CINEMA",
+        "stop_code": "AKC",
+        "latitude": "26.967022",
+        "longitude": "75.772244",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 1",
+        "stop_code": "VKI1",
+        "latitude": "26.970388",
+        "longitude": "75.772379",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 9",
+        "stop_code": "VKI9",
+        "latitude": "26.986528",
+        "longitude": "75.77312",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VKI NO. 14",
+        "stop_code": "VKI14",
+        "latitude": "26.996797",
+        "longitude": "75.770795",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HARMARA",
+        "stop_code": "HARMA",
+        "latitude": "27.017356",
+        "longitude": "75.769469",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TODI",
+        "stop_code": "TODI",
+        "latitude": "27.028878",
+        "longitude": "75.768761",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAJAWAS",
+        "stop_code": "RAJAW",
+        "latitude": "27.057342",
+        "longitude": "75.75315",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MOTA KA BAS",
+        "stop_code": "MOTUK",
+        "latitude": "27.07949",
+        "longitude": "75.746559",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMPURA",
+        "stop_code": "RAMPU",
+        "latitude": "27.10388",
+        "longitude": "75.735004",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAITPURA",
+        "stop_code": "15JAI",
+        "latitude": "27.122588",
+        "longitude": "75.731887",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU",
+        "stop_code": "CHOMU",
+        "latitude": "27.168617",
+        "longitude": "75.724161",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

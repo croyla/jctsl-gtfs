@@ -1,0 +1,136 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": [
+    {
+      "start_time": "06:16:00",
+      "end_time": "07:21:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "06:44:00",
+      "end_time": "07:49:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "07:12:00",
+      "end_time": "08:17:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "07:40:00",
+      "end_time": "08:45:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "08:10:00",
+      "end_time": "09:10:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "08:36:00",
+      "end_time": "09:41:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "09:04:00",
+      "end_time": "10:09:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "09:32:00",
+      "end_time": "10:37:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "10:00:00",
+      "end_time": "11:05:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "10:30:00",
+      "end_time": "11:35:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "10:56:00",
+      "end_time": "12:01:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "11:24:00",
+      "end_time": "12:29:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "11:52:00",
+      "end_time": "12:57:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "12:20:00",
+      "end_time": "13:25:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "13:16:00",
+      "end_time": "14:21:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "13:44:00",
+      "end_time": "14:49:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "14:00:00",
+      "end_time": "15:05:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "14:12:00",
+      "end_time": "15:17:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "14:40:00",
+      "end_time": "15:40:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "15:10:00",
+      "end_time": "16:15:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "15:36:00",
+      "end_time": "16:41:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "16:04:00",
+      "end_time": "17:09:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "16:32:00",
+      "end_time": "17:37:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "17:00:00",
+      "end_time": "18:05:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "17:30:00",
+      "end_time": "18:35:00",
+      "bus_type_name": "AC"
+    },
+    {
+      "start_time": "18:52:00",
+      "end_time": "19:57:00",
+      "bus_type_name": "AC"
+    }
+  ]
+}

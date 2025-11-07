@@ -1,0 +1,248 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "KHOLE KE HANUMAN JI",
+        "stop_code": "KHM",
+        "latitude": "26.938790",
+        "longitude": "75.846766",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "EIDGAH",
+        "stop_code": "EID",
+        "latitude": "26.930799",
+        "longitude": "75.845052",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GALTA GATE",
+        "stop_code": "GALTG",
+        "latitude": "26.9184",
+        "longitude": "75.84855",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGANJ CHOPAD",
+        "stop_code": "RAPAD",
+        "latitude": "26.9209",
+        "longitude": "75.83568",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADI CHOPAR",
+        "stop_code": "BOPAR",
+        "latitude": "26.92312",
+        "longitude": "75.82663",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOTI CHOPAR",
+        "stop_code": "COPAR",
+        "latitude": "26.92476",
+        "longitude": "75.81877",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.92581",
+        "longitude": "75.80768",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAYANK ",
+        "stop_code": "MYANK",
+        "latitude": "26.92417",
+        "longitude": "75.80403",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POWER HOUSE",
+        "stop_code": "PRH",
+        "latitude": "26.93079",
+        "longitude": "75.80113",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PITAL FACTORY",
+        "stop_code": "PTORY",
+        "latitude": "26.93283",
+        "longitude": "75.79785",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "T.B.HOSPITAL",
+        "stop_code": "TBHOS",
+        "latitude": "26.935625",
+        "longitude": "75.792798",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.93934",
+        "longitude": "75.78596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.93986",
+        "longitude": "75.77744",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94",
+        "longitude": "75.77485",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LATA CIRCLE",
+        "stop_code": "LCE",
+        "latitude": "26.94278",
+        "longitude": "75.76263",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCHAYAT SAMITI",
+        "stop_code": "PMITI",
+        "latitude": "26.94304",
+        "longitude": "75.75111",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KANTA",
+        "stop_code": "KANTA",
+        "latitude": "26.944733",
+        "longitude": "75.744140",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHALIMAR",
+        "stop_code": "SIR",
+        "latitude": "26.953085",
+        "longitude": "75.750172",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA BADI",
+        "stop_code": "HEERB",
+        "latitude": "26.9546",
+        "longitude": "75.74552",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAXMI NAGAR",
+        "stop_code": "LAXMI",
+        "latitude": "26.956434",
+        "longitude": "75.740951",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NETA KI CHAKI",
+        "stop_code": "NETA",
+        "latitude": "26.957444",
+        "longitude": "75.739389",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BY PASS",
+        "stop_code": "BY PA",
+        "latitude": "26.95922",
+        "longitude": "75.73574",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NATH JI KI ",
+        "stop_code": "NATH",
+        "latitude": "26.96346",
+        "longitude": "75.7283",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBE HOSPITAL",
+        "stop_code": "AMH",
+        "latitude": "26.968643",
+        "longitude": "75.716802",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NIWARU",
+        "stop_code": "NIWAR",
+        "latitude": "26.97172",
+        "longitude": "75.71391",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVINDPURA LINK ROAD",
+        "stop_code": "GLR",
+        "latitude": "26.972216",
+        "longitude": "75.711348",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MILITRY STATION",
+        "stop_code": "MS",
+        "latitude": "26.974278",
+        "longitude": "75.70656",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAGWATI NAGAR",
+        "stop_code": "BWN",
+        "latitude": "26.9749",
+        "longitude": "75.701855",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GLABA BABA TEMPLE MODE",
+        "stop_code": "GTM",
+        "latitude": "26.97782",
+        "longitude": "75.6952",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LALCHANDPURA",
+        "stop_code": "LNDP",
+        "latitude": "26.9822",
+        "longitude": "75.68399",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

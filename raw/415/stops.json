@@ -1,0 +1,208 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "MGH",
+        "stop_code": "JML",
+        "latitude": "26.770306",
+        "longitude": "75.852889",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GONER PHATAK",
+        "stop_code": "KKI",
+        "latitude": "26.769016",
+        "longitude": "75.84644",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHATRALA CIRCLE",
+        "stop_code": "AMR",
+        "latitude": "26.778695",
+        "longitude": "75.841858",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PODAR CIRCLE",
+        "stop_code": "PRC",
+        "latitude": "26.781158",
+        "longitude": "75.828846",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "INDIA GATE",
+        "stop_code": "IAG",
+        "latitude": "26.78548",
+        "longitude": "75.82257",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 8",
+        "stop_code": "SEC8",
+        "latitude": "26.7965",
+        "longitude": "75.813954",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR 3",
+        "stop_code": "SECT3",
+        "latitude": "26.809",
+        "longitude": "75.8034",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOSHALA",
+        "stop_code": "GHA",
+        "latitude": "26.811104",
+        "longitude": "75.802792",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANER THANA",
+        "stop_code": "SGT",
+        "latitude": "26.8192174",
+        "longitude": "75.796378",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "STADIUM",
+        "stop_code": "STADI",
+        "latitude": "26.81892",
+        "longitude": "75.78364",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHORDIA PETROL PAMP",
+        "stop_code": "CHORD",
+        "latitude": "26.819813",
+        "longitude": "75.781456",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANER RIICO",
+        "stop_code": "SANRI",
+        "latitude": "26.829550",
+        "longitude": "75.774289",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AGARWAL FARM MOD",
+        "stop_code": "AFMOD",
+        "latitude": "26.83869",
+        "longitude": "75.768036",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VIJAY PATH MOD",
+        "stop_code": "VPTM",
+        "latitude": "26.846687",
+        "longitude": "75.764437",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOLYAWAS",
+        "stop_code": "GOLYS",
+        "latitude": "26.856729",
+        "longitude": "75.758072",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAJAT PATH MOD",
+        "stop_code": "RATPM",
+        "latitude": "26.863140",
+        "longitude": "75.753997",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SWARN PATH MOD",
+        "stop_code": "SWPM",
+        "latitude": "26.869725",
+        "longitude": "75.750712",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MANSAROWER METRO ",
+        "stop_code": "MMETR",
+        "latitude": "26.87952",
+        "longitude": "75.75007",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADARWAS",
+        "stop_code": "BADAR",
+        "latitude": "26.879590",
+        "longitude": "75.742262",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VARDHMAN NAGAR ",
+        "stop_code": "VAGAR",
+        "latitude": "26.878880",
+        "longitude": "75.733145",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GAJSINGHPURA MOD",
+        "stop_code": "GAMOD",
+        "latitude": "26.875570",
+        "longitude": "75.725565",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAIN VIHAR",
+        "stop_code": "NVHAR",
+        "latitude": "26.873664",
+        "longitude": "75.722517",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KAMLA NEHRU NAGAR",
+        "stop_code": "KNR",
+        "latitude": "26.878264",
+        "longitude": "75.716508",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KESHAV PURA",
+        "stop_code": "KHP",
+        "latitude": "26.875433",
+        "longitude": "75.710777",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAKROTA",
+        "stop_code": "BKA",
+        "latitude": "26.87078",
+        "longitude": "75.69744",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

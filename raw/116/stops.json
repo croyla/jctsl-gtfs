@@ -1,0 +1,1448 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "TRANSPORT NGR",
+        "stop_code": "TRANS",
+        "latitude": "26.904488",
+        "longitude": "75.843928",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TP NAGAR MOD",
+        "stop_code": "TPNMO",
+        "latitude": "26.906299",
+        "longitude": "75.840636",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MANTAL HOSPITAL",
+        "stop_code": "MITAL",
+        "latitude": "26.902501",
+        "longitude": "75.836739",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BARAF KHANA",
+        "stop_code": "BHANA",
+        "latitude": "26.899145",
+        "longitude": "75.833389",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAJA PARK ",
+        "stop_code": "RPARK",
+        "latitude": "26.89693",
+        "longitude": "75.827104",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHARAM SINGH CIRCLE",
+        "stop_code": "DSCLE",
+        "latitude": "26.899568",
+        "longitude": "75.81885",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRIMURTI CIRCLE",
+        "stop_code": "TRILE",
+        "latitude": "26.898995",
+        "longitude": "75.817335",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.899193",
+        "longitude": "75.812197",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.896316",
+        "longitude": "75.810023",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.891638",
+        "longitude": "75.806092",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.887209",
+        "longitude": "75.802811",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SABJI MANDI",
+        "stop_code": "SBM",
+        "latitude": "26.88493",
+        "longitude": "75.801702",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.879611",
+        "longitude": "75.799125",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.87179",
+        "longitude": "75.79738",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPAL PURA MOD",
+        "stop_code": "GPMOD",
+        "latitude": "26.866361",
+        "longitude": "75.796649",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHAVEER NAGAR",
+        "stop_code": "MNAGA",
+        "latitude": "26.862479",
+        "longitude": "75.795105",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRIVENI NAGAR",
+        "stop_code": "TNAGA",
+        "latitude": "26.868824",
+        "longitude": "75.783563",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RIDHI SIDHI",
+        "stop_code": "RIDHI",
+        "latitude": "26.872481",
+        "longitude": "75.777936",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SURYA NGR",
+        "stop_code": "SURYA",
+        "latitude": "26.874505",
+        "longitude": "75.775602",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHESH NAGAR MOD",
+        "stop_code": "MNMOD",
+        "latitude": "26.877418",
+        "longitude": "75.772516",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GUJAR KI THADI",
+        "stop_code": "GKTHA",
+        "latitude": "26.880206",
+        "longitude": "75.76526",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANGA JAMUNA",
+        "stop_code": "GANGA",
+        "latitude": "26.87945",
+        "longitude": "75.761679",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DHARAM KATA",
+        "stop_code": "DKATA",
+        "latitude": "26.879333",
+        "longitude": "75.743631",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NEW TP NAGAR",
+        "stop_code": "NTPNA",
+        "latitude": "26.881676",
+        "longitude": "75.741549",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SUNDAR NAGAR",
+        "stop_code": "SUNDA",
+        "latitude": "26.883945",
+        "longitude": "75.7400031",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA PURA",
+        "stop_code": "HAP",
+        "latitude": "26.895257",
+        "longitude": "75.733261",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHITRKOOT PULIYA",
+        "stop_code": "CLIYA",
+        "latitude": "26.902082",
+        "longitude": "75.729077",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI PATH",
+        "stop_code": "GIT",
+        "latitude": "26.905866",
+        "longitude": "75.728502",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KARNI PLACE",
+        "stop_code": "KLACE",
+        "latitude": "26.911399",
+        "longitude": "75.729105",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAJRI MANDI PULIYA",
+        "stop_code": "BMIYA",
+        "latitude": "26.915242",
+        "longitude": "75.72955",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCHAYALA PULIYA",
+        "stop_code": "PLIYA",
+        "latitude": "26.920166",
+        "longitude": "75.729987",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHIRNI PHATAK PULIYA",
+        "stop_code": "KPIYA",
+        "latitude": "26.932115",
+        "longitude": "75.730293",
+        "upcomingbuses": [
+          {
+            "vehicel_no": "RJ14PD7969",
+            "eta": "RJ14PD7969",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93224260",
+            "longitude": "75.73088010",
+            "heading": "329.30"
+          },
+          {
+            "vehicel_no": "RJ14PD7990",
+            "eta": "RJ14PD7990",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "27.03449050",
+            "longitude": "75.78453460",
+            "heading": "138.53"
+          },
+          {
+            "vehicel_no": "RJ14PD7979",
+            "eta": "RJ14PD7979",
+            "veh_msg": "[ Halted ]",
+            "veh_color": "#E95B0F",
+            "latitude": "26.93220690",
+            "longitude": "75.73086690",
+            "heading": "356.55"
+          },
+          {
+            "vehicel_no": "RJ14PD7987",
+            "eta": "RJ14PD7987",
+            "veh_msg": "[ Moving ]",
+            "veh_color": "#31BE0E",
+            "latitude": "26.93240040",
+            "longitude": "75.73088740",
+            "heading": "87.52"
+          }
+        ],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

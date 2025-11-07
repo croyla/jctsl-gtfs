@@ -1,0 +1,208 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "BAGRU",
+        "stop_code": "BGU",
+        "latitude": "26.810882",
+        "longitude": "75.542161",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DAMBI",
+        "stop_code": "DAI",
+        "latitude": "26.825804",
+        "longitude": "75.560263",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HIGHWAY KING",
+        "stop_code": "HYG",
+        "latitude": "26.82944",
+        "longitude": "75.570392",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DEVLIYA",
+        "stop_code": "DEVLI",
+        "latitude": "26.838878",
+        "longitude": "75.565303",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SADHUWALA",
+        "stop_code": "SADHU",
+        "latitude": "26.85424",
+        "longitude": "75.57716",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANJH RIVER BAGUS MODE",
+        "stop_code": "SRB",
+        "latitude": "26.8619",
+        "longitude": "75.58313",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMPURA",
+        "stop_code": "RAMPU",
+        "latitude": "26.856454",
+        "longitude": "75.599371",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "THIKARIYA",
+        "stop_code": "TKA",
+        "latitude": "26.846082",
+        "longitude": "75.622409",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAD KE BALAJI",
+        "stop_code": "BKB",
+        "latitude": "26.849723",
+        "longitude": "75.63579",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMCHANDRAPURA",
+        "stop_code": "RDA",
+        "latitude": "26.853723",
+        "longitude": "75.648726",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHAPURA MOD",
+        "stop_code": "MPD",
+        "latitude": "26.860844",
+        "longitude": "75.670091",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAKROTA",
+        "stop_code": "BKA",
+        "latitude": "26.8721",
+        "longitude": "75.700504",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KESHAV PURA",
+        "stop_code": "KHP",
+        "latitude": "26.875028",
+        "longitude": "75.708515",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KAMLA NEHRU NAGAR",
+        "stop_code": "KNR",
+        "latitude": "26.878169",
+        "longitude": "75.715548",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POWER HOUSE",
+        "stop_code": "PRH",
+        "latitude": "26.885265",
+        "longitude": "75.729466",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA PURA",
+        "stop_code": "HAP",
+        "latitude": "26.888869",
+        "longitude": "75.736902",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DCM",
+        "stop_code": "DCM",
+        "latitude": "26.891033",
+        "longitude": "75.741225",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KINGS ROAD",
+        "stop_code": "KSD",
+        "latitude": "26.896672",
+        "longitude": "75.752541",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PURANI CHUNGI",
+        "stop_code": "PIC",
+        "latitude": "26.897334",
+        "longitude": "75.753761",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SODALA",
+        "stop_code": "SAL",
+        "latitude": "26.901702",
+        "longitude": "75.771827",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ESIC HOSPITAL",
+        "stop_code": "ESICH",
+        "latitude": "26.906264",
+        "longitude": "75.777024",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAJDUR NAGAR",
+        "stop_code": "MRN",
+        "latitude": "26.911123",
+        "longitude": "75.784477",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATHROI",
+        "stop_code": "HHI",
+        "latitude": "26.914533",
+        "longitude": "75.793877",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHALIMAR",
+        "stop_code": "SIR",
+        "latitude": "26.916041",
+        "longitude": "75.79832",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.925667",
+        "longitude": "75.807596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

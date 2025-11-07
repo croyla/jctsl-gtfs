@@ -1,0 +1,2045 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+1,weekday,trip_1,"GALTA",0
+1,weekday,trip_2,"GALTA",0
+1,weekday,trip_3,"GALTA",0
+1,weekday,trip_4,"GALTA",0
+1,weekday,trip_5,"GALTA",0
+1,weekday,trip_6,"GALTA",0
+1,weekday,trip_7,"GALTA",0
+1,weekday,trip_8,"GALTA",0
+1,weekday,trip_9,"GALTA",0
+1,weekday,trip_10,"GALTA",0
+1,weekday,trip_11,"GALTA",0
+1,weekday,trip_12,"GALTA",0
+1,weekday,trip_13,"GALTA",0
+1,weekday,trip_14,"GALTA",0
+1,weekday,trip_15,"GALTA",0
+1,weekday,trip_16,"GALTA",0
+1,weekday,trip_17,"GALTA",0
+1,weekday,trip_18,"GALTA",0
+1,weekday,trip_19,"GALTA",0
+1,weekday,trip_20,"GALTA",0
+1,weekday,trip_21,"GALTA",0
+1,weekday,trip_22,"GALTA",0
+1,weekday,trip_23,"GALTA",0
+1,weekday,trip_24,"GALTA",0
+1,weekday,trip_25,"GALTA",0
+1,weekday,trip_26,"GALTA",0
+1,weekday,trip_27,"GALTA",0
+1,weekday,trip_28,"GALTA",0
+1,weekday,trip_29,"BHAIRU KHEJDA",1
+1,weekday,trip_30,"BHAIRU KHEJDA",1
+1,weekday,trip_31,"BHAIRU KHEJDA",1
+1,weekday,trip_32,"BHAIRU KHEJDA",1
+1,weekday,trip_33,"BHAIRU KHEJDA",1
+1,weekday,trip_34,"BHAIRU KHEJDA",1
+1,weekday,trip_35,"BHAIRU KHEJDA",1
+1,weekday,trip_36,"BHAIRU KHEJDA",1
+1,weekday,trip_37,"BHAIRU KHEJDA",1
+1,weekday,trip_38,"BHAIRU KHEJDA",1
+1,weekday,trip_39,"BHAIRU KHEJDA",1
+1,weekday,trip_40,"BHAIRU KHEJDA",1
+1,weekday,trip_41,"BHAIRU KHEJDA",1
+1,weekday,trip_42,"BHAIRU KHEJDA",1
+1,weekday,trip_43,"BHAIRU KHEJDA",1
+1,weekday,trip_44,"BHAIRU KHEJDA",1
+1,weekday,trip_45,"BHAIRU KHEJDA",1
+1,weekday,trip_46,"BHAIRU KHEJDA",1
+1,weekday,trip_47,"BHAIRU KHEJDA",1
+1,weekday,trip_48,"BHAIRU KHEJDA",1
+1,weekday,trip_49,"BHAIRU KHEJDA",1
+1,weekday,trip_50,"BHAIRU KHEJDA",1
+1,weekday,trip_51,"BHAIRU KHEJDA",1
+1,weekday,trip_52,"BHAIRU KHEJDA",1
+1,weekday,trip_53,"BHAIRU KHEJDA",1
+1,weekday,trip_54,"BHAIRU KHEJDA",1
+1,weekday,trip_55,"BHAIRU KHEJDA",1
+1,weekday,trip_56,"BHAIRU KHEJDA",1
+1A,weekday,trip_57,"VKI NO. 17",0
+1A,weekday,trip_58,"VKI NO. 17",0
+1A,weekday,trip_59,"VKI NO. 17",0
+1A,weekday,trip_60,"VKI NO. 17",0
+1A,weekday,trip_61,"VKI NO. 17",0
+1A,weekday,trip_62,"VKI NO. 17",0
+1A,weekday,trip_63,"VKI NO. 17",0
+1A,weekday,trip_64,"VKI NO. 17",0
+1A,weekday,trip_65,"VKI NO. 17",0
+1A,weekday,trip_66,"VKI NO. 17",0
+1A,weekday,trip_67,"VKI NO. 17",0
+1A,weekday,trip_68,"VKI NO. 17",0
+1A,weekday,trip_69,"VKI NO. 17",0
+1A,weekday,trip_70,"VKI NO. 17",0
+1A,weekday,trip_71,"VKI NO. 17",0
+1A,weekday,trip_72,"VKI NO. 17",0
+1A,weekday,trip_73,"VKI NO. 17",0
+1A,weekday,trip_74,"VKI NO. 17",0
+1A,weekday,trip_75,"VKI NO. 17",0
+1A,weekday,trip_76,"VKI NO. 17",0
+1A,weekday,trip_77,"VKI NO. 17",0
+1A,weekday,trip_78,"VKI NO. 17",0
+1A,weekday,trip_79,"VKI NO. 17",0
+1A,weekday,trip_80,"VKI NO. 17",0
+1A,weekday,trip_81,"VKI NO. 17",0
+1A,weekday,trip_82,"VKI NO. 17",0
+1A,weekday,trip_83,"VKI NO. 17",0
+1A,weekday,trip_84,"VKI NO. 17",0
+1A,weekday,trip_85,"TRANSPORT NGR",1
+1A,weekday,trip_86,"TRANSPORT NGR",1
+1A,weekday,trip_87,"TRANSPORT NGR",1
+1A,weekday,trip_88,"TRANSPORT NGR",1
+1A,weekday,trip_89,"TRANSPORT NGR",1
+1A,weekday,trip_90,"TRANSPORT NGR",1
+1A,weekday,trip_91,"TRANSPORT NGR",1
+1A,weekday,trip_92,"TRANSPORT NGR",1
+1A,weekday,trip_93,"TRANSPORT NGR",1
+1A,weekday,trip_94,"TRANSPORT NGR",1
+1A,weekday,trip_95,"TRANSPORT NGR",1
+1A,weekday,trip_96,"TRANSPORT NGR",1
+1A,weekday,trip_97,"TRANSPORT NGR",1
+1A,weekday,trip_98,"TRANSPORT NGR",1
+1A,weekday,trip_99,"TRANSPORT NGR",1
+1A,weekday,trip_100,"TRANSPORT NGR",1
+1A,weekday,trip_101,"TRANSPORT NGR",1
+1A,weekday,trip_102,"TRANSPORT NGR",1
+1A,weekday,trip_103,"TRANSPORT NGR",1
+1A,weekday,trip_104,"TRANSPORT NGR",1
+1A,weekday,trip_105,"TRANSPORT NGR",1
+1A,weekday,trip_106,"TRANSPORT NGR",1
+1A,weekday,trip_107,"TRANSPORT NGR",1
+1A,weekday,trip_108,"TRANSPORT NGR",1
+1A,weekday,trip_109,"TRANSPORT NGR",1
+1A,weekday,trip_110,"TRANSPORT NGR",1
+1A,weekday,trip_111,"TRANSPORT NGR",1
+1A,weekday,trip_112,"TRANSPORT NGR",1
+3,weekday,trip_113,"TRANSPORT NGR",0
+3,weekday,trip_114,"TRANSPORT NGR",0
+3,weekday,trip_115,"TRANSPORT NGR",0
+3,weekday,trip_116,"TRANSPORT NGR",0
+3,weekday,trip_117,"TRANSPORT NGR",0
+3,weekday,trip_118,"TRANSPORT NGR",0
+3,weekday,trip_119,"TRANSPORT NGR",0
+3,weekday,trip_120,"TRANSPORT NGR",0
+3,weekday,trip_121,"TRANSPORT NGR",0
+3,weekday,trip_122,"TRANSPORT NGR",0
+3,weekday,trip_123,"TRANSPORT NGR",0
+3,weekday,trip_124,"TRANSPORT NGR",0
+3,weekday,trip_125,"TRANSPORT NGR",0
+3,weekday,trip_126,"TRANSPORT NGR",0
+3,weekday,trip_127,"TRANSPORT NGR",0
+3,weekday,trip_128,"TRANSPORT NGR",0
+3,weekday,trip_129,"TRANSPORT NGR",0
+3,weekday,trip_130,"TRANSPORT NGR",0
+3,weekday,trip_131,"TRANSPORT NGR",0
+3,weekday,trip_132,"TRANSPORT NGR",0
+3,weekday,trip_133,"TRANSPORT NGR",0
+3,weekday,trip_134,"TRANSPORT NGR",0
+3,weekday,trip_135,"TRANSPORT NGR",0
+3,weekday,trip_136,"TRANSPORT NGR",0
+3,weekday,trip_137,"TRANSPORT NGR",0
+3,weekday,trip_138,"TRANSPORT NGR",0
+3,weekday,trip_139,"TRANSPORT NGR",0
+3,weekday,trip_140,"TRANSPORT NGR",0
+3,weekday,trip_141,"TRANSPORT NGR",0
+3,weekday,trip_142,"TRANSPORT NGR",0
+3,weekday,trip_143,"TRANSPORT NGR",0
+3,weekday,trip_144,"TRANSPORT NGR",0
+3,weekday,trip_145,"TRANSPORT NGR",0
+3,weekday,trip_146,"TRANSPORT NGR",0
+3,weekday,trip_147,"TRANSPORT NGR",0
+3,weekday,trip_148,"TRANSPORT NGR",0
+3,weekday,trip_149,"TRANSPORT NGR",0
+3,weekday,trip_150,"TRANSPORT NGR",0
+3,weekday,trip_151,"TRANSPORT NGR",0
+3,weekday,trip_152,"TRANSPORT NGR",0
+3,weekday,trip_153,"TRANSPORT NGR",0
+3,weekday,trip_154,"TRANSPORT NGR",0
+3,weekday,trip_155,"TRANSPORT NGR",0
+3,weekday,trip_156,"TRANSPORT NGR",0
+3,weekday,trip_157,"TRANSPORT NGR",0
+3,weekday,trip_158,"TRANSPORT NGR",0
+3,weekday,trip_159,"TRANSPORT NGR",0
+3,weekday,trip_160,"TRANSPORT NGR",0
+3,weekday,trip_161,"TRANSPORT NGR",0
+3,weekday,trip_162,"TRANSPORT NGR",0
+3,weekday,trip_163,"TRANSPORT NGR",0
+3,weekday,trip_164,"TRANSPORT NGR",0
+3,weekday,trip_165,"TRANSPORT NGR",0
+3,weekday,trip_166,"TRANSPORT NGR",0
+3,weekday,trip_167,"TRANSPORT NGR",0
+3,weekday,trip_168,"TRANSPORT NGR",0
+3,weekday,trip_169,"TRANSPORT NGR",0
+3,weekday,trip_170,"TRANSPORT NGR",0
+3,weekday,trip_171,"TRANSPORT NGR",0
+3,weekday,trip_172,"TRANSPORT NGR",0
+3,weekday,trip_173,"TRANSPORT NGR",0
+3,weekday,trip_174,"TRANSPORT NGR",0
+3,weekday,trip_175,"TRANSPORT NGR",0
+3,weekday,trip_176,"TRANSPORT NGR",0
+3,weekday,trip_177,"TRANSPORT NGR",0
+3,weekday,trip_178,"TRANSPORT NGR",0
+3,weekday,trip_179,"TRANSPORT NGR",0
+3,weekday,trip_180,"TRANSPORT NGR",0
+3,weekday,trip_181,"TRANSPORT NGR",0
+3,weekday,trip_182,"TRANSPORT NGR",0
+3,weekday,trip_183,"TRANSPORT NGR",0
+3,weekday,trip_184,"TRANSPORT NGR",0
+3,weekday,trip_185,"TRANSPORT NGR",0
+3,weekday,trip_186,"TRANSPORT NGR",0
+3,weekday,trip_187,"TRANSPORT NGR",0
+3,weekday,trip_188,"TRANSPORT NGR",0
+3,weekday,trip_189,"TRANSPORT NGR",0
+3,weekday,trip_190,"TRANSPORT NGR",0
+3,weekday,trip_191,"TRANSPORT NGR",0
+3,weekday,trip_192,"TRANSPORT NGR",0
+3,weekday,trip_193,"TRANSPORT NGR",0
+3,weekday,trip_194,"TRANSPORT NGR",0
+3,weekday,trip_195,"TRANSPORT NGR",0
+3,weekday,trip_196,"TRANSPORT NGR",0
+3,weekday,trip_197,"TRANSPORT NGR",0
+3,weekday,trip_198,"TRANSPORT NGR",0
+3,weekday,trip_199,"TRANSPORT NGR",0
+3,weekday,trip_200,"TRANSPORT NGR",0
+3,weekday,trip_201,"TRANSPORT NGR",0
+3,weekday,trip_202,"TRANSPORT NGR",0
+3,weekday,trip_203,"TRANSPORT NGR",0
+3,weekday,trip_204,"TRANSPORT NGR",0
+3,weekday,trip_205,"TRANSPORT NGR",0
+3,weekday,trip_206,"TRANSPORT NGR",0
+3,weekday,trip_207,"TRANSPORT NGR",0
+3,weekday,trip_208,"TRANSPORT NGR",0
+3,weekday,trip_209,"TRANSPORT NGR",0
+3,weekday,trip_210,"TRANSPORT NGR",0
+3,weekday,trip_211,"TRANSPORT NGR",0
+3,weekday,trip_212,"TRANSPORT NGR",0
+3,weekday,trip_213,"TRANSPORT NGR",0
+3,weekday,trip_214,"TRANSPORT NGR",0
+3,weekday,trip_215,"TRANSPORT NGR",0
+3,weekday,trip_216,"TRANSPORT NGR",0
+3,weekday,trip_217,"TRANSPORT NGR",0
+3,weekday,trip_218,"TRANSPORT NGR",0
+3,weekday,trip_219,"TRANSPORT NGR",0
+3,weekday,trip_220,"TRANSPORT NGR",0
+3,weekday,trip_221,"TRANSPORT NGR",0
+3,weekday,trip_222,"TRANSPORT NGR",0
+3,weekday,trip_223,"TRANSPORT NGR",0
+3,weekday,trip_224,"TRANSPORT NGR",0
+3,weekday,trip_225,"TRANSPORT NGR",0
+3,weekday,trip_226,"TRANSPORT NGR",0
+3,weekday,trip_227,"TRANSPORT NGR",0
+3,weekday,trip_228,"TRANSPORT NGR",0
+3,weekday,trip_229,"DWARKA PURI",1
+3,weekday,trip_230,"DWARKA PURI",1
+3,weekday,trip_231,"DWARKA PURI",1
+3,weekday,trip_232,"DWARKA PURI",1
+3,weekday,trip_233,"DWARKA PURI",1
+3,weekday,trip_234,"DWARKA PURI",1
+3,weekday,trip_235,"DWARKA PURI",1
+3,weekday,trip_236,"DWARKA PURI",1
+3,weekday,trip_237,"DWARKA PURI",1
+3,weekday,trip_238,"DWARKA PURI",1
+3,weekday,trip_239,"DWARKA PURI",1
+3,weekday,trip_240,"DWARKA PURI",1
+3,weekday,trip_241,"DWARKA PURI",1
+3,weekday,trip_242,"DWARKA PURI",1
+3,weekday,trip_243,"DWARKA PURI",1
+3,weekday,trip_244,"DWARKA PURI",1
+3,weekday,trip_245,"DWARKA PURI",1
+3,weekday,trip_246,"DWARKA PURI",1
+3,weekday,trip_247,"DWARKA PURI",1
+3,weekday,trip_248,"DWARKA PURI",1
+3,weekday,trip_249,"DWARKA PURI",1
+3,weekday,trip_250,"DWARKA PURI",1
+3,weekday,trip_251,"DWARKA PURI",1
+3,weekday,trip_252,"DWARKA PURI",1
+3,weekday,trip_253,"DWARKA PURI",1
+3,weekday,trip_254,"DWARKA PURI",1
+3,weekday,trip_255,"DWARKA PURI",1
+3,weekday,trip_256,"DWARKA PURI",1
+3,weekday,trip_257,"DWARKA PURI",1
+3,weekday,trip_258,"DWARKA PURI",1
+3,weekday,trip_259,"DWARKA PURI",1
+3,weekday,trip_260,"DWARKA PURI",1
+3,weekday,trip_261,"DWARKA PURI",1
+3,weekday,trip_262,"DWARKA PURI",1
+3,weekday,trip_263,"DWARKA PURI",1
+3,weekday,trip_264,"DWARKA PURI",1
+3,weekday,trip_265,"DWARKA PURI",1
+3,weekday,trip_266,"DWARKA PURI",1
+3,weekday,trip_267,"DWARKA PURI",1
+3,weekday,trip_268,"DWARKA PURI",1
+3,weekday,trip_269,"DWARKA PURI",1
+3,weekday,trip_270,"DWARKA PURI",1
+3,weekday,trip_271,"DWARKA PURI",1
+3,weekday,trip_272,"DWARKA PURI",1
+3,weekday,trip_273,"DWARKA PURI",1
+3,weekday,trip_274,"DWARKA PURI",1
+3,weekday,trip_275,"DWARKA PURI",1
+3,weekday,trip_276,"DWARKA PURI",1
+3,weekday,trip_277,"DWARKA PURI",1
+3,weekday,trip_278,"DWARKA PURI",1
+3,weekday,trip_279,"DWARKA PURI",1
+3,weekday,trip_280,"DWARKA PURI",1
+3,weekday,trip_281,"DWARKA PURI",1
+3,weekday,trip_282,"DWARKA PURI",1
+3,weekday,trip_283,"DWARKA PURI",1
+3,weekday,trip_284,"DWARKA PURI",1
+3,weekday,trip_285,"DWARKA PURI",1
+3,weekday,trip_286,"DWARKA PURI",1
+3,weekday,trip_287,"DWARKA PURI",1
+3,weekday,trip_288,"DWARKA PURI",1
+3,weekday,trip_289,"DWARKA PURI",1
+3,weekday,trip_290,"DWARKA PURI",1
+3,weekday,trip_291,"DWARKA PURI",1
+3,weekday,trip_292,"DWARKA PURI",1
+3,weekday,trip_293,"DWARKA PURI",1
+3,weekday,trip_294,"DWARKA PURI",1
+3,weekday,trip_295,"DWARKA PURI",1
+3,weekday,trip_296,"DWARKA PURI",1
+3,weekday,trip_297,"DWARKA PURI",1
+3,weekday,trip_298,"DWARKA PURI",1
+3,weekday,trip_299,"DWARKA PURI",1
+3,weekday,trip_300,"DWARKA PURI",1
+3,weekday,trip_301,"DWARKA PURI",1
+3,weekday,trip_302,"DWARKA PURI",1
+3,weekday,trip_303,"DWARKA PURI",1
+3,weekday,trip_304,"DWARKA PURI",1
+3,weekday,trip_305,"DWARKA PURI",1
+3,weekday,trip_306,"DWARKA PURI",1
+3,weekday,trip_307,"DWARKA PURI",1
+3,weekday,trip_308,"DWARKA PURI",1
+3,weekday,trip_309,"DWARKA PURI",1
+3,weekday,trip_310,"DWARKA PURI",1
+3,weekday,trip_311,"DWARKA PURI",1
+3,weekday,trip_312,"DWARKA PURI",1
+3,weekday,trip_313,"DWARKA PURI",1
+3,weekday,trip_314,"DWARKA PURI",1
+3,weekday,trip_315,"DWARKA PURI",1
+3,weekday,trip_316,"DWARKA PURI",1
+3,weekday,trip_317,"DWARKA PURI",1
+3,weekday,trip_318,"DWARKA PURI",1
+3,weekday,trip_319,"DWARKA PURI",1
+3,weekday,trip_320,"DWARKA PURI",1
+3,weekday,trip_321,"DWARKA PURI",1
+3,weekday,trip_322,"DWARKA PURI",1
+3,weekday,trip_323,"DWARKA PURI",1
+3,weekday,trip_324,"DWARKA PURI",1
+3,weekday,trip_325,"DWARKA PURI",1
+3,weekday,trip_326,"DWARKA PURI",1
+3,weekday,trip_327,"DWARKA PURI",1
+3,weekday,trip_328,"DWARKA PURI",1
+3,weekday,trip_329,"DWARKA PURI",1
+3,weekday,trip_330,"DWARKA PURI",1
+3,weekday,trip_331,"DWARKA PURI",1
+3,weekday,trip_332,"DWARKA PURI",1
+3,weekday,trip_333,"DWARKA PURI",1
+3,weekday,trip_334,"DWARKA PURI",1
+3,weekday,trip_335,"DWARKA PURI",1
+3,weekday,trip_336,"DWARKA PURI",1
+3,weekday,trip_337,"DWARKA PURI",1
+3,weekday,trip_338,"DWARKA PURI",1
+3,weekday,trip_339,"DWARKA PURI",1
+3,weekday,trip_340,"DWARKA PURI",1
+3,weekday,trip_341,"DWARKA PURI",1
+3,weekday,trip_342,"DWARKA PURI",1
+3,weekday,trip_343,"DWARKA PURI",1
+3,weekday,trip_344,"DWARKA PURI",1
+3A,weekday,trip_345,"SANGANER",0
+3A,weekday,trip_346,"SANGANER",0
+3A,weekday,trip_347,"SANGANER",0
+3A,weekday,trip_348,"SANGANER",0
+3A,weekday,trip_349,"SANGANER",0
+3A,weekday,trip_350,"SANGANER",0
+3A,weekday,trip_351,"SANGANER",0
+3A,weekday,trip_352,"SANGANER",0
+3A,weekday,trip_353,"SANGANER",0
+3A,weekday,trip_354,"SANGANER",0
+3A,weekday,trip_355,"SANGANER",0
+3A,weekday,trip_356,"SANGANER",0
+3A,weekday,trip_357,"SANGANER",0
+3A,weekday,trip_358,"SANGANER",0
+3A,weekday,trip_359,"SANGANER",0
+3A,weekday,trip_360,"SANGANER",0
+3A,weekday,trip_361,"SANGANER",0
+3A,weekday,trip_362,"SANGANER",0
+3A,weekday,trip_363,"SANGANER",0
+3A,weekday,trip_364,"SANGANER",0
+3A,weekday,trip_365,"SANGANER",0
+3A,weekday,trip_366,"SANGANER",0
+3A,weekday,trip_367,"SANGANER",0
+3A,weekday,trip_368,"SANGANER",0
+3A,weekday,trip_369,"SANGANER",0
+3A,weekday,trip_370,"SANGANER",0
+3A,weekday,trip_371,"SANGANER",0
+3A,weekday,trip_372,"SANGANER",0
+3A,weekday,trip_373,"SANGANER",0
+3A,weekday,trip_374,"SANGANER",0
+3A,weekday,trip_375,"SANGANER",0
+3A,weekday,trip_376,"SANGANER",0
+3A,weekday,trip_377,"SANGANER",0
+3A,weekday,trip_378,"SANGANER",0
+3A,weekday,trip_379,"SANGANER",0
+3A,weekday,trip_380,"SANGANER",0
+3A,weekday,trip_381,"SANGANER",0
+3A,weekday,trip_382,"SANGANER",0
+3A,weekday,trip_383,"SANGANER",0
+3A,weekday,trip_384,"SANGANER",0
+3A,weekday,trip_385,"SANGANER",0
+3A,weekday,trip_386,"SANGANER",0
+3A,weekday,trip_387,"SANGANER",0
+3A,weekday,trip_388,"SANGANER",0
+3A,weekday,trip_389,"SANGANER",0
+3A,weekday,trip_390,"SANGANER",0
+3A,weekday,trip_391,"SANGANER",0
+3A,weekday,trip_392,"SANGANER",0
+3A,weekday,trip_393,"SANGANER",0
+3A,weekday,trip_394,"SANGANER",0
+3A,weekday,trip_395,"SANGANER",0
+3A,weekday,trip_396,"SANGANER",0
+3A,weekday,trip_397,"SANGANER",0
+3A,weekday,trip_398,"SANGANER",0
+3A,weekday,trip_399,"SANGANER",0
+3A,weekday,trip_400,"SANGANER",0
+3A,weekday,trip_401,"SANGANER",0
+3A,weekday,trip_402,"SANGANER",0
+3A,weekday,trip_403,"SANGANER",0
+3A,weekday,trip_404,"SANGANER",0
+3A,weekday,trip_405,"SANGANER",0
+3A,weekday,trip_406,"SANGANER",0
+3A,weekday,trip_407,"SANGANER",0
+3A,weekday,trip_408,"SANGANER",0
+3A,weekday,trip_409,"SANGANER",0
+3A,weekday,trip_410,"SANGANER",0
+3A,weekday,trip_411,"SANGANER",0
+3A,weekday,trip_412,"SANGANER",0
+3A,weekday,trip_413,"SANGANER",0
+3A,weekday,trip_414,"SANGANER",0
+3A,weekday,trip_415,"SANGANER",0
+3A,weekday,trip_416,"SANGANER",0
+3A,weekday,trip_417,"SANGANER",0
+3A,weekday,trip_418,"SANGANER",0
+3A,weekday,trip_419,"SANGANER",0
+3A,weekday,trip_420,"SANGANER",0
+3A,weekday,trip_421,"SANGANER",0
+3A,weekday,trip_422,"SANGANER",0
+3A,weekday,trip_423,"SANGANER",0
+3A,weekday,trip_424,"SANGANER",0
+3A,weekday,trip_425,"SANGANER",0
+3A,weekday,trip_426,"SANGANER",0
+3A,weekday,trip_427,"SANGANER",0
+3A,weekday,trip_428,"SANGANER",0
+3A,weekday,trip_429,"SANGANER",0
+3A,weekday,trip_430,"SANGANER",0
+3A,weekday,trip_431,"SANGANER",0
+3A,weekday,trip_432,"SANGANER",0
+3A,weekday,trip_433,"SANGANER",0
+3A,weekday,trip_434,"SANGANER",0
+3A,weekday,trip_435,"SANGANER",0
+3A,weekday,trip_436,"SANGANER",0
+3A,weekday,trip_437,"SANGANER",0
+3A,weekday,trip_438,"SANGANER",0
+3A,weekday,trip_439,"SANGANER",0
+3A,weekday,trip_440,"SANGANER",0
+3A,weekday,trip_441,"SANGANER",0
+3A,weekday,trip_442,"SANGANER",0
+3A,weekday,trip_443,"SANGANER",0
+3A,weekday,trip_444,"SANGANER",0
+3A,weekday,trip_445,"SANGANER",0
+3A,weekday,trip_446,"SANGANER",0
+3A,weekday,trip_447,"SANGANER",0
+3A,weekday,trip_448,"SANGANER",0
+3A,weekday,trip_449,"SANGANER",0
+3A,weekday,trip_450,"SANGANER",0
+3A,weekday,trip_451,"SANGANER",0
+3A,weekday,trip_452,"SANGANER",0
+3A,weekday,trip_453,"SANGANER",0
+3A,weekday,trip_454,"SANGANER",0
+3A,weekday,trip_455,"SANGANER",0
+3A,weekday,trip_456,"SANGANER",0
+3A,weekday,trip_457,"SANGANER",0
+3A,weekday,trip_458,"SANGANER",0
+3A,weekday,trip_459,"SANGANER",0
+3A,weekday,trip_460,"SANGANER",0
+3A,weekday,trip_461,"SANGANER",0
+3A,weekday,trip_462,"SANGANER",0
+3A,weekday,trip_463,"SANGANER",0
+3A,weekday,trip_464,"SANGANER",0
+3A,weekday,trip_465,"SANGANER",0
+3A,weekday,trip_466,"SANGANER",0
+3A,weekday,trip_467,"SANGANER",0
+3A,weekday,trip_468,"SANGANER",0
+3A,weekday,trip_469,"SANGANER",0
+3A,weekday,trip_470,"SANGANER",0
+3A,weekday,trip_471,"SANGANER",0
+3A,weekday,trip_472,"SANGANER",0
+3A,weekday,trip_473,"SANGANER",0
+3A,weekday,trip_474,"SANGANER",0
+3A,weekday,trip_475,"SANGANER",0
+3A,weekday,trip_476,"SANGANER",0
+3A,weekday,trip_477,"SANGANER",0
+3A,weekday,trip_478,"SANGANER",0
+3A,weekday,trip_479,"SANGANER",0
+3A,weekday,trip_480,"SANGANER",0
+3A,weekday,trip_481,"SANGANER",0
+3A,weekday,trip_482,"SANGANER",0
+3A,weekday,trip_483,"SANGANER",0
+3A,weekday,trip_484,"SANGANER",0
+3A,weekday,trip_485,"SANGANER",0
+3A,weekday,trip_486,"SANGANER",0
+3A,weekday,trip_487,"SANGANER",0
+3A,weekday,trip_488,"SANGANER",0
+3A,weekday,trip_489,"SANGANER",0
+3A,weekday,trip_490,"SANGANER",0
+3A,weekday,trip_491,"SANGANER",0
+3A,weekday,trip_492,"SANGANER",0
+3A,weekday,trip_493,"SANGANER",0
+3A,weekday,trip_494,"SANGANER",0
+3A,weekday,trip_495,"SANGANER",0
+3A,weekday,trip_496,"SANGANER",0
+3A,weekday,trip_497,"SANGANER",0
+3A,weekday,trip_498,"SANGANER",0
+3A,weekday,trip_499,"SANGANER",0
+3A,weekday,trip_500,"SANGANER",0
+3A,weekday,trip_501,"SANGANER",0
+3A,weekday,trip_502,"SANGANER",0
+3A,weekday,trip_503,"SANGANER",0
+3A,weekday,trip_504,"SANGANER",0
+3A,weekday,trip_505,"SANGANER",0
+3A,weekday,trip_506,"SANGANER",0
+3A,weekday,trip_507,"SANGANER",0
+3A,weekday,trip_508,"SANGANER",0
+3A,weekday,trip_509,"SANGANER",0
+3A,weekday,trip_510,"SANGANER",0
+3A,weekday,trip_511,"SANGANER",0
+3A,weekday,trip_512,"SANGANER",0
+3A,weekday,trip_513,"SANGANER",0
+3A,weekday,trip_514,"CHOTI CHOPAR",1
+3A,weekday,trip_515,"CHOTI CHOPAR",1
+3A,weekday,trip_516,"CHOTI CHOPAR",1
+3A,weekday,trip_517,"CHOTI CHOPAR",1
+3A,weekday,trip_518,"CHOTI CHOPAR",1
+3A,weekday,trip_519,"CHOTI CHOPAR",1
+3A,weekday,trip_520,"CHOTI CHOPAR",1
+3A,weekday,trip_521,"CHOTI CHOPAR",1
+3A,weekday,trip_522,"CHOTI CHOPAR",1
+3A,weekday,trip_523,"CHOTI CHOPAR",1
+3A,weekday,trip_524,"CHOTI CHOPAR",1
+3A,weekday,trip_525,"CHOTI CHOPAR",1
+3A,weekday,trip_526,"CHOTI CHOPAR",1
+3A,weekday,trip_527,"CHOTI CHOPAR",1
+3A,weekday,trip_528,"CHOTI CHOPAR",1
+3A,weekday,trip_529,"CHOTI CHOPAR",1
+3A,weekday,trip_530,"CHOTI CHOPAR",1
+3A,weekday,trip_531,"CHOTI CHOPAR",1
+3A,weekday,trip_532,"CHOTI CHOPAR",1
+3A,weekday,trip_533,"CHOTI CHOPAR",1
+3A,weekday,trip_534,"CHOTI CHOPAR",1
+3A,weekday,trip_535,"CHOTI CHOPAR",1
+3A,weekday,trip_536,"CHOTI CHOPAR",1
+3A,weekday,trip_537,"CHOTI CHOPAR",1
+3A,weekday,trip_538,"CHOTI CHOPAR",1
+3A,weekday,trip_539,"CHOTI CHOPAR",1
+3A,weekday,trip_540,"CHOTI CHOPAR",1
+3A,weekday,trip_541,"CHOTI CHOPAR",1
+3A,weekday,trip_542,"CHOTI CHOPAR",1
+3A,weekday,trip_543,"CHOTI CHOPAR",1
+3A,weekday,trip_544,"CHOTI CHOPAR",1
+3A,weekday,trip_545,"CHOTI CHOPAR",1
+3A,weekday,trip_546,"CHOTI CHOPAR",1
+3A,weekday,trip_547,"CHOTI CHOPAR",1
+3A,weekday,trip_548,"CHOTI CHOPAR",1
+3A,weekday,trip_549,"CHOTI CHOPAR",1
+3A,weekday,trip_550,"CHOTI CHOPAR",1
+3A,weekday,trip_551,"CHOTI CHOPAR",1
+3A,weekday,trip_552,"CHOTI CHOPAR",1
+3A,weekday,trip_553,"CHOTI CHOPAR",1
+3A,weekday,trip_554,"CHOTI CHOPAR",1
+3A,weekday,trip_555,"CHOTI CHOPAR",1
+3A,weekday,trip_556,"CHOTI CHOPAR",1
+3A,weekday,trip_557,"CHOTI CHOPAR",1
+3A,weekday,trip_558,"CHOTI CHOPAR",1
+3A,weekday,trip_559,"CHOTI CHOPAR",1
+3A,weekday,trip_560,"CHOTI CHOPAR",1
+3A,weekday,trip_561,"CHOTI CHOPAR",1
+3A,weekday,trip_562,"CHOTI CHOPAR",1
+3A,weekday,trip_563,"CHOTI CHOPAR",1
+3A,weekday,trip_564,"CHOTI CHOPAR",1
+3A,weekday,trip_565,"CHOTI CHOPAR",1
+3A,weekday,trip_566,"CHOTI CHOPAR",1
+3A,weekday,trip_567,"CHOTI CHOPAR",1
+3A,weekday,trip_568,"CHOTI CHOPAR",1
+3A,weekday,trip_569,"CHOTI CHOPAR",1
+3A,weekday,trip_570,"CHOTI CHOPAR",1
+3A,weekday,trip_571,"CHOTI CHOPAR",1
+3A,weekday,trip_572,"CHOTI CHOPAR",1
+3A,weekday,trip_573,"CHOTI CHOPAR",1
+3A,weekday,trip_574,"CHOTI CHOPAR",1
+3A,weekday,trip_575,"CHOTI CHOPAR",1
+3A,weekday,trip_576,"CHOTI CHOPAR",1
+3A,weekday,trip_577,"CHOTI CHOPAR",1
+3A,weekday,trip_578,"CHOTI CHOPAR",1
+3A,weekday,trip_579,"CHOTI CHOPAR",1
+3A,weekday,trip_580,"CHOTI CHOPAR",1
+3A,weekday,trip_581,"CHOTI CHOPAR",1
+3A,weekday,trip_582,"CHOTI CHOPAR",1
+3A,weekday,trip_583,"CHOTI CHOPAR",1
+3A,weekday,trip_584,"CHOTI CHOPAR",1
+3A,weekday,trip_585,"CHOTI CHOPAR",1
+3A,weekday,trip_586,"CHOTI CHOPAR",1
+3A,weekday,trip_587,"CHOTI CHOPAR",1
+3A,weekday,trip_588,"CHOTI CHOPAR",1
+3A,weekday,trip_589,"CHOTI CHOPAR",1
+3A,weekday,trip_590,"CHOTI CHOPAR",1
+3A,weekday,trip_591,"CHOTI CHOPAR",1
+3A,weekday,trip_592,"CHOTI CHOPAR",1
+3A,weekday,trip_593,"CHOTI CHOPAR",1
+3A,weekday,trip_594,"CHOTI CHOPAR",1
+3A,weekday,trip_595,"CHOTI CHOPAR",1
+3A,weekday,trip_596,"CHOTI CHOPAR",1
+3A,weekday,trip_597,"CHOTI CHOPAR",1
+3A,weekday,trip_598,"CHOTI CHOPAR",1
+3A,weekday,trip_599,"CHOTI CHOPAR",1
+3A,weekday,trip_600,"CHOTI CHOPAR",1
+3A,weekday,trip_601,"CHOTI CHOPAR",1
+3A,weekday,trip_602,"CHOTI CHOPAR",1
+3A,weekday,trip_603,"CHOTI CHOPAR",1
+3A,weekday,trip_604,"CHOTI CHOPAR",1
+3A,weekday,trip_605,"CHOTI CHOPAR",1
+3A,weekday,trip_606,"CHOTI CHOPAR",1
+3A,weekday,trip_607,"CHOTI CHOPAR",1
+3A,weekday,trip_608,"CHOTI CHOPAR",1
+3A,weekday,trip_609,"CHOTI CHOPAR",1
+3A,weekday,trip_610,"CHOTI CHOPAR",1
+3A,weekday,trip_611,"CHOTI CHOPAR",1
+3A,weekday,trip_612,"CHOTI CHOPAR",1
+3A,weekday,trip_613,"CHOTI CHOPAR",1
+3A,weekday,trip_614,"CHOTI CHOPAR",1
+3A,weekday,trip_615,"CHOTI CHOPAR",1
+3A,weekday,trip_616,"CHOTI CHOPAR",1
+3A,weekday,trip_617,"CHOTI CHOPAR",1
+3A,weekday,trip_618,"CHOTI CHOPAR",1
+3A,weekday,trip_619,"CHOTI CHOPAR",1
+3A,weekday,trip_620,"CHOTI CHOPAR",1
+3A,weekday,trip_621,"CHOTI CHOPAR",1
+3A,weekday,trip_622,"CHOTI CHOPAR",1
+3A,weekday,trip_623,"CHOTI CHOPAR",1
+3A,weekday,trip_624,"CHOTI CHOPAR",1
+3A,weekday,trip_625,"CHOTI CHOPAR",1
+3A,weekday,trip_626,"CHOTI CHOPAR",1
+3A,weekday,trip_627,"CHOTI CHOPAR",1
+3A,weekday,trip_628,"CHOTI CHOPAR",1
+3A,weekday,trip_629,"CHOTI CHOPAR",1
+3A,weekday,trip_630,"CHOTI CHOPAR",1
+3A,weekday,trip_631,"CHOTI CHOPAR",1
+3A,weekday,trip_632,"CHOTI CHOPAR",1
+3A,weekday,trip_633,"CHOTI CHOPAR",1
+3A,weekday,trip_634,"CHOTI CHOPAR",1
+3A,weekday,trip_635,"CHOTI CHOPAR",1
+3A,weekday,trip_636,"CHOTI CHOPAR",1
+3A,weekday,trip_637,"CHOTI CHOPAR",1
+3A,weekday,trip_638,"CHOTI CHOPAR",1
+3A,weekday,trip_639,"CHOTI CHOPAR",1
+3A,weekday,trip_640,"CHOTI CHOPAR",1
+3A,weekday,trip_641,"CHOTI CHOPAR",1
+3A,weekday,trip_642,"CHOTI CHOPAR",1
+3A,weekday,trip_643,"CHOTI CHOPAR",1
+3A,weekday,trip_644,"CHOTI CHOPAR",1
+3A,weekday,trip_645,"CHOTI CHOPAR",1
+3A,weekday,trip_646,"CHOTI CHOPAR",1
+3A,weekday,trip_647,"CHOTI CHOPAR",1
+3A,weekday,trip_648,"CHOTI CHOPAR",1
+3A,weekday,trip_649,"CHOTI CHOPAR",1
+3A,weekday,trip_650,"CHOTI CHOPAR",1
+3A,weekday,trip_651,"CHOTI CHOPAR",1
+3A,weekday,trip_652,"CHOTI CHOPAR",1
+3A,weekday,trip_653,"CHOTI CHOPAR",1
+3A,weekday,trip_654,"CHOTI CHOPAR",1
+3A,weekday,trip_655,"CHOTI CHOPAR",1
+3A,weekday,trip_656,"CHOTI CHOPAR",1
+3A,weekday,trip_657,"CHOTI CHOPAR",1
+3A,weekday,trip_658,"CHOTI CHOPAR",1
+3A,weekday,trip_659,"CHOTI CHOPAR",1
+3A,weekday,trip_660,"CHOTI CHOPAR",1
+3A,weekday,trip_661,"CHOTI CHOPAR",1
+3A,weekday,trip_662,"CHOTI CHOPAR",1
+3A,weekday,trip_663,"CHOTI CHOPAR",1
+3A,weekday,trip_664,"CHOTI CHOPAR",1
+3A,weekday,trip_665,"CHOTI CHOPAR",1
+3A,weekday,trip_666,"CHOTI CHOPAR",1
+3A,weekday,trip_667,"CHOTI CHOPAR",1
+3A,weekday,trip_668,"CHOTI CHOPAR",1
+3A,weekday,trip_669,"CHOTI CHOPAR",1
+3A,weekday,trip_670,"CHOTI CHOPAR",1
+3A,weekday,trip_671,"CHOTI CHOPAR",1
+3A,weekday,trip_672,"CHOTI CHOPAR",1
+3A,weekday,trip_673,"CHOTI CHOPAR",1
+3A,weekday,trip_674,"CHOTI CHOPAR",1
+3A,weekday,trip_675,"CHOTI CHOPAR",1
+3A,weekday,trip_676,"CHOTI CHOPAR",1
+3A,weekday,trip_677,"CHOTI CHOPAR",1
+3A,weekday,trip_678,"CHOTI CHOPAR",1
+3A,weekday,trip_679,"CHOTI CHOPAR",1
+3A,weekday,trip_680,"CHOTI CHOPAR",1
+3A,weekday,trip_681,"CHOTI CHOPAR",1
+3A,weekday,trip_682,"CHOTI CHOPAR",1
+6A,weekday,trip_683,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_684,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_685,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_686,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_687,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_688,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_689,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_690,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_691,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_692,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_693,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_694,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_695,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_696,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_697,"KHIRNI PHATAK PULIYA",0
+6A,weekday,trip_698,"AIRPORT",1
+6A,weekday,trip_699,"AIRPORT",1
+6A,weekday,trip_700,"AIRPORT",1
+6A,weekday,trip_701,"AIRPORT",1
+6A,weekday,trip_702,"AIRPORT",1
+6A,weekday,trip_703,"AIRPORT",1
+6A,weekday,trip_704,"AIRPORT",1
+6A,weekday,trip_705,"AIRPORT",1
+6A,weekday,trip_706,"AIRPORT",1
+6A,weekday,trip_707,"AIRPORT",1
+6A,weekday,trip_708,"AIRPORT",1
+6A,weekday,trip_709,"AIRPORT",1
+6A,weekday,trip_710,"AIRPORT",1
+6A,weekday,trip_711,"AIRPORT",1
+6A,weekday,trip_712,"AIRPORT",1
+7,weekday,trip_713,"TRANSPORT NGR",0
+7,weekday,trip_714,"TRANSPORT NGR",0
+7,weekday,trip_715,"TRANSPORT NGR",0
+7,weekday,trip_716,"TRANSPORT NGR",0
+7,weekday,trip_717,"TRANSPORT NGR",0
+7,weekday,trip_718,"TRANSPORT NGR",0
+7,weekday,trip_719,"TRANSPORT NGR",0
+7,weekday,trip_720,"TRANSPORT NGR",0
+7,weekday,trip_721,"TRANSPORT NGR",0
+7,weekday,trip_722,"TRANSPORT NGR",0
+7,weekday,trip_723,"TRANSPORT NGR",0
+7,weekday,trip_724,"TRANSPORT NGR",0
+7,weekday,trip_725,"TRANSPORT NGR",0
+7,weekday,trip_726,"TRANSPORT NGR",0
+7,weekday,trip_727,"TRANSPORT NGR",0
+7,weekday,trip_728,"TRANSPORT NGR",0
+7,weekday,trip_729,"TRANSPORT NGR",0
+7,weekday,trip_730,"TRANSPORT NGR",0
+7,weekday,trip_731,"TRANSPORT NGR",0
+7,weekday,trip_732,"TRANSPORT NGR",0
+7,weekday,trip_733,"TRANSPORT NGR",0
+7,weekday,trip_734,"TRANSPORT NGR",0
+7,weekday,trip_735,"TRANSPORT NGR",0
+7,weekday,trip_736,"TRANSPORT NGR",0
+7,weekday,trip_737,"TRANSPORT NGR",0
+7,weekday,trip_738,"TRANSPORT NGR",0
+7,weekday,trip_739,"TRANSPORT NGR",0
+7,weekday,trip_740,"TRANSPORT NGR",0
+7,weekday,trip_741,"TRANSPORT NGR",0
+7,weekday,trip_742,"TRANSPORT NGR",0
+7,weekday,trip_743,"TRANSPORT NGR",0
+7,weekday,trip_744,"TRANSPORT NGR",0
+7,weekday,trip_745,"TRANSPORT NGR",0
+7,weekday,trip_746,"TRANSPORT NGR",0
+7,weekday,trip_747,"TRANSPORT NGR",0
+7,weekday,trip_748,"TRANSPORT NGR",0
+7,weekday,trip_749,"TRANSPORT NGR",0
+7,weekday,trip_750,"TRANSPORT NGR",0
+7,weekday,trip_751,"TRANSPORT NGR",0
+7,weekday,trip_752,"TRANSPORT NGR",0
+7,weekday,trip_753,"TRANSPORT NGR",0
+7,weekday,trip_754,"TRANSPORT NGR",0
+7,weekday,trip_755,"TRANSPORT NGR",0
+7,weekday,trip_756,"TRANSPORT NGR",0
+7,weekday,trip_757,"TRANSPORT NGR",0
+7,weekday,trip_758,"TRANSPORT NGR",0
+7,weekday,trip_759,"TRANSPORT NGR",0
+7,weekday,trip_760,"TRANSPORT NGR",0
+7,weekday,trip_761,"TRANSPORT NGR",0
+7,weekday,trip_762,"TRANSPORT NGR",0
+7,weekday,trip_763,"TRANSPORT NGR",0
+7,weekday,trip_764,"TRANSPORT NGR",0
+7,weekday,trip_765,"TRANSPORT NGR",0
+7,weekday,trip_766,"TRANSPORT NGR",0
+7,weekday,trip_767,"TRANSPORT NGR",0
+7,weekday,trip_768,"TRANSPORT NGR",0
+7,weekday,trip_769,"TRANSPORT NGR",0
+7,weekday,trip_770,"TRANSPORT NGR",0
+7,weekday,trip_771,"TRANSPORT NGR",0
+7,weekday,trip_772,"TRANSPORT NGR",0
+7,weekday,trip_773,"TRANSPORT NGR",0
+7,weekday,trip_774,"TRANSPORT NGR",0
+7,weekday,trip_775,"TRANSPORT NGR",0
+7,weekday,trip_776,"TRANSPORT NGR",0
+7,weekday,trip_777,"TRANSPORT NGR",0
+7,weekday,trip_778,"TRANSPORT NGR",0
+7,weekday,trip_779,"TRANSPORT NGR",0
+7,weekday,trip_780,"TRANSPORT NGR",0
+7,weekday,trip_781,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_782,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_783,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_784,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_785,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_786,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_787,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_788,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_789,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_790,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_791,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_792,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_793,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_794,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_795,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_796,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_797,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_798,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_799,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_800,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_801,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_802,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_803,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_804,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_805,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_806,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_807,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_808,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_809,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_810,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_811,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_812,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_813,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_814,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_815,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_816,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_817,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_818,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_819,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_820,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_821,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_822,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_823,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_824,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_825,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_826,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_827,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_828,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_829,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_830,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_831,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_832,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_833,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_834,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_835,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_836,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_837,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_838,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_839,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_840,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_841,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_842,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_843,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_844,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_845,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_846,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_847,"KHIRNI PHATAK PULIYA",1
+7,weekday,trip_848,"KHIRNI PHATAK PULIYA",1
+9A,weekday,trip_849,"DADI KA PHATAK",0
+9A,weekday,trip_850,"DADI KA PHATAK",0
+9A,weekday,trip_851,"DADI KA PHATAK",0
+9A,weekday,trip_852,"DADI KA PHATAK",0
+9A,weekday,trip_853,"DADI KA PHATAK",0
+9A,weekday,trip_854,"DADI KA PHATAK",0
+9A,weekday,trip_855,"DADI KA PHATAK",0
+9A,weekday,trip_856,"DADI KA PHATAK",0
+9A,weekday,trip_857,"DADI KA PHATAK",0
+9A,weekday,trip_858,"DADI KA PHATAK",0
+9A,weekday,trip_859,"DADI KA PHATAK",0
+9A,weekday,trip_860,"DADI KA PHATAK",0
+9A,weekday,trip_861,"DADI KA PHATAK",0
+9A,weekday,trip_862,"DADI KA PHATAK",0
+9A,weekday,trip_863,"DADI KA PHATAK",0
+9A,weekday,trip_864,"DADI KA PHATAK",0
+9A,weekday,trip_865,"DADI KA PHATAK",0
+9A,weekday,trip_866,"DADI KA PHATAK",0
+9A,weekday,trip_867,"DADI KA PHATAK",0
+9A,weekday,trip_868,"DADI KA PHATAK",0
+9A,weekday,trip_869,"DADI KA PHATAK",0
+9A,weekday,trip_870,"DADI KA PHATAK",0
+9A,weekday,trip_871,"DADI KA PHATAK",0
+9A,weekday,trip_872,"DADI KA PHATAK",0
+9A,weekday,trip_873,"DADI KA PHATAK",0
+9A,weekday,trip_874,"DADI KA PHATAK",0
+9A,weekday,trip_875,"DADI KA PHATAK",0
+9A,weekday,trip_876,"DADI KA PHATAK",0
+9A,weekday,trip_877,"DADI KA PHATAK",0
+9A,weekday,trip_878,"DADI KA PHATAK",0
+9A,weekday,trip_879,"DADI KA PHATAK",0
+9A,weekday,trip_880,"DADI KA PHATAK",0
+9A,weekday,trip_881,"DADI KA PHATAK",0
+9A,weekday,trip_882,"DADI KA PHATAK",0
+9A,weekday,trip_883,"DADI KA PHATAK",0
+9A,weekday,trip_884,"DADI KA PHATAK",0
+9A,weekday,trip_885,"DADI KA PHATAK",0
+9A,weekday,trip_886,"DADI KA PHATAK",0
+9A,weekday,trip_887,"DADI KA PHATAK",0
+9A,weekday,trip_888,"DADI KA PHATAK",0
+9A,weekday,trip_889,"DADI KA PHATAK",0
+9A,weekday,trip_890,"DADI KA PHATAK",0
+9A,weekday,trip_891,"DADI KA PHATAK",0
+9A,weekday,trip_892,"DADI KA PHATAK",0
+9A,weekday,trip_893,"DADI KA PHATAK",0
+9A,weekday,trip_894,"DADI KA PHATAK",0
+9A,weekday,trip_895,"DADI KA PHATAK",0
+9A,weekday,trip_896,"DADI KA PHATAK",0
+9A,weekday,trip_897,"DADI KA PHATAK",0
+9A,weekday,trip_898,"DADI KA PHATAK",0
+9A,weekday,trip_899,"DADI KA PHATAK",0
+9A,weekday,trip_900,"DADI KA PHATAK",0
+9A,weekday,trip_901,"DADI KA PHATAK",0
+9A,weekday,trip_902,"DADI KA PHATAK",0
+9A,weekday,trip_903,"DADI KA PHATAK",0
+9A,weekday,trip_904,"DADI KA PHATAK",0
+9A,weekday,trip_905,"DADI KA PHATAK",0
+9A,weekday,trip_906,"DADI KA PHATAK",0
+9A,weekday,trip_907,"DADI KA PHATAK",0
+9A,weekday,trip_908,"DADI KA PHATAK",0
+9A,weekday,trip_909,"DADI KA PHATAK",0
+9A,weekday,trip_910,"DADI KA PHATAK",0
+9A,weekday,trip_911,"DADI KA PHATAK",0
+9A,weekday,trip_912,"DADI KA PHATAK",0
+9A,weekday,trip_913,"DADI KA PHATAK",0
+9A,weekday,trip_914,"DADI KA PHATAK",0
+9A,weekday,trip_915,"DADI KA PHATAK",0
+9A,weekday,trip_916,"DADI KA PHATAK",0
+9A,weekday,trip_917,"DADI KA PHATAK",0
+9A,weekday,trip_918,"DADI KA PHATAK",0
+9A,weekday,trip_919,"AGARWAL FARM",1
+9A,weekday,trip_920,"AGARWAL FARM",1
+9A,weekday,trip_921,"AGARWAL FARM",1
+9A,weekday,trip_922,"AGARWAL FARM",1
+9A,weekday,trip_923,"AGARWAL FARM",1
+9A,weekday,trip_924,"AGARWAL FARM",1
+9A,weekday,trip_925,"AGARWAL FARM",1
+9A,weekday,trip_926,"AGARWAL FARM",1
+9A,weekday,trip_927,"AGARWAL FARM",1
+9A,weekday,trip_928,"AGARWAL FARM",1
+9A,weekday,trip_929,"AGARWAL FARM",1
+9A,weekday,trip_930,"AGARWAL FARM",1
+9A,weekday,trip_931,"AGARWAL FARM",1
+9A,weekday,trip_932,"AGARWAL FARM",1
+9A,weekday,trip_933,"AGARWAL FARM",1
+9A,weekday,trip_934,"AGARWAL FARM",1
+9A,weekday,trip_935,"AGARWAL FARM",1
+9A,weekday,trip_936,"AGARWAL FARM",1
+9A,weekday,trip_937,"AGARWAL FARM",1
+9A,weekday,trip_938,"AGARWAL FARM",1
+9A,weekday,trip_939,"AGARWAL FARM",1
+9A,weekday,trip_940,"AGARWAL FARM",1
+9A,weekday,trip_941,"AGARWAL FARM",1
+9A,weekday,trip_942,"AGARWAL FARM",1
+9A,weekday,trip_943,"AGARWAL FARM",1
+9A,weekday,trip_944,"AGARWAL FARM",1
+9A,weekday,trip_945,"AGARWAL FARM",1
+9A,weekday,trip_946,"AGARWAL FARM",1
+9A,weekday,trip_947,"AGARWAL FARM",1
+9A,weekday,trip_948,"AGARWAL FARM",1
+9A,weekday,trip_949,"AGARWAL FARM",1
+9A,weekday,trip_950,"AGARWAL FARM",1
+9A,weekday,trip_951,"AGARWAL FARM",1
+9A,weekday,trip_952,"AGARWAL FARM",1
+9A,weekday,trip_953,"AGARWAL FARM",1
+9A,weekday,trip_954,"AGARWAL FARM",1
+9A,weekday,trip_955,"AGARWAL FARM",1
+9A,weekday,trip_956,"AGARWAL FARM",1
+9A,weekday,trip_957,"AGARWAL FARM",1
+9A,weekday,trip_958,"AGARWAL FARM",1
+9A,weekday,trip_959,"AGARWAL FARM",1
+9A,weekday,trip_960,"AGARWAL FARM",1
+9A,weekday,trip_961,"AGARWAL FARM",1
+9A,weekday,trip_962,"AGARWAL FARM",1
+9A,weekday,trip_963,"AGARWAL FARM",1
+9A,weekday,trip_964,"AGARWAL FARM",1
+9A,weekday,trip_965,"AGARWAL FARM",1
+9A,weekday,trip_966,"AGARWAL FARM",1
+9A,weekday,trip_967,"AGARWAL FARM",1
+9A,weekday,trip_968,"AGARWAL FARM",1
+9A,weekday,trip_969,"AGARWAL FARM",1
+9A,weekday,trip_970,"AGARWAL FARM",1
+9A,weekday,trip_971,"AGARWAL FARM",1
+9A,weekday,trip_972,"AGARWAL FARM",1
+9A,weekday,trip_973,"AGARWAL FARM",1
+9A,weekday,trip_974,"AGARWAL FARM",1
+9A,weekday,trip_975,"AGARWAL FARM",1
+9A,weekday,trip_976,"AGARWAL FARM",1
+9A,weekday,trip_977,"AGARWAL FARM",1
+9A,weekday,trip_978,"AGARWAL FARM",1
+9A,weekday,trip_979,"AGARWAL FARM",1
+9A,weekday,trip_980,"AGARWAL FARM",1
+9A,weekday,trip_981,"AGARWAL FARM",1
+9A,weekday,trip_982,"AGARWAL FARM",1
+9A,weekday,trip_983,"AGARWAL FARM",1
+9A,weekday,trip_984,"AGARWAL FARM",1
+9A,weekday,trip_985,"AGARWAL FARM",1
+9A,weekday,trip_986,"AGARWAL FARM",1
+9A,weekday,trip_987,"AGARWAL FARM",1
+9A,weekday,trip_988,"AGARWAL FARM",1
+9C,weekday,trip_989,"MGH",0
+9C,weekday,trip_990,"MGH",0
+9C,weekday,trip_991,"MGH",0
+9C,weekday,trip_992,"MGH",0
+9C,weekday,trip_993,"MGH",0
+9C,weekday,trip_994,"MGH",0
+9C,weekday,trip_995,"MGH",0
+9C,weekday,trip_996,"MGH",0
+9C,weekday,trip_997,"MGH",0
+9C,weekday,trip_998,"MGH",0
+9C,weekday,trip_999,"BHAKROTA",1
+9C,weekday,trip_1000,"BHAKROTA",1
+9C,weekday,trip_1001,"BHAKROTA",1
+9C,weekday,trip_1002,"BHAKROTA",1
+9C,weekday,trip_1003,"BHAKROTA",1
+9C,weekday,trip_1004,"BHAKROTA",1
+9C,weekday,trip_1005,"BHAKROTA",1
+9C,weekday,trip_1006,"BHAKROTA",1
+9C,weekday,trip_1007,"BHAKROTA",1
+9C,weekday,trip_1008,"BHAKROTA",1
+10B,weekday,trip_1009,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1010,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1011,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1012,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1013,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1014,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1015,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1016,"KHOLE KE HANUMAN JI",0
+10B,weekday,trip_1017,"LALCHANDPURA",1
+10B,weekday,trip_1018,"LALCHANDPURA",1
+10B,weekday,trip_1019,"LALCHANDPURA",1
+10B,weekday,trip_1020,"LALCHANDPURA",1
+10B,weekday,trip_1021,"LALCHANDPURA",1
+10B,weekday,trip_1022,"LALCHANDPURA",1
+10B,weekday,trip_1023,"LALCHANDPURA",1
+10B,weekday,trip_1024,"LALCHANDPURA",1
+11,weekday,trip_1025,"GONER",0
+11,weekday,trip_1026,"GONER",0
+11,weekday,trip_1027,"GONER",0
+11,weekday,trip_1028,"GONER",0
+11,weekday,trip_1029,"GONER",0
+11,weekday,trip_1030,"GONER",0
+11,weekday,trip_1031,"GONER",0
+11,weekday,trip_1032,"GONER",0
+11,weekday,trip_1033,"GONER",0
+11,weekday,trip_1034,"GONER",0
+11,weekday,trip_1035,"GONER",0
+11,weekday,trip_1036,"GONER",0
+11,weekday,trip_1037,"GONER",0
+11,weekday,trip_1038,"GONER",0
+11,weekday,trip_1039,"GONER",0
+11,weekday,trip_1040,"GONER",0
+11,weekday,trip_1041,"GONER",0
+11,weekday,trip_1042,"GONER",0
+11,weekday,trip_1043,"GONER",0
+11,weekday,trip_1044,"GONER",0
+11,weekday,trip_1045,"AJMERI GATE",1
+11,weekday,trip_1046,"AJMERI GATE",1
+11,weekday,trip_1047,"AJMERI GATE",1
+11,weekday,trip_1048,"AJMERI GATE",1
+11,weekday,trip_1049,"AJMERI GATE",1
+11,weekday,trip_1050,"AJMERI GATE",1
+11,weekday,trip_1051,"AJMERI GATE",1
+11,weekday,trip_1052,"AJMERI GATE",1
+11,weekday,trip_1053,"AJMERI GATE",1
+11,weekday,trip_1054,"AJMERI GATE",1
+11,weekday,trip_1055,"AJMERI GATE",1
+11,weekday,trip_1056,"AJMERI GATE",1
+11,weekday,trip_1057,"AJMERI GATE",1
+11,weekday,trip_1058,"AJMERI GATE",1
+11,weekday,trip_1059,"AJMERI GATE",1
+11,weekday,trip_1060,"AJMERI GATE",1
+11,weekday,trip_1061,"AJMERI GATE",1
+11,weekday,trip_1062,"AJMERI GATE",1
+11,weekday,trip_1063,"AJMERI GATE",1
+11,weekday,trip_1064,"AJMERI GATE",1
+14,weekday,trip_1065,"CHOMU PULIYA",0
+14,weekday,trip_1066,"CHOMU PULIYA",0
+14,weekday,trip_1067,"CHOMU PULIYA",0
+14,weekday,trip_1068,"CHOMU PULIYA",0
+14,weekday,trip_1069,"CHOMU PULIYA",0
+14,weekday,trip_1070,"CHOMU PULIYA",0
+14,weekday,trip_1071,"CHOMU PULIYA",0
+14,weekday,trip_1072,"CHOMU PULIYA",0
+14,weekday,trip_1073,"CHOMU PULIYA",0
+14,weekday,trip_1074,"CHOMU PULIYA",0
+14,weekday,trip_1075,"CHOMU PULIYA",0
+14,weekday,trip_1076,"CHOMU PULIYA",0
+14,weekday,trip_1077,"CHOMU PULIYA",0
+14,weekday,trip_1078,"CHOMU PULIYA",0
+14,weekday,trip_1079,"CHOMU PULIYA",0
+14,weekday,trip_1080,"CHOMU PULIYA",0
+14,weekday,trip_1081,"CHOMU PULIYA",0
+14,weekday,trip_1082,"CHOMU PULIYA",0
+14,weekday,trip_1083,"CHOMU PULIYA",0
+14,weekday,trip_1084,"CHOMU PULIYA",0
+14,weekday,trip_1085,"CHOMU PULIYA",0
+14,weekday,trip_1086,"CHOMU PULIYA",0
+14,weekday,trip_1087,"CHOMU PULIYA",0
+14,weekday,trip_1088,"CHOMU PULIYA",0
+14,weekday,trip_1089,"CHOMU PULIYA",0
+14,weekday,trip_1090,"CHOMU PULIYA",0
+14,weekday,trip_1091,"CHOMU PULIYA",0
+14,weekday,trip_1092,"CHOMU PULIYA",0
+14,weekday,trip_1093,"CHOMU PULIYA",0
+14,weekday,trip_1094,"CHOMU PULIYA",0
+14,weekday,trip_1095,"CHOMU PULIYA",0
+14,weekday,trip_1096,"CHOMU PULIYA",0
+14,weekday,trip_1097,"CHOMU PULIYA",0
+14,weekday,trip_1098,"CHOMU PULIYA",0
+14,weekday,trip_1099,"CHOMU PULIYA",0
+14,weekday,trip_1100,"CHOMU PULIYA",0
+14,weekday,trip_1101,"CHOMU PULIYA",0
+14,weekday,trip_1102,"CHOMU PULIYA",0
+14,weekday,trip_1103,"BASSI",1
+14,weekday,trip_1104,"BASSI",1
+14,weekday,trip_1105,"BASSI",1
+14,weekday,trip_1106,"BASSI",1
+14,weekday,trip_1107,"BASSI",1
+14,weekday,trip_1108,"BASSI",1
+14,weekday,trip_1109,"BASSI",1
+14,weekday,trip_1110,"BASSI",1
+14,weekday,trip_1111,"BASSI",1
+14,weekday,trip_1112,"BASSI",1
+14,weekday,trip_1113,"BASSI",1
+14,weekday,trip_1114,"BASSI",1
+14,weekday,trip_1115,"BASSI",1
+14,weekday,trip_1116,"BASSI",1
+14,weekday,trip_1117,"BASSI",1
+14,weekday,trip_1118,"BASSI",1
+14,weekday,trip_1119,"BASSI",1
+14,weekday,trip_1120,"BASSI",1
+14,weekday,trip_1121,"BASSI",1
+14,weekday,trip_1122,"BASSI",1
+14,weekday,trip_1123,"BASSI",1
+14,weekday,trip_1124,"BASSI",1
+14,weekday,trip_1125,"BASSI",1
+14,weekday,trip_1126,"BASSI",1
+14,weekday,trip_1127,"BASSI",1
+14,weekday,trip_1128,"BASSI",1
+14,weekday,trip_1129,"BASSI",1
+14,weekday,trip_1130,"BASSI",1
+14,weekday,trip_1131,"BASSI",1
+14,weekday,trip_1132,"BASSI",1
+14,weekday,trip_1133,"BASSI",1
+14,weekday,trip_1134,"BASSI",1
+14,weekday,trip_1135,"BASSI",1
+14,weekday,trip_1136,"BASSI",1
+14,weekday,trip_1137,"BASSI",1
+14,weekday,trip_1138,"BASSI",1
+14,weekday,trip_1139,"BASSI",1
+14,weekday,trip_1140,"BASSI",1
+15,weekday,trip_1141,"CHOMU",0
+15,weekday,trip_1142,"CHOMU",0
+15,weekday,trip_1143,"CHOMU",0
+15,weekday,trip_1144,"CHOMU",0
+15,weekday,trip_1145,"CHOMU",0
+15,weekday,trip_1146,"CHOMU",0
+15,weekday,trip_1147,"CHOMU",0
+15,weekday,trip_1148,"CHOMU",0
+15,weekday,trip_1149,"CHOMU",0
+15,weekday,trip_1150,"CHOMU",0
+15,weekday,trip_1151,"CHOMU",0
+15,weekday,trip_1152,"CHOMU",0
+15,weekday,trip_1153,"CHOMU",0
+15,weekday,trip_1154,"CHOMU",0
+15,weekday,trip_1155,"CHOMU",0
+15,weekday,trip_1156,"CHOMU",0
+15,weekday,trip_1157,"CHOMU",0
+15,weekday,trip_1158,"CHOMU",0
+15,weekday,trip_1159,"CHOMU",0
+15,weekday,trip_1160,"CHOMU",0
+15,weekday,trip_1161,"CHOMU",0
+15,weekday,trip_1162,"CHOMU",0
+15,weekday,trip_1163,"CHOMU",0
+15,weekday,trip_1164,"CHOMU",0
+15,weekday,trip_1165,"CHOMU",0
+15,weekday,trip_1166,"CHOMU",0
+15,weekday,trip_1167,"CHOMU",0
+15,weekday,trip_1168,"CHANDPOLE",1
+15,weekday,trip_1169,"CHANDPOLE",1
+15,weekday,trip_1170,"CHANDPOLE",1
+15,weekday,trip_1171,"CHANDPOLE",1
+15,weekday,trip_1172,"CHANDPOLE",1
+15,weekday,trip_1173,"CHANDPOLE",1
+15,weekday,trip_1174,"CHANDPOLE",1
+15,weekday,trip_1175,"CHANDPOLE",1
+15,weekday,trip_1176,"CHANDPOLE",1
+15,weekday,trip_1177,"CHANDPOLE",1
+15,weekday,trip_1178,"CHANDPOLE",1
+15,weekday,trip_1179,"CHANDPOLE",1
+15,weekday,trip_1180,"CHANDPOLE",1
+15,weekday,trip_1181,"CHANDPOLE",1
+15,weekday,trip_1182,"CHANDPOLE",1
+15,weekday,trip_1183,"CHANDPOLE",1
+15,weekday,trip_1184,"CHANDPOLE",1
+15,weekday,trip_1185,"CHANDPOLE",1
+15,weekday,trip_1186,"CHANDPOLE",1
+15,weekday,trip_1187,"CHANDPOLE",1
+15,weekday,trip_1188,"CHANDPOLE",1
+15,weekday,trip_1189,"CHANDPOLE",1
+15,weekday,trip_1190,"CHANDPOLE",1
+15,weekday,trip_1191,"CHANDPOLE",1
+15,weekday,trip_1192,"CHANDPOLE",1
+15,weekday,trip_1193,"CHANDPOLE",1
+15,weekday,trip_1194,"CHANDPOLE",1
+16,weekday,trip_1195,"CHAKSU",0
+16,weekday,trip_1196,"CHAKSU",0
+16,weekday,trip_1197,"CHAKSU",0
+16,weekday,trip_1198,"CHAKSU",0
+16,weekday,trip_1199,"CHAKSU",0
+16,weekday,trip_1200,"CHAKSU",0
+16,weekday,trip_1201,"CHAKSU",0
+16,weekday,trip_1202,"CHAKSU",0
+16,weekday,trip_1203,"CHAKSU",0
+16,weekday,trip_1204,"CHAKSU",0
+16,weekday,trip_1205,"CHAKSU",0
+16,weekday,trip_1206,"CHAKSU",0
+16,weekday,trip_1207,"CHAKSU",0
+16,weekday,trip_1208,"CHAKSU",0
+16,weekday,trip_1209,"CHAKSU",0
+16,weekday,trip_1210,"CHAKSU",0
+16,weekday,trip_1211,"CHAKSU",0
+16,weekday,trip_1212,"CHAKSU",0
+16,weekday,trip_1213,"CHAKSU",0
+16,weekday,trip_1214,"CHAKSU",0
+16,weekday,trip_1215,"CHAKSU",0
+16,weekday,trip_1216,"CHAKSU",0
+16,weekday,trip_1217,"CHAKSU",0
+16,weekday,trip_1218,"CHAKSU",0
+16,weekday,trip_1219,"CHAKSU",0
+16,weekday,trip_1220,"CHAKSU",0
+16,weekday,trip_1221,"CHAKSU",0
+16,weekday,trip_1222,"CHAKSU",0
+16,weekday,trip_1223,"CHAKSU",0
+16,weekday,trip_1224,"CHAKSU",0
+16,weekday,trip_1225,"CHAKSU",0
+16,weekday,trip_1226,"CHAKSU",0
+16,weekday,trip_1227,"CHAKSU",0
+16,weekday,trip_1228,"CHAKSU",0
+16,weekday,trip_1229,"CHAKSU",0
+16,weekday,trip_1230,"CHAKSU",0
+16,weekday,trip_1231,"CHAKSU",0
+16,weekday,trip_1232,"CHAKSU",0
+16,weekday,trip_1233,"CHAKSU",0
+16,weekday,trip_1234,"CHAKSU",0
+16,weekday,trip_1235,"AJMERI GATE",1
+16,weekday,trip_1236,"AJMERI GATE",1
+16,weekday,trip_1237,"AJMERI GATE",1
+16,weekday,trip_1238,"AJMERI GATE",1
+16,weekday,trip_1239,"AJMERI GATE",1
+16,weekday,trip_1240,"AJMERI GATE",1
+16,weekday,trip_1241,"AJMERI GATE",1
+16,weekday,trip_1242,"AJMERI GATE",1
+16,weekday,trip_1243,"AJMERI GATE",1
+16,weekday,trip_1244,"AJMERI GATE",1
+16,weekday,trip_1245,"AJMERI GATE",1
+16,weekday,trip_1246,"AJMERI GATE",1
+16,weekday,trip_1247,"AJMERI GATE",1
+16,weekday,trip_1248,"AJMERI GATE",1
+16,weekday,trip_1249,"AJMERI GATE",1
+16,weekday,trip_1250,"AJMERI GATE",1
+16,weekday,trip_1251,"AJMERI GATE",1
+16,weekday,trip_1252,"AJMERI GATE",1
+16,weekday,trip_1253,"AJMERI GATE",1
+16,weekday,trip_1254,"AJMERI GATE",1
+16,weekday,trip_1255,"AJMERI GATE",1
+16,weekday,trip_1256,"AJMERI GATE",1
+16,weekday,trip_1257,"AJMERI GATE",1
+16,weekday,trip_1258,"AJMERI GATE",1
+16,weekday,trip_1259,"AJMERI GATE",1
+16,weekday,trip_1260,"AJMERI GATE",1
+16,weekday,trip_1261,"AJMERI GATE",1
+16,weekday,trip_1262,"AJMERI GATE",1
+16,weekday,trip_1263,"AJMERI GATE",1
+16,weekday,trip_1264,"AJMERI GATE",1
+16,weekday,trip_1265,"AJMERI GATE",1
+16,weekday,trip_1266,"AJMERI GATE",1
+16,weekday,trip_1267,"AJMERI GATE",1
+16,weekday,trip_1268,"AJMERI GATE",1
+16,weekday,trip_1269,"AJMERI GATE",1
+16,weekday,trip_1270,"AJMERI GATE",1
+16,weekday,trip_1271,"AJMERI GATE",1
+16,weekday,trip_1272,"AJMERI GATE",1
+16,weekday,trip_1273,"AJMERI GATE",1
+16,weekday,trip_1274,"AJMERI GATE",1
+23A,weekday,trip_1275,"PATRAKAR COLONY",0
+23A,weekday,trip_1276,"PATRAKAR COLONY",0
+23A,weekday,trip_1277,"PATRAKAR COLONY",0
+23A,weekday,trip_1278,"PATRAKAR COLONY",0
+23A,weekday,trip_1279,"PATRAKAR COLONY",0
+23A,weekday,trip_1280,"AJMERI GATE",1
+23A,weekday,trip_1281,"AJMERI GATE",1
+23A,weekday,trip_1282,"AJMERI GATE",1
+23A,weekday,trip_1283,"AJMERI GATE",1
+23A,weekday,trip_1284,"AJMERI GATE",1
+24,weekday,trip_1285,"KALWAR",0
+24,weekday,trip_1286,"KALWAR",0
+24,weekday,trip_1287,"KALWAR",0
+24,weekday,trip_1288,"KALWAR",0
+24,weekday,trip_1289,"KALWAR",0
+24,weekday,trip_1290,"KALWAR",0
+24,weekday,trip_1291,"KALWAR",0
+24,weekday,trip_1292,"KALWAR",0
+24,weekday,trip_1293,"KALWAR",0
+24,weekday,trip_1294,"KALWAR",0
+24,weekday,trip_1295,"KALWAR",0
+24,weekday,trip_1296,"KALWAR",0
+24,weekday,trip_1297,"KALWAR",0
+24,weekday,trip_1298,"KALWAR",0
+24,weekday,trip_1299,"KALWAR",0
+24,weekday,trip_1300,"KALWAR",0
+24,weekday,trip_1301,"KALWAR",0
+24,weekday,trip_1302,"KALWAR",0
+24,weekday,trip_1303,"KALWAR",0
+24,weekday,trip_1304,"KALWAR",0
+24,weekday,trip_1305,"KALWAR",0
+24,weekday,trip_1306,"KALWAR",0
+24,weekday,trip_1307,"KALWAR",0
+24,weekday,trip_1308,"KALWAR",0
+24,weekday,trip_1309,"KALWAR",0
+24,weekday,trip_1310,"KALWAR",0
+24,weekday,trip_1311,"KALWAR",0
+24,weekday,trip_1312,"CHANDPOLE",1
+24,weekday,trip_1313,"CHANDPOLE",1
+24,weekday,trip_1314,"CHANDPOLE",1
+24,weekday,trip_1315,"CHANDPOLE",1
+24,weekday,trip_1316,"CHANDPOLE",1
+24,weekday,trip_1317,"CHANDPOLE",1
+24,weekday,trip_1318,"CHANDPOLE",1
+24,weekday,trip_1319,"CHANDPOLE",1
+24,weekday,trip_1320,"CHANDPOLE",1
+24,weekday,trip_1321,"CHANDPOLE",1
+24,weekday,trip_1322,"CHANDPOLE",1
+24,weekday,trip_1323,"CHANDPOLE",1
+24,weekday,trip_1324,"CHANDPOLE",1
+24,weekday,trip_1325,"CHANDPOLE",1
+24,weekday,trip_1326,"CHANDPOLE",1
+24,weekday,trip_1327,"CHANDPOLE",1
+24,weekday,trip_1328,"CHANDPOLE",1
+24,weekday,trip_1329,"CHANDPOLE",1
+24,weekday,trip_1330,"CHANDPOLE",1
+24,weekday,trip_1331,"CHANDPOLE",1
+24,weekday,trip_1332,"CHANDPOLE",1
+24,weekday,trip_1333,"CHANDPOLE",1
+24,weekday,trip_1334,"CHANDPOLE",1
+24,weekday,trip_1335,"CHANDPOLE",1
+24,weekday,trip_1336,"CHANDPOLE",1
+24,weekday,trip_1337,"CHANDPOLE",1
+24,weekday,trip_1338,"CHANDPOLE",1
+25A,weekday,trip_1339,"BADA PADAMPURA",0
+25A,weekday,trip_1340,"BADA PADAMPURA",0
+25A,weekday,trip_1341,"BADA PADAMPURA",0
+25A,weekday,trip_1342,"BADA PADAMPURA",0
+25A,weekday,trip_1343,"AJMERI GATE",1
+25A,weekday,trip_1344,"AJMERI GATE",1
+25A,weekday,trip_1345,"AJMERI GATE",1
+25A,weekday,trip_1346,"AJMERI GATE",1
+25B,weekday,trip_1347,"TITRIYA",0
+25B,weekday,trip_1348,"TITRIYA",0
+25B,weekday,trip_1349,"AJMERI GATE",1
+25B,weekday,trip_1350,"AJMERI GATE",1
+26,weekday,trip_1351,"CHANDPOLE",0
+26,weekday,trip_1352,"CHANDPOLE",0
+26,weekday,trip_1353,"CHANDPOLE",0
+26,weekday,trip_1354,"CHANDPOLE",0
+26,weekday,trip_1355,"CHANDPOLE",0
+26,weekday,trip_1356,"CHANDPOLE",0
+26,weekday,trip_1357,"CHANDPOLE",0
+26,weekday,trip_1358,"CHANDPOLE",0
+26,weekday,trip_1359,"CHANDPOLE",0
+26,weekday,trip_1360,"CHANDPOLE",0
+26,weekday,trip_1361,"CHANDPOLE",0
+26,weekday,trip_1362,"CHANDPOLE",0
+26,weekday,trip_1363,"CHANDPOLE",0
+26,weekday,trip_1364,"CHANDPOLE",0
+26,weekday,trip_1365,"CHANDPOLE",0
+26,weekday,trip_1366,"CHANDPOLE",0
+26,weekday,trip_1367,"CHANDPOLE",0
+26,weekday,trip_1368,"CHANDPOLE",0
+26,weekday,trip_1369,"CHANDPOLE",0
+26,weekday,trip_1370,"CHANDPOLE",0
+26,weekday,trip_1371,"CHANDPOLE",0
+26,weekday,trip_1372,"CHANDPOLE",0
+26,weekday,trip_1373,"CHANDPOLE",0
+26,weekday,trip_1374,"CHANDPOLE",0
+26,weekday,trip_1375,"CHANDPOLE",0
+26,weekday,trip_1376,"CHANDPOLE",0
+26,weekday,trip_1377,"CHANDPOLE",0
+26,weekday,trip_1378,"CHANDPOLE",0
+26,weekday,trip_1379,"BAGRU",1
+26,weekday,trip_1380,"BAGRU",1
+26,weekday,trip_1381,"BAGRU",1
+26,weekday,trip_1382,"BAGRU",1
+26,weekday,trip_1383,"BAGRU",1
+26,weekday,trip_1384,"BAGRU",1
+26,weekday,trip_1385,"BAGRU",1
+26,weekday,trip_1386,"BAGRU",1
+26,weekday,trip_1387,"BAGRU",1
+26,weekday,trip_1388,"BAGRU",1
+26,weekday,trip_1389,"BAGRU",1
+26,weekday,trip_1390,"BAGRU",1
+26,weekday,trip_1391,"BAGRU",1
+26,weekday,trip_1392,"BAGRU",1
+26,weekday,trip_1393,"BAGRU",1
+26,weekday,trip_1394,"BAGRU",1
+26,weekday,trip_1395,"BAGRU",1
+26,weekday,trip_1396,"BAGRU",1
+26,weekday,trip_1397,"BAGRU",1
+26,weekday,trip_1398,"BAGRU",1
+26,weekday,trip_1399,"BAGRU",1
+26,weekday,trip_1400,"BAGRU",1
+26,weekday,trip_1401,"BAGRU",1
+26,weekday,trip_1402,"BAGRU",1
+26,weekday,trip_1403,"BAGRU",1
+26,weekday,trip_1404,"BAGRU",1
+26,weekday,trip_1405,"BAGRU",1
+26,weekday,trip_1406,"BAGRU",1
+27,weekday,trip_1407,"WATIKA",0
+27,weekday,trip_1408,"WATIKA",0
+27,weekday,trip_1409,"WATIKA",0
+27,weekday,trip_1410,"WATIKA",0
+27,weekday,trip_1411,"WATIKA",0
+27,weekday,trip_1412,"WATIKA",0
+27,weekday,trip_1413,"WATIKA",0
+27,weekday,trip_1414,"WATIKA",0
+27,weekday,trip_1415,"WATIKA",0
+27,weekday,trip_1416,"WATIKA",0
+27,weekday,trip_1417,"GONER",1
+27,weekday,trip_1418,"GONER",1
+27,weekday,trip_1419,"GONER",1
+27,weekday,trip_1420,"GONER",1
+27,weekday,trip_1421,"GONER",1
+27,weekday,trip_1422,"GONER",1
+27,weekday,trip_1423,"GONER",1
+27,weekday,trip_1424,"GONER",1
+27,weekday,trip_1425,"GONER",1
+27,weekday,trip_1426,"GONER",1
+28,weekday,trip_1427,"RENWAL",0
+28,weekday,trip_1428,"RENWAL",0
+28,weekday,trip_1429,"RENWAL",0
+28,weekday,trip_1430,"RENWAL",0
+28,weekday,trip_1431,"RENWAL",0
+28,weekday,trip_1432,"RENWAL",0
+28,weekday,trip_1433,"RENWAL",0
+28,weekday,trip_1434,"RENWAL",0
+28,weekday,trip_1435,"RENWAL",0
+28,weekday,trip_1436,"RENWAL",0
+28,weekday,trip_1437,"RENWAL",0
+28,weekday,trip_1438,"RENWAL",0
+28,weekday,trip_1439,"RENWAL",0
+28,weekday,trip_1440,"RENWAL",0
+28,weekday,trip_1441,"RENWAL",0
+28,weekday,trip_1442,"RENWAL",0
+28,weekday,trip_1443,"RENWAL",0
+28,weekday,trip_1444,"RENWAL",0
+28,weekday,trip_1445,"RENWAL",0
+28,weekday,trip_1446,"RENWAL",0
+28,weekday,trip_1447,"RENWAL",0
+28,weekday,trip_1448,"RENWAL",0
+28,weekday,trip_1449,"RENWAL",0
+28,weekday,trip_1450,"RENWAL",0
+28,weekday,trip_1451,"RENWAL",0
+28,weekday,trip_1452,"RENWAL",0
+28,weekday,trip_1453,"RENWAL",0
+28,weekday,trip_1454,"RENWAL",0
+28,weekday,trip_1455,"RENWAL",0
+28,weekday,trip_1456,"RENWAL",0
+28,weekday,trip_1457,"RENWAL",0
+28,weekday,trip_1458,"RENWAL",0
+28,weekday,trip_1459,"RENWAL",0
+28,weekday,trip_1460,"RENWAL",0
+28,weekday,trip_1461,"RENWAL",0
+28,weekday,trip_1462,"RENWAL",0
+28,weekday,trip_1463,"AJMERI GATE",1
+28,weekday,trip_1464,"AJMERI GATE",1
+28,weekday,trip_1465,"AJMERI GATE",1
+28,weekday,trip_1466,"AJMERI GATE",1
+28,weekday,trip_1467,"AJMERI GATE",1
+28,weekday,trip_1468,"AJMERI GATE",1
+28,weekday,trip_1469,"AJMERI GATE",1
+28,weekday,trip_1470,"AJMERI GATE",1
+28,weekday,trip_1471,"AJMERI GATE",1
+28,weekday,trip_1472,"AJMERI GATE",1
+28,weekday,trip_1473,"AJMERI GATE",1
+28,weekday,trip_1474,"AJMERI GATE",1
+28,weekday,trip_1475,"AJMERI GATE",1
+28,weekday,trip_1476,"AJMERI GATE",1
+28,weekday,trip_1477,"AJMERI GATE",1
+28,weekday,trip_1478,"AJMERI GATE",1
+28,weekday,trip_1479,"AJMERI GATE",1
+28,weekday,trip_1480,"AJMERI GATE",1
+28,weekday,trip_1481,"AJMERI GATE",1
+28,weekday,trip_1482,"AJMERI GATE",1
+28,weekday,trip_1483,"AJMERI GATE",1
+28,weekday,trip_1484,"AJMERI GATE",1
+28,weekday,trip_1485,"AJMERI GATE",1
+28,weekday,trip_1486,"AJMERI GATE",1
+28,weekday,trip_1487,"AJMERI GATE",1
+28,weekday,trip_1488,"AJMERI GATE",1
+28,weekday,trip_1489,"AJMERI GATE",1
+28,weekday,trip_1490,"AJMERI GATE",1
+28,weekday,trip_1491,"AJMERI GATE",1
+28,weekday,trip_1492,"AJMERI GATE",1
+28,weekday,trip_1493,"AJMERI GATE",1
+28,weekday,trip_1494,"AJMERI GATE",1
+28,weekday,trip_1495,"AJMERI GATE",1
+28,weekday,trip_1496,"AJMERI GATE",1
+28,weekday,trip_1497,"AJMERI GATE",1
+28,weekday,trip_1498,"AJMERI GATE",1
+30,weekday,trip_1499,"RAMGARH",0
+30,weekday,trip_1500,"RAMGARH",0
+30,weekday,trip_1501,"RAMGARH",0
+30,weekday,trip_1502,"RAMGARH",0
+30,weekday,trip_1503,"RAMGARH",0
+30,weekday,trip_1504,"RAMGARH",0
+30,weekday,trip_1505,"RAMGARH",0
+30,weekday,trip_1506,"RAMGARH",0
+30,weekday,trip_1507,"RAMGARH",0
+30,weekday,trip_1508,"RAMGARH",0
+30,weekday,trip_1509,"RAMGARH",0
+30,weekday,trip_1510,"RAMGARH",0
+30,weekday,trip_1511,"RAMGARH",0
+30,weekday,trip_1512,"RAMGARH",0
+30,weekday,trip_1513,"RAMGARH",0
+30,weekday,trip_1514,"RAMGARH",0
+30,weekday,trip_1515,"RAMGARH",0
+30,weekday,trip_1516,"RAMGARH",0
+30,weekday,trip_1517,"RAMGARH",0
+30,weekday,trip_1518,"RAMGARH",0
+30,weekday,trip_1519,"RAMGARH",0
+30,weekday,trip_1520,"RAMGARH",0
+30,weekday,trip_1521,"RAMGARH",0
+30,weekday,trip_1522,"RAMGARH",0
+30,weekday,trip_1523,"RAMGARH",0
+30,weekday,trip_1524,"RAMGARH",0
+30,weekday,trip_1525,"BADI CHOPAR",1
+30,weekday,trip_1526,"BADI CHOPAR",1
+30,weekday,trip_1527,"BADI CHOPAR",1
+30,weekday,trip_1528,"BADI CHOPAR",1
+30,weekday,trip_1529,"BADI CHOPAR",1
+30,weekday,trip_1530,"BADI CHOPAR",1
+30,weekday,trip_1531,"BADI CHOPAR",1
+30,weekday,trip_1532,"BADI CHOPAR",1
+30,weekday,trip_1533,"BADI CHOPAR",1
+30,weekday,trip_1534,"BADI CHOPAR",1
+30,weekday,trip_1535,"BADI CHOPAR",1
+30,weekday,trip_1536,"BADI CHOPAR",1
+30,weekday,trip_1537,"BADI CHOPAR",1
+30,weekday,trip_1538,"BADI CHOPAR",1
+30,weekday,trip_1539,"BADI CHOPAR",1
+30,weekday,trip_1540,"BADI CHOPAR",1
+30,weekday,trip_1541,"BADI CHOPAR",1
+30,weekday,trip_1542,"BADI CHOPAR",1
+30,weekday,trip_1543,"BADI CHOPAR",1
+30,weekday,trip_1544,"BADI CHOPAR",1
+30,weekday,trip_1545,"BADI CHOPAR",1
+30,weekday,trip_1546,"BADI CHOPAR",1
+30,weekday,trip_1547,"BADI CHOPAR",1
+30,weekday,trip_1548,"BADI CHOPAR",1
+30,weekday,trip_1549,"BADI CHOPAR",1
+30,weekday,trip_1550,"BADI CHOPAR",1
+32,weekday,trip_1551,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1552,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1553,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1554,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1555,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1556,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1557,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1558,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1559,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1560,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1561,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1562,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1563,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1564,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1565,"RSBTDA BUS TERMINAL HEERAPURA",0
+32,weekday,trip_1566,"VINAYAK CAMPUS",1
+32,weekday,trip_1567,"VINAYAK CAMPUS",1
+32,weekday,trip_1568,"VINAYAK CAMPUS",1
+32,weekday,trip_1569,"VINAYAK CAMPUS",1
+32,weekday,trip_1570,"VINAYAK CAMPUS",1
+32,weekday,trip_1571,"VINAYAK CAMPUS",1
+32,weekday,trip_1572,"VINAYAK CAMPUS",1
+32,weekday,trip_1573,"VINAYAK CAMPUS",1
+32,weekday,trip_1574,"VINAYAK CAMPUS",1
+32,weekday,trip_1575,"VINAYAK CAMPUS",1
+32,weekday,trip_1576,"VINAYAK CAMPUS",1
+32,weekday,trip_1577,"VINAYAK CAMPUS",1
+32,weekday,trip_1578,"VINAYAK CAMPUS",1
+32,weekday,trip_1579,"VINAYAK CAMPUS",1
+32,weekday,trip_1580,"VINAYAK CAMPUS",1
+34,weekday,trip_1581,"ANANDAM MANGLAM",0
+34,weekday,trip_1582,"ANANDAM MANGLAM",0
+34,weekday,trip_1583,"ANANDAM MANGLAM",0
+34,weekday,trip_1584,"ANANDAM MANGLAM",0
+34,weekday,trip_1585,"ANANDAM MANGLAM",0
+34,weekday,trip_1586,"ANANDAM MANGLAM",0
+34,weekday,trip_1587,"ANANDAM MANGLAM",0
+34,weekday,trip_1588,"ANANDAM MANGLAM",0
+34,weekday,trip_1589,"ANANDAM MANGLAM",0
+34,weekday,trip_1590,"ANANDAM MANGLAM",0
+34,weekday,trip_1591,"ANANDAM MANGLAM",0
+34,weekday,trip_1592,"ANANDAM MANGLAM",0
+34,weekday,trip_1593,"ANANDAM MANGLAM",0
+34,weekday,trip_1594,"ANANDAM MANGLAM",0
+34,weekday,trip_1595,"ANANDAM MANGLAM",0
+34,weekday,trip_1596,"ANANDAM MANGLAM",0
+34,weekday,trip_1597,"ANANDAM MANGLAM",0
+34,weekday,trip_1598,"ANANDAM MANGLAM",0
+34,weekday,trip_1599,"ANANDAM MANGLAM",0
+34,weekday,trip_1600,"ANANDAM MANGLAM",0
+34,weekday,trip_1601,"ANANDAM MANGLAM",0
+34,weekday,trip_1602,"ANANDAM MANGLAM",0
+34,weekday,trip_1603,"ANANDAM MANGLAM",0
+34,weekday,trip_1604,"ANANDAM MANGLAM",0
+34,weekday,trip_1605,"ANANDAM MANGLAM",0
+34,weekday,trip_1606,"ANANDAM MANGLAM",0
+34,weekday,trip_1607,"ANANDAM MANGLAM",0
+34,weekday,trip_1608,"ANANDAM MANGLAM",0
+34,weekday,trip_1609,"JAISINGHPURA THANA",1
+34,weekday,trip_1610,"JAISINGHPURA THANA",1
+34,weekday,trip_1611,"JAISINGHPURA THANA",1
+34,weekday,trip_1612,"JAISINGHPURA THANA",1
+34,weekday,trip_1613,"JAISINGHPURA THANA",1
+34,weekday,trip_1614,"JAISINGHPURA THANA",1
+34,weekday,trip_1615,"JAISINGHPURA THANA",1
+34,weekday,trip_1616,"JAISINGHPURA THANA",1
+34,weekday,trip_1617,"JAISINGHPURA THANA",1
+34,weekday,trip_1618,"JAISINGHPURA THANA",1
+34,weekday,trip_1619,"JAISINGHPURA THANA",1
+34,weekday,trip_1620,"JAISINGHPURA THANA",1
+34,weekday,trip_1621,"JAISINGHPURA THANA",1
+34,weekday,trip_1622,"JAISINGHPURA THANA",1
+34,weekday,trip_1623,"JAISINGHPURA THANA",1
+34,weekday,trip_1624,"JAISINGHPURA THANA",1
+34,weekday,trip_1625,"JAISINGHPURA THANA",1
+34,weekday,trip_1626,"JAISINGHPURA THANA",1
+34,weekday,trip_1627,"JAISINGHPURA THANA",1
+34,weekday,trip_1628,"JAISINGHPURA THANA",1
+34,weekday,trip_1629,"JAISINGHPURA THANA",1
+34,weekday,trip_1630,"JAISINGHPURA THANA",1
+34,weekday,trip_1631,"JAISINGHPURA THANA",1
+34,weekday,trip_1632,"JAISINGHPURA THANA",1
+34,weekday,trip_1633,"JAISINGHPURA THANA",1
+34,weekday,trip_1634,"JAISINGHPURA THANA",1
+34,weekday,trip_1635,"JAISINGHPURA THANA",1
+34,weekday,trip_1636,"JAISINGHPURA THANA",1
+AC1,weekday,trip_1637,"SANGANER",0
+AC1,weekday,trip_1638,"SANGANER",0
+AC1,weekday,trip_1639,"SANGANER",0
+AC1,weekday,trip_1640,"SANGANER",0
+AC1,weekday,trip_1641,"SANGANER",0
+AC1,weekday,trip_1642,"SANGANER",0
+AC1,weekday,trip_1643,"SANGANER",0
+AC1,weekday,trip_1644,"SANGANER",0
+AC1,weekday,trip_1645,"SANGANER",0
+AC1,weekday,trip_1646,"SANGANER",0
+AC1,weekday,trip_1647,"SANGANER",0
+AC1,weekday,trip_1648,"SANGANER",0
+AC1,weekday,trip_1649,"SANGANER",0
+AC1,weekday,trip_1650,"SANGANER",0
+AC1,weekday,trip_1651,"SANGANER",0
+AC1,weekday,trip_1652,"SANGANER",0
+AC1,weekday,trip_1653,"SANGANER",0
+AC1,weekday,trip_1654,"SANGANER",0
+AC1,weekday,trip_1655,"SANGANER",0
+AC1,weekday,trip_1656,"SANGANER",0
+AC1,weekday,trip_1657,"SANGANER",0
+AC1,weekday,trip_1658,"SANGANER",0
+AC1,weekday,trip_1659,"SANGANER",0
+AC1,weekday,trip_1660,"SANGANER",0
+AC1,weekday,trip_1661,"SANGANER",0
+AC1,weekday,trip_1662,"SANGANER",0
+AC1,weekday,trip_1663,"SANGANER",0
+AC1,weekday,trip_1664,"SANGANER",0
+AC1,weekday,trip_1665,"SANGANER",0
+AC1,weekday,trip_1666,"SANGANER",0
+AC1,weekday,trip_1667,"SANGANER",0
+AC1,weekday,trip_1668,"SANGANER",0
+AC1,weekday,trip_1669,"SANGANER",0
+AC1,weekday,trip_1670,"SANGANER",0
+AC1,weekday,trip_1671,"SANGANER",0
+AC1,weekday,trip_1672,"SANGANER",0
+AC1,weekday,trip_1673,"SANGANER",0
+AC1,weekday,trip_1674,"SANGANER",0
+AC1,weekday,trip_1675,"SANGANER",0
+AC1,weekday,trip_1676,"SANGANER",0
+AC1,weekday,trip_1677,"SANGANER",0
+AC1,weekday,trip_1678,"SANGANER",0
+AC1,weekday,trip_1679,"SANGANER",0
+AC1,weekday,trip_1680,"SANGANER",0
+AC1,weekday,trip_1681,"SANGANER",0
+AC1,weekday,trip_1682,"SANGANER",0
+AC1,weekday,trip_1683,"SANGANER",0
+AC1,weekday,trip_1684,"SANGANER",0
+AC1,weekday,trip_1685,"SANGANER",0
+AC1,weekday,trip_1686,"SANGANER",0
+AC1,weekday,trip_1687,"SANGANER",0
+AC1,weekday,trip_1688,"SANGANER",0
+AC1,weekday,trip_1689,"SANGANER",0
+AC1,weekday,trip_1690,"SANGANER",0
+AC1,weekday,trip_1691,"SANGANER",0
+AC1,weekday,trip_1692,"SANGANER",0
+AC1,weekday,trip_1693,"SANGANER",0
+AC1,weekday,trip_1694,"SANGANER",0
+AC1,weekday,trip_1695,"SANGANER",0
+AC1,weekday,trip_1696,"SANGANER",0
+AC1,weekday,trip_1697,"SANGANER",0
+AC1,weekday,trip_1698,"SANGANER",0
+AC1,weekday,trip_1699,"SANGANER",0
+AC1,weekday,trip_1700,"SANGANER",0
+AC1,weekday,trip_1701,"SANGANER",0
+AC1,weekday,trip_1702,"SANGANER",0
+AC1,weekday,trip_1703,"SANGANER",0
+AC1,weekday,trip_1704,"SANGANER",0
+AC1,weekday,trip_1705,"SANGANER",0
+AC1,weekday,trip_1706,"SANGANER",0
+AC1,weekday,trip_1707,"SANGANER",0
+AC1,weekday,trip_1708,"SANGANER",0
+AC1,weekday,trip_1709,"SANGANER",0
+AC1,weekday,trip_1710,"SANGANER",0
+AC1,weekday,trip_1711,"SANGANER",0
+AC1,weekday,trip_1712,"SANGANER",0
+AC1,weekday,trip_1713,"SANGANER",0
+AC1,weekday,trip_1714,"SANGANER",0
+AC1,weekday,trip_1715,"SANGANER",0
+AC1,weekday,trip_1716,"SANGANER",0
+AC1,weekday,trip_1717,"SANGANER",0
+AC1,weekday,trip_1718,"SANGANER",0
+AC1,weekday,trip_1719,"SANGANER",0
+AC1,weekday,trip_1720,"SANGANER",0
+AC1,weekday,trip_1721,"KUKAS",1
+AC1,weekday,trip_1722,"KUKAS",1
+AC1,weekday,trip_1723,"KUKAS",1
+AC1,weekday,trip_1724,"KUKAS",1
+AC1,weekday,trip_1725,"KUKAS",1
+AC1,weekday,trip_1726,"KUKAS",1
+AC1,weekday,trip_1727,"KUKAS",1
+AC1,weekday,trip_1728,"KUKAS",1
+AC1,weekday,trip_1729,"KUKAS",1
+AC1,weekday,trip_1730,"KUKAS",1
+AC1,weekday,trip_1731,"KUKAS",1
+AC1,weekday,trip_1732,"KUKAS",1
+AC1,weekday,trip_1733,"KUKAS",1
+AC1,weekday,trip_1734,"KUKAS",1
+AC1,weekday,trip_1735,"KUKAS",1
+AC1,weekday,trip_1736,"KUKAS",1
+AC1,weekday,trip_1737,"KUKAS",1
+AC1,weekday,trip_1738,"KUKAS",1
+AC1,weekday,trip_1739,"KUKAS",1
+AC1,weekday,trip_1740,"KUKAS",1
+AC1,weekday,trip_1741,"KUKAS",1
+AC1,weekday,trip_1742,"KUKAS",1
+AC1,weekday,trip_1743,"KUKAS",1
+AC1,weekday,trip_1744,"KUKAS",1
+AC1,weekday,trip_1745,"KUKAS",1
+AC1,weekday,trip_1746,"KUKAS",1
+AC1,weekday,trip_1747,"KUKAS",1
+AC1,weekday,trip_1748,"KUKAS",1
+AC1,weekday,trip_1749,"KUKAS",1
+AC1,weekday,trip_1750,"KUKAS",1
+AC1,weekday,trip_1751,"KUKAS",1
+AC1,weekday,trip_1752,"KUKAS",1
+AC1,weekday,trip_1753,"KUKAS",1
+AC1,weekday,trip_1754,"KUKAS",1
+AC1,weekday,trip_1755,"KUKAS",1
+AC1,weekday,trip_1756,"KUKAS",1
+AC1,weekday,trip_1757,"KUKAS",1
+AC1,weekday,trip_1758,"KUKAS",1
+AC1,weekday,trip_1759,"KUKAS",1
+AC1,weekday,trip_1760,"KUKAS",1
+AC1,weekday,trip_1761,"KUKAS",1
+AC1,weekday,trip_1762,"KUKAS",1
+AC1,weekday,trip_1763,"KUKAS",1
+AC1,weekday,trip_1764,"KUKAS",1
+AC1,weekday,trip_1765,"KUKAS",1
+AC1,weekday,trip_1766,"KUKAS",1
+AC1,weekday,trip_1767,"KUKAS",1
+AC1,weekday,trip_1768,"KUKAS",1
+AC1,weekday,trip_1769,"KUKAS",1
+AC1,weekday,trip_1770,"KUKAS",1
+AC1,weekday,trip_1771,"KUKAS",1
+AC1,weekday,trip_1772,"KUKAS",1
+AC1,weekday,trip_1773,"KUKAS",1
+AC1,weekday,trip_1774,"KUKAS",1
+AC1,weekday,trip_1775,"KUKAS",1
+AC1,weekday,trip_1776,"KUKAS",1
+AC1,weekday,trip_1777,"KUKAS",1
+AC1,weekday,trip_1778,"KUKAS",1
+AC1,weekday,trip_1779,"KUKAS",1
+AC1,weekday,trip_1780,"KUKAS",1
+AC1,weekday,trip_1781,"KUKAS",1
+AC1,weekday,trip_1782,"KUKAS",1
+AC1,weekday,trip_1783,"KUKAS",1
+AC1,weekday,trip_1784,"KUKAS",1
+AC1,weekday,trip_1785,"KUKAS",1
+AC1,weekday,trip_1786,"KUKAS",1
+AC1,weekday,trip_1787,"KUKAS",1
+AC1,weekday,trip_1788,"KUKAS",1
+AC1,weekday,trip_1789,"KUKAS",1
+AC1,weekday,trip_1790,"KUKAS",1
+AC1,weekday,trip_1791,"KUKAS",1
+AC1,weekday,trip_1792,"KUKAS",1
+AC1,weekday,trip_1793,"KUKAS",1
+AC1,weekday,trip_1794,"KUKAS",1
+AC1,weekday,trip_1795,"KUKAS",1
+AC1,weekday,trip_1796,"KUKAS",1
+AC1,weekday,trip_1797,"KUKAS",1
+AC1,weekday,trip_1798,"KUKAS",1
+AC1,weekday,trip_1799,"KUKAS",1
+AC1,weekday,trip_1800,"KUKAS",1
+AC1,weekday,trip_1801,"KUKAS",1
+AC1,weekday,trip_1802,"KUKAS",1
+AC1,weekday,trip_1803,"KUKAS",1
+AC1,weekday,trip_1804,"KUKAS",1
+AC2,weekday,trip_1805,"MGH",0
+AC2,weekday,trip_1806,"MGH",0
+AC2,weekday,trip_1807,"MGH",0
+AC2,weekday,trip_1808,"MGH",0
+AC2,weekday,trip_1809,"MGH",0
+AC2,weekday,trip_1810,"MGH",0
+AC2,weekday,trip_1811,"MGH",0
+AC2,weekday,trip_1812,"MGH",0
+AC2,weekday,trip_1813,"MGH",0
+AC2,weekday,trip_1814,"MGH",0
+AC2,weekday,trip_1815,"MGH",0
+AC2,weekday,trip_1816,"MGH",0
+AC2,weekday,trip_1817,"MGH",0
+AC2,weekday,trip_1818,"MGH",0
+AC2,weekday,trip_1819,"MGH",0
+AC2,weekday,trip_1820,"MGH",0
+AC2,weekday,trip_1821,"MGH",0
+AC2,weekday,trip_1822,"MGH",0
+AC2,weekday,trip_1823,"MGH",0
+AC2,weekday,trip_1824,"MGH",0
+AC2,weekday,trip_1825,"MGH",0
+AC2,weekday,trip_1826,"MGH",0
+AC2,weekday,trip_1827,"MGH",0
+AC2,weekday,trip_1828,"MGH",0
+AC2,weekday,trip_1829,"MGH",0
+AC2,weekday,trip_1830,"MGH",0
+AC2,weekday,trip_1831,"MGH",0
+AC2,weekday,trip_1832,"MGH",0
+AC2,weekday,trip_1833,"MGH",0
+AC2,weekday,trip_1834,"MGH",0
+AC2,weekday,trip_1835,"MGH",0
+AC2,weekday,trip_1836,"MGH",0
+AC2,weekday,trip_1837,"MGH",0
+AC2,weekday,trip_1838,"MGH",0
+AC2,weekday,trip_1839,"MGH",0
+AC2,weekday,trip_1840,"MGH",0
+AC2,weekday,trip_1841,"MGH",0
+AC2,weekday,trip_1842,"MGH",0
+AC2,weekday,trip_1843,"MGH",0
+AC2,weekday,trip_1844,"MGH",0
+AC2,weekday,trip_1845,"MGH",0
+AC2,weekday,trip_1846,"MGH",0
+AC2,weekday,trip_1847,"MGH",0
+AC2,weekday,trip_1848,"MGH",0
+AC2,weekday,trip_1849,"MGH",0
+AC2,weekday,trip_1850,"MGH",0
+AC2,weekday,trip_1851,"MGH",0
+AC2,weekday,trip_1852,"MGH",0
+AC2,weekday,trip_1853,"MGH",0
+AC2,weekday,trip_1854,"MGH",0
+AC2,weekday,trip_1855,"MGH",0
+AC2,weekday,trip_1856,"MGH",0
+AC2,weekday,trip_1857,"MGH",0
+AC2,weekday,trip_1858,"MGH",0
+AC2,weekday,trip_1859,"MGH",0
+AC2,weekday,trip_1860,"MGH",0
+AC2,weekday,trip_1861,"MGH",0
+AC2,weekday,trip_1862,"MGH",0
+AC2,weekday,trip_1863,"GOBINDPURA",1
+AC2,weekday,trip_1864,"GOBINDPURA",1
+AC2,weekday,trip_1865,"GOBINDPURA",1
+AC2,weekday,trip_1866,"GOBINDPURA",1
+AC2,weekday,trip_1867,"GOBINDPURA",1
+AC2,weekday,trip_1868,"GOBINDPURA",1
+AC2,weekday,trip_1869,"GOBINDPURA",1
+AC2,weekday,trip_1870,"GOBINDPURA",1
+AC2,weekday,trip_1871,"GOBINDPURA",1
+AC2,weekday,trip_1872,"GOBINDPURA",1
+AC2,weekday,trip_1873,"GOBINDPURA",1
+AC2,weekday,trip_1874,"GOBINDPURA",1
+AC2,weekday,trip_1875,"GOBINDPURA",1
+AC2,weekday,trip_1876,"GOBINDPURA",1
+AC2,weekday,trip_1877,"GOBINDPURA",1
+AC2,weekday,trip_1878,"GOBINDPURA",1
+AC2,weekday,trip_1879,"GOBINDPURA",1
+AC2,weekday,trip_1880,"GOBINDPURA",1
+AC2,weekday,trip_1881,"GOBINDPURA",1
+AC2,weekday,trip_1882,"GOBINDPURA",1
+AC2,weekday,trip_1883,"GOBINDPURA",1
+AC2,weekday,trip_1884,"GOBINDPURA",1
+AC2,weekday,trip_1885,"GOBINDPURA",1
+AC2,weekday,trip_1886,"GOBINDPURA",1
+AC2,weekday,trip_1887,"GOBINDPURA",1
+AC2,weekday,trip_1888,"GOBINDPURA",1
+AC2,weekday,trip_1889,"GOBINDPURA",1
+AC2,weekday,trip_1890,"GOBINDPURA",1
+AC2,weekday,trip_1891,"GOBINDPURA",1
+AC2,weekday,trip_1892,"GOBINDPURA",1
+AC2,weekday,trip_1893,"GOBINDPURA",1
+AC2,weekday,trip_1894,"GOBINDPURA",1
+AC2,weekday,trip_1895,"GOBINDPURA",1
+AC2,weekday,trip_1896,"GOBINDPURA",1
+AC2,weekday,trip_1897,"GOBINDPURA",1
+AC2,weekday,trip_1898,"GOBINDPURA",1
+AC2,weekday,trip_1899,"GOBINDPURA",1
+AC2,weekday,trip_1900,"GOBINDPURA",1
+AC2,weekday,trip_1901,"GOBINDPURA",1
+AC2,weekday,trip_1902,"GOBINDPURA",1
+AC2,weekday,trip_1903,"GOBINDPURA",1
+AC2,weekday,trip_1904,"GOBINDPURA",1
+AC2,weekday,trip_1905,"GOBINDPURA",1
+AC2,weekday,trip_1906,"GOBINDPURA",1
+AC2,weekday,trip_1907,"GOBINDPURA",1
+AC2,weekday,trip_1908,"GOBINDPURA",1
+AC2,weekday,trip_1909,"GOBINDPURA",1
+AC2,weekday,trip_1910,"GOBINDPURA",1
+AC2,weekday,trip_1911,"GOBINDPURA",1
+AC2,weekday,trip_1912,"GOBINDPURA",1
+AC2,weekday,trip_1913,"GOBINDPURA",1
+AC2,weekday,trip_1914,"GOBINDPURA",1
+AC2,weekday,trip_1915,"GOBINDPURA",1
+AC2,weekday,trip_1916,"GOBINDPURA",1
+AC2,weekday,trip_1917,"GOBINDPURA",1
+AC2,weekday,trip_1918,"GOBINDPURA",1
+AC2,weekday,trip_1919,"GOBINDPURA",1
+AC2,weekday,trip_1920,"GOBINDPURA",1
+AC7,weekday,trip_1921,"JOSHI MARG",0
+AC7,weekday,trip_1922,"JOSHI MARG",0
+AC7,weekday,trip_1923,"JOSHI MARG",0
+AC7,weekday,trip_1924,"JOSHI MARG",0
+AC7,weekday,trip_1925,"JOSHI MARG",0
+AC7,weekday,trip_1926,"JOSHI MARG",0
+AC7,weekday,trip_1927,"JOSHI MARG",0
+AC7,weekday,trip_1928,"JOSHI MARG",0
+AC7,weekday,trip_1929,"JOSHI MARG",0
+AC7,weekday,trip_1930,"JOSHI MARG",0
+AC7,weekday,trip_1931,"JOSHI MARG",0
+AC7,weekday,trip_1932,"JOSHI MARG",0
+AC7,weekday,trip_1933,"JOSHI MARG",0
+AC7,weekday,trip_1934,"JOSHI MARG",0
+AC7,weekday,trip_1935,"JOSHI MARG",0
+AC7,weekday,trip_1936,"JOSHI MARG",0
+AC7,weekday,trip_1937,"JOSHI MARG",0
+AC7,weekday,trip_1938,"JOSHI MARG",0
+AC7,weekday,trip_1939,"JOSHI MARG",0
+AC7,weekday,trip_1940,"JOSHI MARG",0
+AC7,weekday,trip_1941,"JOSHI MARG",0
+AC7,weekday,trip_1942,"JOSHI MARG",0
+AC7,weekday,trip_1943,"JOSHI MARG",0
+AC7,weekday,trip_1944,"JOSHI MARG",0
+AC7,weekday,trip_1945,"JOSHI MARG",0
+AC7,weekday,trip_1946,"JOSHI MARG",0
+AC7,weekday,trip_1947,"JOSHI MARG",0
+AC7,weekday,trip_1948,"JOSHI MARG",0
+AC7,weekday,trip_1949,"JOSHI MARG",0
+AC7,weekday,trip_1950,"JOSHI MARG",0
+AC7,weekday,trip_1951,"JOSHI MARG",0
+AC7,weekday,trip_1952,"JOSHI MARG",0
+AC7,weekday,trip_1953,"JOSHI MARG",0
+AC7,weekday,trip_1954,"JOSHI MARG",0
+AC7,weekday,trip_1955,"JOSHI MARG",0
+AC7,weekday,trip_1956,"JOSHI MARG",0
+AC7,weekday,trip_1957,"DANTLI PHATAK",1
+AC7,weekday,trip_1958,"DANTLI PHATAK",1
+AC7,weekday,trip_1959,"DANTLI PHATAK",1
+AC7,weekday,trip_1960,"DANTLI PHATAK",1
+AC7,weekday,trip_1961,"DANTLI PHATAK",1
+AC7,weekday,trip_1962,"DANTLI PHATAK",1
+AC7,weekday,trip_1963,"DANTLI PHATAK",1
+AC7,weekday,trip_1964,"DANTLI PHATAK",1
+AC7,weekday,trip_1965,"DANTLI PHATAK",1
+AC7,weekday,trip_1966,"DANTLI PHATAK",1
+AC7,weekday,trip_1967,"DANTLI PHATAK",1
+AC7,weekday,trip_1968,"DANTLI PHATAK",1
+AC7,weekday,trip_1969,"DANTLI PHATAK",1
+AC7,weekday,trip_1970,"DANTLI PHATAK",1
+AC7,weekday,trip_1971,"DANTLI PHATAK",1
+AC7,weekday,trip_1972,"DANTLI PHATAK",1
+AC7,weekday,trip_1973,"DANTLI PHATAK",1
+AC7,weekday,trip_1974,"DANTLI PHATAK",1
+AC7,weekday,trip_1975,"DANTLI PHATAK",1
+AC7,weekday,trip_1976,"DANTLI PHATAK",1
+AC7,weekday,trip_1977,"DANTLI PHATAK",1
+AC7,weekday,trip_1978,"DANTLI PHATAK",1
+AC7,weekday,trip_1979,"DANTLI PHATAK",1
+AC7,weekday,trip_1980,"DANTLI PHATAK",1
+AC7,weekday,trip_1981,"DANTLI PHATAK",1
+AC7,weekday,trip_1982,"DANTLI PHATAK",1
+AC7,weekday,trip_1983,"DANTLI PHATAK",1
+AC7,weekday,trip_1984,"DANTLI PHATAK",1
+AC7,weekday,trip_1985,"DANTLI PHATAK",1
+AC7,weekday,trip_1986,"DANTLI PHATAK",1
+AC7,weekday,trip_1987,"DANTLI PHATAK",1
+AC7,weekday,trip_1988,"DANTLI PHATAK",1
+AC7,weekday,trip_1989,"DANTLI PHATAK",1
+AC7,weekday,trip_1990,"DANTLI PHATAK",1
+AC7,weekday,trip_1991,"DANTLI PHATAK",1
+AC7,weekday,trip_1992,"DANTLI PHATAK",1
+AC8,weekday,trip_1993,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1994,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1995,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1996,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1997,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1998,"MUNDIYARAMSAR",0
+AC8,weekday,trip_1999,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2000,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2001,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2002,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2003,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2004,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2005,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2006,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2007,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2008,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2009,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2010,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2011,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2012,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2013,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2014,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2015,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2016,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2017,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2018,"MUNDIYARAMSAR",0
+AC8,weekday,trip_2019,"CHOTI CHOPAR",1
+AC8,weekday,trip_2020,"CHOTI CHOPAR",1
+AC8,weekday,trip_2021,"CHOTI CHOPAR",1
+AC8,weekday,trip_2022,"CHOTI CHOPAR",1
+AC8,weekday,trip_2023,"CHOTI CHOPAR",1
+AC8,weekday,trip_2024,"CHOTI CHOPAR",1
+AC8,weekday,trip_2025,"CHOTI CHOPAR",1
+AC8,weekday,trip_2026,"CHOTI CHOPAR",1
+AC8,weekday,trip_2027,"CHOTI CHOPAR",1
+AC8,weekday,trip_2028,"CHOTI CHOPAR",1
+AC8,weekday,trip_2029,"CHOTI CHOPAR",1
+AC8,weekday,trip_2030,"CHOTI CHOPAR",1
+AC8,weekday,trip_2031,"CHOTI CHOPAR",1
+AC8,weekday,trip_2032,"CHOTI CHOPAR",1
+AC8,weekday,trip_2033,"CHOTI CHOPAR",1
+AC8,weekday,trip_2034,"CHOTI CHOPAR",1
+AC8,weekday,trip_2035,"CHOTI CHOPAR",1
+AC8,weekday,trip_2036,"CHOTI CHOPAR",1
+AC8,weekday,trip_2037,"CHOTI CHOPAR",1
+AC8,weekday,trip_2038,"CHOTI CHOPAR",1
+AC8,weekday,trip_2039,"CHOTI CHOPAR",1
+AC8,weekday,trip_2040,"CHOTI CHOPAR",1
+AC8,weekday,trip_2041,"CHOTI CHOPAR",1
+AC8,weekday,trip_2042,"CHOTI CHOPAR",1
+AC8,weekday,trip_2043,"CHOTI CHOPAR",1
+AC8,weekday,trip_2044,"CHOTI CHOPAR",1

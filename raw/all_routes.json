@@ -1,0 +1,384 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": [
+    {
+      "route_id": "69",
+      "route_orgno": "1",
+      "route_name": "BHAIRU KHEJDA TO GALTA",
+      "rkm": "24.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "81",
+      "route_orgno": "1",
+      "route_name": "GALTA TO BHAIRU KHEJDA",
+      "rkm": "24.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "173",
+      "route_orgno": "1A",
+      "route_name": "TRANSPORT NGR TO VKI NO. 17",
+      "rkm": "21.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "163",
+      "route_orgno": "1A",
+      "route_name": "VKI NO. 17 TO TRANSPORT NGR",
+      "rkm": "21.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "321",
+      "route_orgno": "3",
+      "route_name": "DWARKA PURI TO TRANSPORT NGR",
+      "rkm": "22.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "320",
+      "route_orgno": "3",
+      "route_name": "TRANSPORT NGR TO DWARKA PURI",
+      "rkm": "22.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "168",
+      "route_orgno": "3A",
+      "route_name": "CHOTI CHOPAR TO SANGANER",
+      "rkm": "15.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "162",
+      "route_orgno": "3A",
+      "route_name": "SANGANER TO CHOTI CHOPAR",
+      "rkm": "15.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "216",
+      "route_orgno": "6A",
+      "route_name": "AIRPORT to KHIRNI PHATAK PULIYA",
+      "rkm": "26.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "217",
+      "route_orgno": "6A",
+      "route_name": "KHIRNI PHATAK PULIYA to AIRPORT",
+      "rkm": "26.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "72",
+      "route_orgno": "7",
+      "route_name": "KHIRNI PHATAK PULIYA TO TRANSPORT NGR",
+      "rkm": "21.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "116",
+      "route_orgno": "7",
+      "route_name": "TRANSPORT NGR TO KHIRNI PHATAK PULIYA",
+      "rkm": "21.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "66",
+      "route_orgno": "9A",
+      "route_name": "AGARWAL FARM TO DADI KA PHATAK",
+      "rkm": "28.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "104",
+      "route_orgno": "9A",
+      "route_name": "DADI KA PHATAK TO AGARWAL FARM",
+      "rkm": "28.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "416",
+      "route_orgno": "9C",
+      "route_name": "BHAKROTA to MGH",
+      "rkm": "24.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "415",
+      "route_orgno": "9C",
+      "route_name": "MGH to BHAKROTA",
+      "rkm": "24.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "437",
+      "route_orgno": "10B",
+      "route_name": "LALCHANDPURA to KHOLE KE HANUMAN JI",
+      "rkm": "23.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "438",
+      "route_orgno": "10B",
+      "route_name": "KHOLE KE HANUMAN JI to LALCHANDPURA",
+      "rkm": "23.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "232",
+      "route_orgno": "11",
+      "route_name": "AJMERI GATE to GONER",
+      "rkm": "27.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "233",
+      "route_orgno": "11",
+      "route_name": "GONER to AJMERI GATE",
+      "rkm": "27.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "44",
+      "route_orgno": "14",
+      "route_name": "BASSI   TO CHOMU PULIYA",
+      "rkm": "47.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "32",
+      "route_orgno": "14",
+      "route_name": "CHOMU PULIYA TO BASSI  ",
+      "rkm": "47.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "112",
+      "route_orgno": "15",
+      "route_name": "CHANDPOLE TO CHOMU",
+      "rkm": "32.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "109",
+      "route_orgno": "15",
+      "route_name": "CHOMU TO CHANDPOLE",
+      "rkm": "32.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "287",
+      "route_orgno": "16",
+      "route_name": "AJMERI GATE TO CHAKSU",
+      "rkm": "42.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "295",
+      "route_orgno": "16",
+      "route_name": "CHAKSU TO AJMERI GATE",
+      "rkm": "42.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "302",
+      "route_orgno": "23A",
+      "route_name": "AJMERI GATE TO PATRAKAR COLONY",
+      "rkm": "17.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "299",
+      "route_orgno": "23A",
+      "route_name": "PATRAKAR COLONY TO AJMERI GATE",
+      "rkm": "17.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "113",
+      "route_orgno": "24",
+      "route_name": "CHANDPOLE TO KALWAR",
+      "rkm": "25.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "114",
+      "route_orgno": "24",
+      "route_name": "KALWAR TO CHANDPOLE",
+      "rkm": "25.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "248",
+      "route_orgno": "25A",
+      "route_name": "AJMERI GATE to BADA PADAMPURA",
+      "rkm": "34.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "249",
+      "route_orgno": "25A",
+      "route_name": "BADA PADAMPURA to AJMERI GATE",
+      "rkm": "34.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "250",
+      "route_orgno": "25B",
+      "route_name": "AJMERI GATE to TITRIYA",
+      "rkm": "38.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "251",
+      "route_orgno": "25B",
+      "route_name": "TITRIYA to AJMERI GATE",
+      "rkm": "38.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "7",
+      "route_orgno": "26",
+      "route_name": "BAGRU TO CHANDPOLE",
+      "rkm": "34.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "206",
+      "route_orgno": "26",
+      "route_name": "CHANDPOLE to BAGRU via RAMPURA",
+      "rkm": "34.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "319",
+      "route_orgno": "27",
+      "route_name": "GONER TO WATIKA",
+      "rkm": "48.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "318",
+      "route_orgno": "27",
+      "route_name": "WATIKA TO GONER",
+      "rkm": "48.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "79",
+      "route_orgno": "28",
+      "route_name": "AJMERI GATE TO RENWAL",
+      "rkm": "31.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "67",
+      "route_orgno": "28",
+      "route_name": "RENWAL TO AJMERI GATE",
+      "rkm": "31.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "180",
+      "route_orgno": "30",
+      "route_name": "BADI CHOPAR TO RAMGARH",
+      "rkm": "25.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "181",
+      "route_orgno": "30",
+      "route_name": "RAMGARH TO BADI CHOPAR",
+      "rkm": "25.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "392",
+      "route_orgno": "32",
+      "route_name": "VINAYAK CAMPUS to RSBTDA BUS TERMINAL HEERAPURA",
+      "rkm": "41.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "391",
+      "route_orgno": "32",
+      "route_name": "RSBTDA BUS TERMINAL HEERAPURA to VINAYAK CAMPUS",
+      "rkm": "41.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "429",
+      "route_orgno": "34",
+      "route_name": "JAISINGHPURA THANA to ANANDAM MANGLAM",
+      "rkm": "29.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "428",
+      "route_orgno": "34",
+      "route_name": "ANANDAM MANGLAM to JAISINGHPURA THANA",
+      "rkm": "29.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "337",
+      "route_orgno": "AC1",
+      "route_name": "KUKAS TO SANGANER",
+      "rkm": "32.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "340",
+      "route_orgno": "AC1",
+      "route_name": "SANGANER TO KUKAS",
+      "rkm": "32.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "342",
+      "route_orgno": "AC2",
+      "route_name": "GOBINDPURA TO MGH",
+      "rkm": "35.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "346",
+      "route_orgno": "AC2",
+      "route_name": "MGH TO GOBINDPURA",
+      "rkm": "35.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "409",
+      "route_orgno": "AC7",
+      "route_name": "DANTLI PHATAK to JOSHI MARG",
+      "rkm": "30.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "410",
+      "route_orgno": "AC7",
+      "route_name": "JOSHI MARG to DANTLI PHATAK",
+      "rkm": "30.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "198",
+      "route_orgno": "AC8",
+      "route_name": "CHOTI CHOPAR to MUNDIYARAMSAR",
+      "rkm": "23.00",
+      "routetype": "City"
+    },
+    {
+      "route_id": "199",
+      "route_orgno": "AC8",
+      "route_name": "MUNDIYARAMSAR to CHOTI CHOPAR",
+      "rkm": "23.00",
+      "routetype": "City"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "JOSHI MARG",
+        "stop_code": "JIG",
+        "latitude": "26.945280",
+        "longitude": "75.736771",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JHOTWARA KANTA",
+        "stop_code": "JWK",
+        "latitude": "26.944354",
+        "longitude": "75.743610",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BORING",
+        "stop_code": "BIG",
+        "latitude": "26.943758",
+        "longitude": "75.746715",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LATA CIRCLE",
+        "stop_code": "LCE",
+        "latitude": "26.94278",
+        "longitude": "75.76263",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94",
+        "longitude": "75.77485",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.93986",
+        "longitude": "75.77744",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.93934",
+        "longitude": "75.78596",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHINKARA",
+        "stop_code": "CHINK",
+        "latitude": "26.93263",
+        "longitude": "75.78492",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAILWAY STATION",
+        "stop_code": "RAILW",
+        "latitude": "26.92009",
+        "longitude": "75.78929",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SINDHI CAMP",
+        "stop_code": "SCAMP",
+        "latitude": "26.92298",
+        "longitude": "75.80186",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GPO",
+        "stop_code": "GPO",
+        "latitude": "26.91676",
+        "longitude": "75.80072",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCH BATI",
+        "stop_code": "PHI",
+        "latitude": "26.91379",
+        "longitude": "75.8088",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.91451",
+        "longitude": "75.81681",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.9117",
+        "longitude": "75.81634",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.90691",
+        "longitude": "75.81507",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.89894",
+        "longitude": "75.81179",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.896461",
+        "longitude": "75.809931",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.89156",
+        "longitude": "75.80592",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.88686",
+        "longitude": "75.80242",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI CIRCLE",
+        "stop_code": "GRCLE",
+        "latitude": "26.884941",
+        "longitude": "75.811510",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RTO",
+        "stop_code": "RTO",
+        "latitude": "26.87557",
+        "longitude": "75.82054",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAIJI KI KOTHI",
+        "stop_code": "BOTHI",
+        "latitude": "26.86792",
+        "longitude": "75.82261",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KV3",
+        "stop_code": "KV3",
+        "latitude": "26.865841",
+        "longitude": "75.822798",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "APEX CIRCLE",
+        "stop_code": "ARCLE",
+        "latitude": "26.85844",
+        "longitude": "75.82383",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MODAL TOWN",
+        "stop_code": "MTOWN",
+        "latitude": "26.84511",
+        "longitude": "75.82926",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAGATPURA PHATAK",
+        "stop_code": "JHATA",
+        "latitude": "26.83598",
+        "longitude": "75.83541",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CBI PHATAK",
+        "stop_code": "CBIPH",
+        "latitude": "26.83536",
+        "longitude": "75.85032",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KUNDAN PURA",
+        "stop_code": "KUNDA",
+        "latitude": "26.83598",
+        "longitude": "75.86772",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SEC-3 JAGATPURA",
+        "stop_code": "S03",
+        "latitude": "26.836122",
+        "longitude": "75.873758",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SECTOR.4",
+        "stop_code": "SEC4",
+        "latitude": "26.836239",
+        "longitude": "75.876778",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SEC-5 JAGATPURA",
+        "stop_code": "S05",
+        "latitude": "26.836656",
+        "longitude": "75.885030",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHATIPURA RAILWAY STATION",
+        "stop_code": "KRS",
+        "latitude": "26.836833",
+        "longitude": "75.892408",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DANTLI PHATAK",
+        "stop_code": "DANTL",
+        "latitude": "26.8204",
+        "longitude": "75.901444",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

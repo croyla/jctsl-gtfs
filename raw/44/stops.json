@@ -1,0 +1,280 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "BASSI  ",
+        "stop_code": "BSI",
+        "latitude": "26.846227",
+        "longitude": "76.051351",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BASSI CHAK",
+        "stop_code": "BIK",
+        "latitude": "26.856834",
+        "longitude": "76.053379",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BANADA MOD",
+        "stop_code": "BAD",
+        "latitude": "26.856099",
+        "longitude": "76.020728",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHEDI",
+        "stop_code": "KEI",
+        "latitude": "26.854937",
+        "longitude": "76.009638",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHOKHAWLA",
+        "stop_code": "KHA",
+        "latitude": "26.856572",
+        "longitude": "76.003336",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "DAYARAMPURA",
+        "stop_code": "DMA",
+        "latitude": "26.862423",
+        "longitude": "75.98141",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KANOTA",
+        "stop_code": "KOA",
+        "latitude": "26.874234",
+        "longitude": "75.949207",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAGARANA",
+        "stop_code": "BRA",
+        "latitude": "26.877643",
+        "longitude": "75.929554",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHUNGI NAKA",
+        "stop_code": "CIN",
+        "latitude": "26.88171",
+        "longitude": "75.910164",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAWDI",
+        "stop_code": "BWI",
+        "latitude": "26.883767",
+        "longitude": "75.900278",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BALTI FACTOR",
+        "stop_code": "BALTI",
+        "latitude": "26.886096",
+        "longitude": "75.891769",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PREM NAGAR",
+        "stop_code": "PMN",
+        "latitude": "26.888099",
+        "longitude": "75.88418",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MURGI KHANA",
+        "stop_code": "MIK",
+        "latitude": "26.888959",
+        "longitude": "75.880767",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHANIYA",
+        "stop_code": "KNY",
+        "latitude": "26.889698",
+        "longitude": "75.877688",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRANSPORT NGR",
+        "stop_code": "TRANS",
+        "latitude": "26.903624",
+        "longitude": "75.843814",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GHAT GATE",
+        "stop_code": "GTG",
+        "latitude": "26.913433",
+        "longitude": "75.832599",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANERI GATE",
+        "stop_code": "SGG",
+        "latitude": "26.915286",
+        "longitude": "75.823523",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.914996",
+        "longitude": "75.816878",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.911455",
+        "longitude": "75.815999",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.907558",
+        "longitude": "75.815311",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.89894",
+        "longitude": "75.81179",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.896342",
+        "longitude": "75.810047",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HIGH COURT",
+        "stop_code": "HIGHC",
+        "latitude": "26.898923",
+        "longitude": "75.799631",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "22 GODAM",
+        "stop_code": "22G",
+        "latitude": "26.902563",
+        "longitude": "75.786359",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SODALA",
+        "stop_code": "SAL",
+        "latitude": "26.901484",
+        "longitude": "75.772007",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PURANI CHUNGI",
+        "stop_code": "PIC",
+        "latitude": "26.898509",
+        "longitude": "75.759094",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI PATH",
+        "stop_code": "GIT",
+        "latitude": "26.905118",
+        "longitude": "75.745831",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMARPALI CIRCLE",
+        "stop_code": "AMARP",
+        "latitude": "26.911019",
+        "longitude": "75.743624",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAJRI MANDI PULIYA",
+        "stop_code": "BMIYA",
+        "latitude": "26.91513",
+        "longitude": "75.7295",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VAISHALI CIRCLE",
+        "stop_code": "TEGOR",
+        "latitude": "26.920368",
+        "longitude": "75.736716",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHATIPURA",
+        "stop_code": "KTPA",
+        "latitude": "26.92358",
+        "longitude": "75.745263",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JASWANT NAGAR",
+        "stop_code": "JTN",
+        "latitude": "26.930579",
+        "longitude": "75.75052",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JHOTWARA",
+        "stop_code": "JTA",
+        "latitude": "26.936642",
+        "longitude": "75.756669",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.94049",
+        "longitude": "75.772121",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

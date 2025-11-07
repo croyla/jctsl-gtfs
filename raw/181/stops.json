@@ -1,0 +1,160 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "RAMGARH",
+        "stop_code": "RAMGA",
+        "latitude": "27.01852",
+        "longitude": "76.01414",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "G D MODE",
+        "stop_code": "GDMOD",
+        "latitude": "27.01746",
+        "longitude": "76.00249",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NAYABAS",
+        "stop_code": "NAYAB",
+        "latitude": "27.01547",
+        "longitude": "75.99048",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAALI",
+        "stop_code": "LALI",
+        "latitude": "27.0022",
+        "longitude": "75.97896",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA WALA",
+        "stop_code": "HWALA",
+        "latitude": "27.00009",
+        "longitude": "75.97644",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHAINPURA",
+        "stop_code": "CHAIN",
+        "latitude": "26.98835",
+        "longitude": "75.95743",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAIPURA",
+        "stop_code": "SAIPR",
+        "latitude": "26.98746",
+        "longitude": "75.94899",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATWARA",
+        "stop_code": "HATWA",
+        "latitude": "26.97215",
+        "longitude": "75.91484",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHAMUNDA MATA",
+        "stop_code": "CHAMU",
+        "latitude": "26.97003",
+        "longitude": "75.90739",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NAI KI TADI",
+        "stop_code": "NAIKT",
+        "latitude": "26.96778",
+        "longitude": "75.89564",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LALWAS",
+        "stop_code": "LALW",
+        "latitude": "26.9668",
+        "longitude": "75.88212",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SADWA",
+        "stop_code": "SADWA",
+        "latitude": "26.96247",
+        "longitude": "75.87062",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JAISINGHPHURA MOD",
+        "stop_code": "JAISI",
+        "latitude": "26.95089",
+        "longitude": "75.86181",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHUNGI NAKA",
+        "stop_code": "CIN",
+        "latitude": "26.94611",
+        "longitude": "75.84991",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMGARH MODE",
+        "stop_code": "BIR",
+        "latitude": "26.94609",
+        "longitude": "75.84491",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVIND NAGAR",
+        "stop_code": "GANAR",
+        "latitude": "26.94329",
+        "longitude": "75.83942",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JORAWER SINGH GATE",
+        "stop_code": "JSATE",
+        "latitude": "26.93551",
+        "longitude": "75.83361",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SUBHASH CHOWK",
+        "stop_code": "SHOWK",
+        "latitude": "26.92923",
+        "longitude": "75.83179",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADI CHOPAR",
+        "stop_code": "BOPAR",
+        "latitude": "26.9242",
+        "longitude": "75.82725",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

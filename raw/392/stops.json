@@ -1,0 +1,328 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "VINAYAK CAMPUS",
+        "stop_code": "VINAY",
+        "latitude": "26.918087",
+        "longitude": "75.986826",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NAYALA",
+        "stop_code": "NAYAL",
+        "latitude": "26.92112",
+        "longitude": "75.97487",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GILA WALA",
+        "stop_code": "GWALA",
+        "latitude": "26.91444",
+        "longitude": "75.9683",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HEERA WALA",
+        "stop_code": "HWALA",
+        "latitude": "26.898811",
+        "longitude": "75.960513",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RICCO KANTA",
+        "stop_code": "RANTA",
+        "latitude": "26.884077",
+        "longitude": "75.953155",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KANOTA",
+        "stop_code": "KOA",
+        "latitude": "26.87458",
+        "longitude": "75.94918",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAGARANA",
+        "stop_code": "BRA",
+        "latitude": "26.87789",
+        "longitude": "75.92928",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHUNGI NAKA",
+        "stop_code": "CIN",
+        "latitude": "26.8817512",
+        "longitude": "75.9099777",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BAWDI",
+        "stop_code": "BWI",
+        "latitude": "26.88345",
+        "longitude": "75.90195",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHARMA BHOJNALAYA",
+        "stop_code": "SHARM",
+        "latitude": "26.892782",
+        "longitude": "75.867871",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NEELKANTH PARADISE",
+        "stop_code": "NEELK",
+        "latitude": "26.889715",
+        "longitude": "75.877607",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PREM NAGAR",
+        "stop_code": "PMN",
+        "latitude": "26.88871",
+        "longitude": "75.88224",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MURGI KHANA",
+        "stop_code": "MIK",
+        "latitude": "26.88896",
+        "longitude": "75.88028",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KHANIYA",
+        "stop_code": "KNY",
+        "latitude": "26.9126",
+        "longitude": "75.8351",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRANSPORT NGR",
+        "stop_code": "TRANS",
+        "latitude": "26.90441",
+        "longitude": "75.84469",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GHAT GATE",
+        "stop_code": "GTG",
+        "latitude": "26.91339",
+        "longitude": "75.83332",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SANGANERI GATE",
+        "stop_code": "SGG",
+        "latitude": "26.91548",
+        "longitude": "75.82349",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AJMERI GATE",
+        "stop_code": "AJG",
+        "latitude": "26.91673",
+        "longitude": "75.81733",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAHARANI COLLAGE",
+        "stop_code": "MLAGE",
+        "latitude": "26.91172",
+        "longitude": "75.81604",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SMS HOSPITAL",
+        "stop_code": "RBH",
+        "latitude": "26.90722",
+        "longitude": "75.8151",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAYAN SINGH CIRCLE",
+        "stop_code": "NSCIR",
+        "latitude": "26.89895",
+        "longitude": "75.81179",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMBAGH CIRCLE",
+        "stop_code": "RBC",
+        "latitude": "26.895201",
+        "longitude": "75.808903",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "LAL KOTHI",
+        "stop_code": "TKP",
+        "latitude": "26.89116",
+        "longitude": "75.80554",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANDHI NAGAR MOD",
+        "stop_code": "GNMOD",
+        "latitude": "26.88687",
+        "longitude": "75.80242",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SABJI MANDI",
+        "stop_code": "SBM",
+        "latitude": "26.87931",
+        "longitude": "75.79876",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TONK PHATAK",
+        "stop_code": "GLA",
+        "latitude": "26.87931",
+        "longitude": "75.79897",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SAYEED KA GATTA",
+        "stop_code": "SKGAT",
+        "latitude": "26.87552",
+        "longitude": "75.79635",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOPAL PURA MOD",
+        "stop_code": "GPMOD",
+        "latitude": "26.86587",
+        "longitude": "75.79633",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "TRIVENI NAGAR",
+        "stop_code": "TNAGA",
+        "latitude": "26.86841",
+        "longitude": "75.8404",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RIDHI SIDHI",
+        "stop_code": "RIDHI",
+        "latitude": "26.8725",
+        "longitude": "75.77689",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SURYA NGR",
+        "stop_code": "SURYA",
+        "latitude": "26.8736",
+        "longitude": "75.77695",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GURJAR KI THADI",
+        "stop_code": "GURJA",
+        "latitude": "26.8803",
+        "longitude": "75.76721",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GANGA JAMUNA",
+        "stop_code": "GANGA",
+        "latitude": "26.8794",
+        "longitude": "75.76152",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MANSAROWER METRO ",
+        "stop_code": "MMETR",
+        "latitude": "26.87951",
+        "longitude": "75.75008",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BADARWAS",
+        "stop_code": "BADAR",
+        "latitude": "26.8756",
+        "longitude": "75.72307",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "VARDHMAN NAGAR ",
+        "stop_code": "VAGAR",
+        "latitude": "26.87554",
+        "longitude": "75.7259",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GAJSINGHPURA MOD",
+        "stop_code": "GAMOD",
+        "latitude": "26.87574",
+        "longitude": "75.72585",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "NARAIN VIHAR",
+        "stop_code": "NVHAR",
+        "latitude": "26.87372",
+        "longitude": "75.72227",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KAMLA NEHRU NAGAR",
+        "stop_code": "KNR",
+        "latitude": "26.87776",
+        "longitude": "75.71733",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RSBTDA BUS TERMINAL HEERAPURA",
+        "stop_code": "RBTH",
+        "latitude": "26.87642",
+        "longitude": "75.71175",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}

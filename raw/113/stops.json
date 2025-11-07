@@ -1,0 +1,232 @@
+{
+  "respCode": "200",
+  "respMessage": "Success",
+  "respData": {
+    "route": [
+      {
+        "stop_name": "CHANDPOLE",
+        "stop_code": "CDE",
+        "latitude": "26.927733",
+        "longitude": "75.805638",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MAYANK ",
+        "stop_code": "MYANK",
+        "latitude": "26.929042",
+        "longitude": "75.803584",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "POWER HOUSE",
+        "stop_code": "PRH",
+        "latitude": "26.930244",
+        "longitude": "75.801878",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PITAL FACTORY",
+        "stop_code": "PTORY",
+        "latitude": "26.932858",
+        "longitude": "75.797444",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "T.B.HOSPITAL",
+        "stop_code": "TBHOS",
+        "latitude": "26.935528",
+        "longitude": "75.792582",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANI PACH",
+        "stop_code": "PPACH",
+        "latitude": "26.938556",
+        "longitude": "75.787856",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "AMBA BARI",
+        "stop_code": "26",
+        "latitude": "26.939772",
+        "longitude": "75.777423",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHOMU PULIYA",
+        "stop_code": "CUA",
+        "latitude": "26.939958",
+        "longitude": "75.774739",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JHOTWARA CIRCLE",
+        "stop_code": "JHOTW",
+        "latitude": "26.941645",
+        "longitude": "75.767853",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "PANCHAYAT SAMITI",
+        "stop_code": "PMITI",
+        "latitude": "26.941654",
+        "longitude": "75.767835",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MEDICIAL CENTRE",
+        "stop_code": "MEDIC",
+        "latitude": "26.943307",
+        "longitude": "75.74879",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BORING ROAD",
+        "stop_code": "BORIN",
+        "latitude": "26.943705",
+        "longitude": "75.746613",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KANTA",
+        "stop_code": "KANTA",
+        "latitude": "26.94435",
+        "longitude": "75.743569",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "JOSHI MARG",
+        "stop_code": "JIG",
+        "latitude": "26.945018",
+        "longitude": "75.73715",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "SHEKHAWAT MARG",
+        "stop_code": "SHEKH",
+        "latitude": "26.94692",
+        "longitude": "75.725265",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAVAN GATE",
+        "stop_code": "RNG",
+        "latitude": "26.94769",
+        "longitude": "75.721729",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KARDHANI 9 DUKAN",
+        "stop_code": "KARDH",
+        "latitude": "26.949728",
+        "longitude": "75.710706",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVINDAM TOWER",
+        "stop_code": "GOVIN",
+        "latitude": "26.950777",
+        "longitude": "75.705156",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "GOVINDPURA (24)",
+        "stop_code": "GDA",
+        "latitude": "26.951516",
+        "longitude": "75.701886",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MANGLAM CITY",
+        "stop_code": "MANG",
+        "latitude": "26.954497",
+        "longitude": "75.69458",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "HATOJ",
+        "stop_code": "HATOJ",
+        "latitude": "26.956601",
+        "longitude": "75.680056",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "ROYAL CITY",
+        "stop_code": "ROYAL",
+        "latitude": "26.958657",
+        "longitude": "75.671977",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "MACHWA",
+        "stop_code": "MACHW",
+        "latitude": "26.966063",
+        "longitude": "75.657931",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "RAMKUTIYA",
+        "stop_code": "RAMKU",
+        "latitude": "26.969922",
+        "longitude": "75.64752",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "CHAMPURA",
+        "stop_code": "CHAMP",
+        "latitude": "26.97304",
+        "longitude": "75.63401",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "BHAMBORI",
+        "stop_code": "BHAMB",
+        "latitude": "26.976118",
+        "longitude": "75.619355",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KALWAD MOD",
+        "stop_code": "KALWA",
+        "latitude": "26.98641",
+        "longitude": "75.58638",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      },
+      {
+        "stop_name": "KALWAR",
+        "stop_code": "KAL",
+        "latitude": "26.989754",
+        "longitude": "75.583925",
+        "upcomingbuses": [],
+        "isstoppass": "0"
+      }
+    ]
+  }
+}
